@@ -1,0 +1,124 @@
+code	example	definition	lemma	my_dist	freq
+hoopvol_1	een hoopvolle stemming, dat stemt mij hoopvol	(van personen, uitingen, gedragingen etc.) blijk gevend van hoop, vol hoop, optimistisch	hoopvol	0.62	25
+hoopvol_2	hoopvolle perspectieven	reden tot hoop gevend, beloftevol	hoopvol	0.3	12
+geestig_1	een geestige collega	scherpzinnig en humoristisch van aard	geestig	0.16	6
+geestig_2	een geestig boek, een geestige blik, een geestige opmerking	blijk gevend van, uitdrukking gevend aan, gekenmerkt door scherpzinnigheid en humor	geestig	0.8	32
+hachelijk_1	een hachelijke onderneming	met kans op een ongunstige afloop, (potentieel) gevaarlijk	hachelijk	0.58	23
+hachelijk_2	een hachelijke situatie 	(reëel) gevaarlijk, netelig, kritiek, benard	hachelijk	0.4	16
+hoekig_1	een hoekige tekening, een hoekig gezicht	(van voorwerpen, figuren e.d.) met hoeken of scherpe kanten	hoekig	0.48	19
+hoekig_2	een hoekig melodietje	(van bewegingen, ritmes e.d.) niet vloeiend	hoekig	0.28	11
+hoekig_3	een hoekig karakter	(van personen) houterig, stijf, onhandig in de omgang	hoekig	0.12	5
+dof_1	een doffe blik	(van kleuren en zichtbare dingen) mat, zonder glans, vaal	dof	0.3	12
+dof_2	een doffe kreet	(van geluiden) niet luid of scherp, onderdrukt, gesmoord	dof	0.3	12
+dof_3	doffe onverschilligheid, doffe ellende	(van personen, gevoelens e.d.) niet opgewekt, lusteloos, zonder energie	dof	0.2	8
+dof_4	een doffe herinnering	(van denkbeelden e.d.) niet scherp voor de geest staand	dof	0.04	2
+heilzaam_1	een heilzaam dieet	(letterlijk) bijdragend tot gezondheid en lichamelijk welzijn	heilzaam	0.56	22
+heilzaam_2	een heilzaam besluit	(figuurlijk) nuttig, een gunstig effect hebbend	heilzaam	0.3	12
+gekleurd_1	gekleurde wangen	met kleur, in letterlijke zin (in het bijzonder, niet zwart, wit of grijs)	gekleurd	0.65	26
+gekleurd_2	de gekleurde medemens, van gekleurde afkomst zijn	(van personen e.a.) niet blank	gekleurd	0.18	7
+gekleurd_3	een gekleurde voorstelling van zaken	(van uitspraken, opvattingen e.d.) niet neutraal, tendentieus	gekleurd	0.12	5
+geldig_1	een geldig vervoerbewijs, betaalmiddel, juridisch bewijs	van kracht, van toepassing, van waarde zijnde volgens wettelijke of andere regels	geldig	0.8	32
+geldig_2	een geldige redenering	van kracht, van toepassing, van waarde in ruimere zin	geldig	0.2	8
+hemels_1	de hemelse Vader, de hemelse boodschap	betrekking hebbend op de hemel	hemels	0.3	12
+hemels_2	een hemelse verschijning, een hemelse stem	verrukkelijk, heerlijk, zalig, goddelijk	hemels	0.6	24
+goedkoop_1	goedkope wijn	laag in prijs, betaalbaar, voordelig	goedkoop	0.55	22
+goedkoop_2	een goedkoop winkeltje, een goedkope loodgieter 	geen hoge prijzen vragend	goedkoop	0.18	7
+goedkoop_3	een goedkope buurt	waar de prijzen laag zijn	goedkoop	0.02	1
+goedkoop_4	goedkope lof, goedkoop succes, goedkope argumenten	van weinig waarde, makkelijk verkregen, oppervlakkig, banaal	goedkoop	0.1	4
+heet_1	een gloeiend hete kachel	(van dingen) zeer warm	heet	0.5	20
+heet_2	hete wangen, het heet hebben	(van het lichaam) warm aanvoelend, een hogere temperatuur dan normaal hebbend	heet	0	0
+heet_3	hete dagen, hete zomer	(van het weer) zeer warm	heet	0.2	8
+heet_4	hete sauzen	(van voedsel) pikant	heet	0.02	1
+heet_5	een hete bok	(van personen) sexueel hartstochtelijk, geil	heet	0	0
+heet_6	het ging er heet aan toe, een hete herfst	(van gebeurtenissen, periodes e.d.) gekenmerkt door heftige strijd	heet	0.08	3
+grijs_1	grijs van het stof, de grijze dolfijn	"met een kleur die ligt tussen wit en zwart; vaalwit, grauw"	grijs	0.5	20
+grijs_2	een grijze dag	(van periodes e.d.) zonder veel zonneschijn, bewolkt, betrokken	grijs	0.11	4
+grijs_3	een grijs baardje	(van haar) zijn kleur verloren hebbend, m.n. door gevorderde leeftijd	grijs	0	0
+grijs_4	de grijze golf	(van personen e.a.) grijsharig, en vandaar, betrekking hebbend op ouderen	grijs	0.02	1
+grijs_5	een grijze buurt	saai, kleurloos, vervelend	grijs	0.1	4
+grijs_6	de grijze economie	niet helemaal volgens de wet of de regels, halflegaal	grijs	0.12	5
+gemeen_1	gemene kosten, een gemene muur	gemeenschappelijk in gebruik of bezit, gedeeld	gemeen	0.36	14
+gemeen_2	de gemene zaak	openbaar, publiek	gemeen	0.04	2
+gemeen_3	het gemene volk, de gemene man	alledaags, gewoon, tot de middelmaat behorend	gemeen	0	0
+gemeen_4	een gemene streek	boosaardig, kwaadaardig, laaghartig, malicieus	gemeen	0.52	20
+gemeen_5	gemene praatjes	ordinair, plat, onkies, vulgair	gemeen	0	0
+blik_1	een blik werpen op iets, een blik van verstandhouding	1.1 oogopslag 	blik	0.24	10
+blik_2	een scherpe blik	1.2 gezichtsvermogen	blik	0.3	12
+blik_3	een brede blik	1.3 inzicht, in intellectuele zin	blik	0.28	11
+blik_4	dozen uit blik	2.1 dun geplet metaal, i.h. bijz. vertind dun plaatstaal	blik	0.16	6
+blik_5	stoffer en blik, een blik erwtjes, een maaltijd uit blik	2.2 voorwerp (i.h.bijz. doos voor voedsel) vervaardigd uit zulk materiaal	blik	0	0
+blik_6	eet je niet teveel blik?	2.3 voedsel bewaard in een voorwerp als bedoeld in 2.2	blik	0	0
+hoop_1	een hoop rommel, gooi maar op de hoop	1.1 ongeordende stapel	hoop	0.02	1
+hoop_2	een hoop mensen, een hele hoop geld	1.2 grote hoeveelheid	hoop	0.26	10
+hoop_3	hoop koesteren, de hoop uitspreken dat...	2 positieve verwachting, vertrouwen op iets positiefs	hoop	0.69	29
+spot_1	de spot drijven met, bijtende spot	1 oneerbiedige, ridiculiserende uitspraak of behandeling	spot	0.36	15
+spot_2	een spotje voor tandpasta	2.1 reclameboodschap via radio, televisie, bioscoop	spot	0.22	9
+spot_3	de spots richten op	2.2 schijnwerper	spot	0.18	7
+staal_1	twaalf ton staal, ijzer en staal, een man van staal	1.1 zeer hard ijzer met laag koolstofgehalte	staal	0.52	21
+staal_2	het staal van de velgen is verroest	1.2 voorwerp of deel van een voorwerp uit zulk metaal	staal	0.08	3
+staal_3	een staal vragen, goederen op staal verkopen 	2.1 monster van een stof of materiaal, bij wijze van proef	staal	0.24	10
+staal_4	een staaltje van hun kunnen, een staaltje van bewaamheid	2.2 proef, voorbeeld, bewijs	staal	0	0
+stof_1	giftige stoffen, vaste stof, grijze stof	1.1 materie, substantie van een bepaald type	stof	0.38	15
+stof_2	wollen en katoenen stoffen	1.2 weefsel	stof	0.28	11
+stof_3	stof voor een roman, stof tot onenigheid	1.3 onderwerp waarover men spreekt, schrijft, nadenkt etc.	stof	0.1	4
+stof_4	een wolk stof, stof afnemen	2.1 massa zeer kleine droge deeltjes van verschillende oorsprong, door de lucht meegevoerd	stof	0.26	10
+stof_5	iets tot stof vermalen, tot stof verpulveren	2.2 massa zeer kleine deeltjes als toestand van een specifieke substantie	stof	0	0
+horde_1	een woeste horde	1 bende, ordeloze groep personen	horde	0.64	26
+horde_2	de 400m horden bij de vrouwen	2.1 materiële hindernis, m.n. houten raamwerk gebruikt bij het hordelopen	horde	0.12	5
+horde_3	een horde nemen	2.2 hindernis in figuurlijke zin	horde	0.2	8
+schaal_1	de schaal van Celsius, Richter, op een schaal van 1 tot 5	1.1 een geordende reeks cijfers, afstanden, hoeveelheden e.d. waarmee iets gemeten wordt	schaal	0	0
+schaal_2	een schaal van 1:20, een schaal van 10 km	1.2 de verhouding tussen de grootte van iets en de weergave ervan in een kaart, model, grafiek etc.	schaal	0.14	6
+schaal_3	de schaal van een probleem, op grote/kleine schaal	1.3 grootteorde, omvang	schaal	0.6	24
+schaal_4	de schaal van een ei, de schalen van een mossel	2.1 harde buitenbekleding van zekere organische zaken	schaal	0	0
+schaal_5	een schaal met vruchten	2.2 ondiepe en wijde schotel 	schaal	0.1	4
+schaal_6	gewicht in de schaal leggen	2.3 elk van de beide schotels die aan de armen van een balans hangen	schaal	0	0
+spoor_1	het spoor van een fiets op een zandweg, een spoor van vernieling	1.1 afdruk door iets of iemand op z'n weg achtergelaten	spoor	0.08	3
+spoor_2	naar sporen zoeken, iemand op het spoor komen	1.2 blijk van aanwezigheid door iets of iemand (ongewild) achtergelaten	spoor	0.42	17
+spoor_3	sporen van lood in het leidingwater	1.3 kleine hoeveelheid	spoor	0.25	10
+spoor_4	het juiste spoor	1.4. te volgen of gevolgde weg in figuurlijke zin	spoor	0	0
+spoor_5	niet op het spoor lopen!	2.1 weg met twee rijen metalen staven waarover treinen e.d. rijden	spoor	0.08	3
+spoor_6	met het spoor reizen	2.2 de trein als vervoermiddel	spoor	0.02	1
+spoor_7	bij het spoor werken, het spoor staakt	2.3 spoorwegbedrijf	spoor	0.04	2
+spoor_8	zijn sporen verdienen	3 metalen punt of wieltje aan de hiel van een rijlaars, gebruikt om het rijdier te prikkelen	spoor	0.08	3
+herstellen_1	het dak herstellen	(trans.) repareren, de eraan ontstane schade wegwerken	herstellen	0.28	11
+herstellen_2	de goede verstandhouding herstellen	(trans.) tot de vorige toestand terugbrengen, doen terugkeren	herstellen	0.1	4
+herstellen_3	een fout herstellen	(trans.) goedmaken, weer doen vergeten	herstellen	0	0
+herstellen_4	de rust herstelt zich	(reflex.) tot de oorspronkelijke toestand terugkeren	herstellen	0.25	10
+herstellen_5	van een ziekte herstellen	(intrans.) genezen	herstellen	0.34	14
+harden_1	staal harden	(trans.) hard maken, in letterlijke zin	harden	0.06	2
+harden_2	snel hardende verven	(intrans.) hard worden, in letterlijke zin	harden	0	0
+harden_3	een kind harden tegen het klimaat	"(trans.) hard maken in figuurlijke zin; weerstand en veerkracht bijbrengen"	harden	0.16	6
+harden_4	zich harden tegen het lot	(reflex.) bij zichzelf weerstand en veerkracht aankweken	harden	0.08	3
+harden_5	niet te harden	(trans.) uithouden, verdragen	harden	0.5	20
+herinneren_1	iemand aan iets herinneren	(met 'aan') weer te binnen brengen, in het geheugen terugroepen	herinneren	0.76	30
+herinneren_2	zich een gebeurtenis, een persoon herinneren	(reflex.) in het geheugen aanwezig hebben, niet vergeten 	herinneren	0.2	8
+herinneren_3	we herinneren vandaag de Slag bij Ronceval	(trans.) met een plechtigheid, monument o.i.d. gedenken 	herinneren	0	0
+herhalen_1	een experiment, een les, een bezoek herhalen	(trans.) m.b.t. handelingen of activiteiten: opnieuw uitvoeren 	herhalen	0.44	18
+herhalen_2	kunt u dat even herhalen?	(trans.) m.b.t. zinnen, boodschappen e.d.: opnieuw uitspreken 	herhalen	0.42	17
+herhalen_3	de geschiedenis herhaalt zich	(reflex.) zich opnieuw voordoen	herhalen	0.08	3
+herstructureren_1	je kunt deze tekst maar beter herstructureren	(trans.) reorganiseren, een nieuwe structuur geven	herstructureren	0.56	22
+herstructureren_2	Bayer herstructureert zijn plasticdivisie	(trans.) m.b.t. bedrijven in problemen: activiteiten of personeel afstoten, downsizen 	herstructureren	0.2	8
+herstructureren_3	de chemie moet zich herstructureren	(intrans.) van bedrijven in problemen: activiteiten of personeel afstoten, downsizen	herstructureren	0.22	9
+herkennen_1	ik herken het, dit heb ik al eerder gezien	(trans.) iets of iem. identificeren als dezelfde als bij een vorige ontmoeting	herkennen	0.46	18
+herkennen_2	ik herken haar handschrift	(trans.) iets identificeren als afkomstig van of behorend bij een specifieke persoon of zaak	herkennen	0.08	3
+herkennen_3	je kunt de specht herkennen aan zijn snavel	(trans.) iets of iem. identificeren als exemplaar van een bepaalde categorie	herkennen	0.36	14
+herkennen_4	ik herken me in hun jeugdige enthousiasme 	(reflex.) zich  inleven in een ander persoon of een gebeurtenis	herkennen	0.08	3
+diskwalificeren_1	een getuige diskwalificeren	(trans.) ongeschikt verklaren en uitsluiten van een bepaalde functie of positie	diskwalificeren	0.4	16
+diskwalificeren_2	FC De Trappers werd gediskwalificeerd wegens wangedrag	(trans.) wegens onregelmatigheden uitsluiten bij een wedstrijd	diskwalificeren	0.35	14
+diskwalificeren_3	met zulk gedrag diskwalificeer je jezelf	(reflex.) zichzelf buiten spel zetten, zich onmogelijk maken	diskwalificeren	0.18	7
+helpen_1	met raad en daad helpen, een helpende hand, uit de nood helpen	(trans.) ondersteunen in materiële of morele zin, bijstaan	helpen	0.3	12
+helpen_2	"helpen met het huiswerk; heb je dat alleen gedaan of heeft iemand je geholpen?"	(trans.) iem. assisteren door met hem samen te werken  	helpen	0.3	12
+helpen_3	dat drankje heeft goed geholpen	(intrans.) voordeel opleveren, nuttig zijn	helpen	0.33	13
+haten_1	waarom haat hij mij zo?	(trans.) iem. haat toedragen, een sterk gevoel van afkeer en vijandschap t.o.v. iem. hebben	haten	0.41	16
+haten_2	hoe zou iemand de taalkunde kunnen haten?	(trans.) iets onaangenaam, verfoeilijk, verwerpelijk vinden	haten	0.5	20
+huldigen_1	we huldigen de uitvinder van de herbruikbare broodzak	(trans.) iets of iem. eer bewijzen, vieren	huldigen	0.69	28
+huldigen_2	een opvatting, mening, theorie huldigen	(trans.) erkennen, aankleven, toegedaan zijn	huldigen	0.31	12
+heffen_1	"met geheven hoofd; hij heft met gemak 80 kilo in de hoogte"	(trans.) m.b.t. materiële zaken: in de hoogte brengen, optillen	heffen	0.37	15
+heffen_2	belasting, rente, accijns heffen	(trans.) m.b.t. geld e.d.: invorderen, eisen, opleggen	heffen	0.59	24
+herroepen_1	een besluit, volmacht, decreet herroepen	(trans.) m.b.t. wetten, besluiten e.d.: intrekken, niet langer geldig verklaren	herroepen	0.2	8
+herroepen_2	Trump moest weer een van zijn dwaze tweets herroepen	(trans.) m.b.t. uitspraken, meningen e.d.: terugnemen en rechtzetten	herroepen	0.64	26
+haken_1	een wagen aan een locomotief haken, een sleutel in een ring haken	(trans.) met of als met een haak vastmaken (aan, in, achter iets)	haken	0.28	11
+haken_2	de doornen haakten aan haar jas, haar paraplu bleef haken aan de deurknop 	(intrans.) met of als met een haak vastraken	haken	0.17	7
+haken_3	hij werd gehaakt in de elfmeter, iemand pootje haken	(trans.) over een uitgestoken been doen struikelen	haken	0.17	7
+haken_4	ik bleef haken bij de herinnering aan mijn broer	(intrans., met 'blijven') van gedachten, blikken e.d.: haperen, telkens terugkeren (aan of bij iets)	haken	0.12	5
+haken_5	haken tijdens het televisiekijken, hoe ontspannend!, een babymutsje haken	(intrans./trans.) zeker handwerk maken door met een staafje met een weerhaak lussen samen te weven 	haken	0.03	1
