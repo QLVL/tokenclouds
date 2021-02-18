@@ -1,0 +1,1577 @@
+LEMMAPATH	LEMMAREL	_model	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
+		haten.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	310	lex	10_10	1	weight	5000	5000	nav	4_4	210	haten
+		haten.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	310	lex	10_10	1	weight	5000	5000	all	4_4	210	haten
+		haten.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	310	lex	10_10	1	weight	FOC	234	nav	4_4	210	haten
+		haten.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	310	lex	10_10	1	weight	FOC	310	all	4_4	210	haten
+		haten.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	310	lex	10_10	1	selection	5000	5000	nav	4_4	210	haten
+		haten.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	310	lex	10_10	1	selection	5000	5000	all	4_4	210	haten
+		haten.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	310	lex	10_10	1	selection	FOC	234	nav	4_4	210	haten
+		haten.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	310	lex	10_10	1	selection	FOC	310	all	4_4	210	haten
+		haten.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	600	lex	10_10	1	no	5000	5000	nav	4_4	216	haten
+		haten.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	600	lex	10_10	1	no	5000	5000	all	4_4	216	haten
+		haten.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	600	lex	10_10	1	no	FOC	458	nav	4_4	216	haten
+		haten.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	600	lex	10_10	1	no	FOC	600	all	4_4	216	haten
+		haten.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	451	all	10_10	1	weight	5000	5000	nav	4_4	228	haten
+		haten.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	451	all	10_10	1	weight	5000	5000	all	4_4	228	haten
+		haten.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	451	all	10_10	1	weight	FOC	234	nav	4_4	228	haten
+		haten.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	451	all	10_10	1	weight	FOC	451	all	4_4	228	haten
+		haten.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	451	all	10_10	1	selection	5000	5000	nav	4_4	228	haten
+		haten.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	451	all	10_10	1	selection	5000	5000	all	4_4	228	haten
+		haten.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	451	all	10_10	1	selection	FOC	234	nav	4_4	228	haten
+		haten.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	451	all	10_10	1	selection	FOC	451	all	4_4	228	haten
+		haten.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	841	all	10_10	1	no	5000	5000	nav	4_4	229	haten
+		haten.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	841	all	10_10	1	no	5000	5000	all	4_4	229	haten
+		haten.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	841	all	10_10	1	no	FOC	458	nav	4_4	229	haten
+		haten.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	841	all	10_10	1	no	FOC	841	all	4_4	229	haten
+		haten.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	245	lex	5_5	1	weight	5000	5000	nav	4_4	197	haten
+		haten.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	245	lex	5_5	1	weight	5000	5000	all	4_4	197	haten
+		haten.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	245	lex	5_5	1	weight	FOC	180	nav	4_4	197	haten
+		haten.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	245	lex	5_5	1	weight	FOC	245	all	4_4	197	haten
+		haten.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	245	lex	5_5	1	selection	5000	5000	nav	4_4	197	haten
+		haten.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	245	lex	5_5	1	selection	5000	5000	all	4_4	197	haten
+		haten.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	245	lex	5_5	1	selection	FOC	180	nav	4_4	197	haten
+		haten.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	245	lex	5_5	1	selection	FOC	245	all	4_4	197	haten
+		haten.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	374	lex	5_5	1	no	5000	5000	nav	4_4	211	haten
+		haten.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	374	lex	5_5	1	no	5000	5000	all	4_4	211	haten
+		haten.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	374	lex	5_5	1	no	FOC	282	nav	4_4	211	haten
+		haten.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	374	lex	5_5	1	no	FOC	374	all	4_4	211	haten
+		haten.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	368	all	5_5	1	weight	5000	5000	nav	4_4	228	haten
+		haten.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	368	all	5_5	1	weight	5000	5000	all	4_4	228	haten
+		haten.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	368	all	5_5	1	weight	FOC	180	nav	4_4	228	haten
+		haten.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	368	all	5_5	1	weight	FOC	368	all	4_4	228	haten
+		haten.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	368	all	5_5	1	selection	5000	5000	nav	4_4	228	haten
+		haten.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	368	all	5_5	1	selection	5000	5000	all	4_4	228	haten
+		haten.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	368	all	5_5	1	selection	FOC	180	nav	4_4	228	haten
+		haten.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	368	all	5_5	1	selection	FOC	368	all	4_4	228	haten
+		haten.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	548	all	5_5	1	no	5000	5000	nav	4_4	229	haten
+		haten.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	548	all	5_5	1	no	5000	5000	all	4_4	229	haten
+		haten.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	548	all	5_5	1	no	FOC	282	nav	4_4	229	haten
+		haten.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	548	all	5_5	1	no	FOC	548	all	4_4	229	haten
+		haten.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	188	lex	3_3	1	weight	5000	5000	nav	4_4	172	haten
+		haten.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	188	lex	3_3	1	weight	5000	5000	all	4_4	172	haten
+		haten.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	188	lex	3_3	1	weight	FOC	142	nav	4_4	172	haten
+		haten.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	188	lex	3_3	1	weight	FOC	188	all	4_4	172	haten
+		haten.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	188	lex	3_3	1	selection	5000	5000	nav	4_4	172	haten
+		haten.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	188	lex	3_3	1	selection	5000	5000	all	4_4	172	haten
+		haten.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	188	lex	3_3	1	selection	FOC	142	nav	4_4	172	haten
+		haten.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	188	lex	3_3	1	selection	FOC	188	all	4_4	172	haten
+		haten.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	254	lex	3_3	1	no	5000	5000	nav	4_4	196	haten
+		haten.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	254	lex	3_3	1	no	5000	5000	all	4_4	196	haten
+		haten.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	254	lex	3_3	1	no	FOC	195	nav	4_4	196	haten
+		haten.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	254	lex	3_3	1	no	FOC	254	all	4_4	196	haten
+		haten.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	288	all	3_3	1	weight	5000	5000	nav	4_4	227	haten
+		haten.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	288	all	3_3	1	weight	5000	5000	all	4_4	227	haten
+		haten.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	288	all	3_3	1	weight	FOC	142	nav	4_4	227	haten
+		haten.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	288	all	3_3	1	weight	FOC	288	all	4_4	227	haten
+		haten.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	288	all	3_3	1	selection	5000	5000	nav	4_4	227	haten
+		haten.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	288	all	3_3	1	selection	5000	5000	all	4_4	227	haten
+		haten.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	288	all	3_3	1	selection	FOC	142	nav	4_4	227	haten
+		haten.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	288	all	3_3	1	selection	FOC	288	all	4_4	227	haten
+		haten.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	384	all	3_3	1	no	5000	5000	nav	4_4	229	haten
+		haten.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	384	all	3_3	1	no	5000	5000	all	4_4	229	haten
+		haten.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	384	all	3_3	1	no	FOC	195	nav	4_4	229	haten
+		haten.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	384	all	3_3	1	no	FOC	384	all	4_4	229	haten
+		haten.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	435	lex	10_10	1	weight	5000	5000	nav	4_4	225	haten
+		haten.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	435	lex	10_10	1	weight	5000	5000	all	4_4	225	haten
+		haten.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	435	lex	10_10	1	weight	FOC	325	nav	4_4	225	haten
+		haten.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	435	lex	10_10	1	weight	FOC	435	all	4_4	225	haten
+		haten.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	435	lex	10_10	1	selection	5000	5000	nav	4_4	225	haten
+		haten.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	435	lex	10_10	1	selection	5000	5000	all	4_4	225	haten
+		haten.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	435	lex	10_10	1	selection	FOC	325	nav	4_4	225	haten
+		haten.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	435	lex	10_10	1	selection	FOC	435	all	4_4	225	haten
+		haten.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	950	lex	10_10	1	no	5000	5000	nav	4_4	228	haten
+		haten.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	950	lex	10_10	1	no	5000	5000	all	4_4	228	haten
+		haten.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	950	lex	10_10	1	no	FOC	717	nav	4_4	228	haten
+		haten.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	950	lex	10_10	1	no	FOC	950	all	4_4	228	haten
+		haten.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	618	all	10_10	1	weight	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	618	all	10_10	1	weight	5000	5000	all	4_4	229	haten
+		haten.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	618	all	10_10	1	weight	FOC	325	nav	4_4	229	haten
+		haten.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	618	all	10_10	1	weight	FOC	618	all	4_4	229	haten
+		haten.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	618	all	10_10	1	selection	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	618	all	10_10	1	selection	5000	5000	all	4_4	229	haten
+		haten.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	618	all	10_10	1	selection	FOC	325	nav	4_4	229	haten
+		haten.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	618	all	10_10	1	selection	FOC	618	all	4_4	229	haten
+		haten.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	1305	all	10_10	1	no	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	1305	all	10_10	1	no	5000	5000	all	4_4	229	haten
+		haten.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	1305	all	10_10	1	no	FOC	717	nav	4_4	229	haten
+		haten.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	1305	all	10_10	1	no	FOC	1305	all	4_4	229	haten
+		haten.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	304	lex	5_5	1	weight	5000	5000	nav	4_4	214	haten
+		haten.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	304	lex	5_5	1	weight	5000	5000	all	4_4	214	haten
+		haten.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	304	lex	5_5	1	weight	FOC	219	nav	4_4	214	haten
+		haten.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	304	lex	5_5	1	weight	FOC	304	all	4_4	214	haten
+		haten.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	304	lex	5_5	1	selection	5000	5000	nav	4_4	214	haten
+		haten.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	304	lex	5_5	1	selection	5000	5000	all	4_4	214	haten
+		haten.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	304	lex	5_5	1	selection	FOC	219	nav	4_4	214	haten
+		haten.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	304	lex	5_5	1	selection	FOC	304	all	4_4	214	haten
+		haten.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	485	lex	5_5	1	no	5000	5000	nav	4_4	226	haten
+		haten.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	485	lex	5_5	1	no	5000	5000	all	4_4	226	haten
+		haten.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	485	lex	5_5	1	no	FOC	363	nav	4_4	226	haten
+		haten.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	485	lex	5_5	1	no	FOC	485	all	4_4	226	haten
+		haten.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	446	all	5_5	1	weight	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	446	all	5_5	1	weight	5000	5000	all	4_4	229	haten
+		haten.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	446	all	5_5	1	weight	FOC	219	nav	4_4	229	haten
+		haten.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	446	all	5_5	1	weight	FOC	446	all	4_4	229	haten
+		haten.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	446	all	5_5	1	selection	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	446	all	5_5	1	selection	5000	5000	all	4_4	229	haten
+		haten.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	446	all	5_5	1	selection	FOC	219	nav	4_4	229	haten
+		haten.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	446	all	5_5	1	selection	FOC	446	all	4_4	229	haten
+		haten.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	698	all	5_5	1	no	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	698	all	5_5	1	no	5000	5000	all	4_4	229	haten
+		haten.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	698	all	5_5	1	no	FOC	363	nav	4_4	229	haten
+		haten.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	698	all	5_5	1	no	FOC	698	all	4_4	229	haten
+		haten.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	206	lex	3_3	1	weight	5000	5000	nav	4_4	179	haten
+		haten.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	206	lex	3_3	1	weight	5000	5000	all	4_4	179	haten
+		haten.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	206	lex	3_3	1	weight	FOC	154	nav	4_4	179	haten
+		haten.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	206	lex	3_3	1	weight	FOC	206	all	4_4	179	haten
+		haten.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	206	lex	3_3	1	selection	5000	5000	nav	4_4	179	haten
+		haten.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	206	lex	3_3	1	selection	5000	5000	all	4_4	179	haten
+		haten.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	206	lex	3_3	1	selection	FOC	154	nav	4_4	179	haten
+		haten.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	206	lex	3_3	1	selection	FOC	206	all	4_4	179	haten
+		haten.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	281	lex	3_3	1	no	5000	5000	nav	4_4	203	haten
+		haten.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	281	lex	3_3	1	no	5000	5000	all	4_4	203	haten
+		haten.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	281	lex	3_3	1	no	FOC	215	nav	4_4	203	haten
+		haten.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	281	lex	3_3	1	no	FOC	281	all	4_4	203	haten
+		haten.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	313	all	3_3	1	weight	5000	5000	nav	4_4	228	haten
+		haten.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	313	all	3_3	1	weight	5000	5000	all	4_4	228	haten
+		haten.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	313	all	3_3	1	weight	FOC	154	nav	4_4	228	haten
+		haten.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	313	all	3_3	1	weight	FOC	313	all	4_4	228	haten
+		haten.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	313	all	3_3	1	selection	5000	5000	nav	4_4	228	haten
+		haten.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	313	all	3_3	1	selection	5000	5000	all	4_4	228	haten
+		haten.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	313	all	3_3	1	selection	FOC	154	nav	4_4	228	haten
+		haten.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	313	all	3_3	1	selection	FOC	313	all	4_4	228	haten
+		haten.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	429	all	3_3	1	no	5000	5000	nav	4_4	229	haten
+		haten.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	429	all	3_3	1	no	5000	5000	all	4_4	229	haten
+		haten.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	429	all	3_3	1	no	FOC	215	nav	4_4	229	haten
+		haten.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	429	all	3_3	1	no	FOC	429	all	4_4	229	haten
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	148	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	298	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	148	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	298	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	230	nav	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	451	all	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	195	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	372	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	195	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	372	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	362	nav	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	654	all	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	195	nav	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	372	all	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	362	nav	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	654	all	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+	group1	haten.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	182			1	weight	5000	5000	nav	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	182			1	weight	5000	5000	all	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	182			1	weight	FOC	83	nav	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	182			1	weight	FOC	182	all	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	182			1	selection	5000	5000	nav	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	182			1	selection	5000	5000	all	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	182			1	selection	FOC	83	nav	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	182			1	selection	FOC	182	all	4_4	210	haten
+	group1	haten.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	234			1	no	5000	5000	nav	4_4	218	haten
+	group1	haten.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	234			1	no	5000	5000	all	4_4	218	haten
+	group1	haten.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	234			1	no	FOC	105	nav	4_4	218	haten
+	group1	haten.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	234			1	no	FOC	234	all	4_4	218	haten
+	group2	haten.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	218			1	weight	5000	5000	nav	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	218			1	weight	5000	5000	all	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	218			1	weight	FOC	105	nav	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	218			1	weight	FOC	218	all	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	218			1	selection	5000	5000	nav	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	218			1	selection	5000	5000	all	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	218			1	selection	FOC	105	nav	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	218			1	selection	FOC	218	all	4_4	223	haten
+	group2	haten.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	298			1	no	5000	5000	nav	4_4	224	haten
+	group2	haten.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	298			1	no	5000	5000	all	4_4	224	haten
+	group2	haten.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	298			1	no	FOC	149	nav	4_4	224	haten
+	group2	haten.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	298			1	no	FOC	298	all	4_4	224	haten
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	148	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	298	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	148	nav	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	298	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	298	all	4_4	224	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	230	nav	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection2    selection2
+haten.LEMMAPATHselection2    selection2
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection2    dependency
+haten.LEMMAPATHselection2    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection2    bound
+haten.LEMMAPATHselection2    bound
+Name: foc_boundaries, dtype: object"	451	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection2    NaN
+haten.LEMMAPATHselection2    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	451	all	4_4	226	"_model
+haten.LEMMAPATHselection2    haten
+haten.LEMMAPATHselection2    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	195	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	weight	FOC	372	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	195	nav	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	372	all	4_4	225	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	362	nav	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHselection3    selection3
+haten.LEMMAPATHselection3    selection3
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHselection3    dependency
+haten.LEMMAPATHselection3    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHselection3    bound
+haten.LEMMAPATHselection3    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHselection3    NaN
+haten.LEMMAPATHselection3    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	654	all	4_4	226	"_model
+haten.LEMMAPATHselection3    haten
+haten.LEMMAPATHselection3    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	195	nav	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	372	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	selection	FOC	372	all	4_4	225	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	362	nav	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
+"_model
+haten.LEMMAPATHweight    weight
+haten.LEMMAPATHweight    weight
+Name: LEMMAPATH, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: LEMMAREL, dtype: object"	haten.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	"_model
+haten.LEMMAPATHweight    dependency
+haten.LEMMAPATHweight    dependency
+Name: base, dtype: object"	"_model
+haten.LEMMAPATHweight    bound
+haten.LEMMAPATHweight    bound
+Name: foc_boundaries, dtype: object"	654	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_pos, dtype: object"	"_model
+haten.LEMMAPATHweight    NaN
+haten.LEMMAPATHweight    NaN
+Name: foc_foc_win, dtype: object"	1	no	FOC	654	all	4_4	226	"_model
+haten.LEMMAPATHweight    haten
+haten.LEMMAPATHweight    haten
+Name: type, dtype: object"
