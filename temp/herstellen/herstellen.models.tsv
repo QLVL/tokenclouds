@@ -1,1577 +1,201 @@
-LEMMAPATH	LEMMAREL	_model	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
-		herstellen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	362	lex	10_10	1	weight	5000	5000	nav	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	362	lex	10_10	1	weight	5000	5000	all	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	362	lex	10_10	1	weight	FOC	248	nav	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	362	lex	10_10	1	weight	FOC	362	all	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	362	lex	10_10	1	selection	5000	5000	nav	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	362	lex	10_10	1	selection	5000	5000	all	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	362	lex	10_10	1	selection	FOC	248	nav	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	362	lex	10_10	1	selection	FOC	362	all	4_4	234	herstellen
-		herstellen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	750	lex	10_10	1	no	5000	5000	nav	4_4	238	herstellen
-		herstellen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	750	lex	10_10	1	no	5000	5000	all	4_4	238	herstellen
-		herstellen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	750	lex	10_10	1	no	FOC	541	nav	4_4	238	herstellen
-		herstellen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	750	lex	10_10	1	no	FOC	750	all	4_4	238	herstellen
-		herstellen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	490	all	10_10	1	weight	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	490	all	10_10	1	weight	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	490	all	10_10	1	weight	FOC	248	nav	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	490	all	10_10	1	weight	FOC	490	all	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	490	all	10_10	1	selection	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	490	all	10_10	1	selection	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	490	all	10_10	1	selection	FOC	248	nav	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	490	all	10_10	1	selection	FOC	490	all	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	1033	all	10_10	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	1033	all	10_10	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	1033	all	10_10	1	no	FOC	541	nav	4_4	239	herstellen
-		herstellen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	1033	all	10_10	1	no	FOC	1033	all	4_4	239	herstellen
-		herstellen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	280	lex	5_5	1	weight	5000	5000	nav	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	280	lex	5_5	1	weight	5000	5000	all	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	280	lex	5_5	1	weight	FOC	190	nav	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	280	lex	5_5	1	weight	FOC	280	all	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	280	lex	5_5	1	selection	5000	5000	nav	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	280	lex	5_5	1	selection	5000	5000	all	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	280	lex	5_5	1	selection	FOC	190	nav	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	280	lex	5_5	1	selection	FOC	280	all	4_4	225	herstellen
-		herstellen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	458	lex	5_5	1	no	5000	5000	nav	4_4	236	herstellen
-		herstellen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	458	lex	5_5	1	no	5000	5000	all	4_4	236	herstellen
-		herstellen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	458	lex	5_5	1	no	FOC	327	nav	4_4	236	herstellen
-		herstellen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	458	lex	5_5	1	no	FOC	458	all	4_4	236	herstellen
-		herstellen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	379	all	5_5	1	weight	5000	5000	nav	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	379	all	5_5	1	weight	5000	5000	all	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	379	all	5_5	1	weight	FOC	190	nav	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	379	all	5_5	1	weight	FOC	379	all	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	379	all	5_5	1	selection	5000	5000	nav	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	379	all	5_5	1	selection	5000	5000	all	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	379	all	5_5	1	selection	FOC	190	nav	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	379	all	5_5	1	selection	FOC	379	all	4_4	238	herstellen
-		herstellen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	643	all	5_5	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	643	all	5_5	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	643	all	5_5	1	no	FOC	327	nav	4_4	239	herstellen
-		herstellen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	643	all	5_5	1	no	FOC	643	all	4_4	239	herstellen
-		herstellen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	198	lex	3_3	1	weight	5000	5000	nav	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	198	lex	3_3	1	weight	5000	5000	all	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	198	lex	3_3	1	weight	FOC	133	nav	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	198	lex	3_3	1	weight	FOC	198	all	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	198	lex	3_3	1	selection	5000	5000	nav	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	198	lex	3_3	1	selection	5000	5000	all	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	198	lex	3_3	1	selection	FOC	133	nav	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	198	lex	3_3	1	selection	FOC	198	all	4_4	210	herstellen
-		herstellen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	288	lex	3_3	1	no	5000	5000	nav	4_4	232	herstellen
-		herstellen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	288	lex	3_3	1	no	5000	5000	all	4_4	232	herstellen
-		herstellen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	288	lex	3_3	1	no	FOC	202	nav	4_4	232	herstellen
-		herstellen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	288	lex	3_3	1	no	FOC	288	all	4_4	232	herstellen
-		herstellen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	269	all	3_3	1	weight	5000	5000	nav	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	269	all	3_3	1	weight	5000	5000	all	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	269	all	3_3	1	weight	FOC	133	nav	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	269	all	3_3	1	weight	FOC	269	all	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	269	all	3_3	1	selection	5000	5000	nav	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	269	all	3_3	1	selection	5000	5000	all	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	269	all	3_3	1	selection	FOC	133	nav	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	269	all	3_3	1	selection	FOC	269	all	4_4	237	herstellen
-		herstellen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	411	all	3_3	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	411	all	3_3	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	411	all	3_3	1	no	FOC	202	nav	4_4	239	herstellen
-		herstellen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	411	all	3_3	1	no	FOC	411	all	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	451	lex	10_10	1	weight	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	451	lex	10_10	1	weight	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	451	lex	10_10	1	weight	FOC	307	nav	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	451	lex	10_10	1	weight	FOC	451	all	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	451	lex	10_10	1	selection	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	451	lex	10_10	1	selection	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	451	lex	10_10	1	selection	FOC	307	nav	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	451	lex	10_10	1	selection	FOC	451	all	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	1061	lex	10_10	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	1061	lex	10_10	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	1061	lex	10_10	1	no	FOC	769	nav	4_4	239	herstellen
-		herstellen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	1061	lex	10_10	1	no	FOC	1061	all	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	628	all	10_10	1	weight	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	628	all	10_10	1	weight	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	628	all	10_10	1	weight	FOC	307	nav	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	628	all	10_10	1	weight	FOC	628	all	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	628	all	10_10	1	selection	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	628	all	10_10	1	selection	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	628	all	10_10	1	selection	FOC	307	nav	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	628	all	10_10	1	selection	FOC	628	all	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	1477	all	10_10	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	1477	all	10_10	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	1477	all	10_10	1	no	FOC	769	nav	4_4	239	herstellen
-		herstellen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	1477	all	10_10	1	no	FOC	1477	all	4_4	239	herstellen
-		herstellen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	319	lex	5_5	1	weight	5000	5000	nav	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	319	lex	5_5	1	weight	5000	5000	all	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	319	lex	5_5	1	weight	FOC	219	nav	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	319	lex	5_5	1	weight	FOC	319	all	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	319	lex	5_5	1	selection	5000	5000	nav	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	319	lex	5_5	1	selection	5000	5000	all	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	319	lex	5_5	1	selection	FOC	219	nav	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	319	lex	5_5	1	selection	FOC	319	all	4_4	227	herstellen
-		herstellen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	556	lex	5_5	1	no	5000	5000	nav	4_4	238	herstellen
-		herstellen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	556	lex	5_5	1	no	5000	5000	all	4_4	238	herstellen
-		herstellen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	556	lex	5_5	1	no	FOC	401	nav	4_4	238	herstellen
-		herstellen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	556	lex	5_5	1	no	FOC	556	all	4_4	238	herstellen
-		herstellen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	441	all	5_5	1	weight	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	441	all	5_5	1	weight	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	441	all	5_5	1	weight	FOC	219	nav	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	441	all	5_5	1	weight	FOC	441	all	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	441	all	5_5	1	selection	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	441	all	5_5	1	selection	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	441	all	5_5	1	selection	FOC	219	nav	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	441	all	5_5	1	selection	FOC	441	all	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	794	all	5_5	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	794	all	5_5	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	794	all	5_5	1	no	FOC	401	nav	4_4	239	herstellen
-		herstellen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	794	all	5_5	1	no	FOC	794	all	4_4	239	herstellen
-		herstellen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	212	lex	3_3	1	weight	5000	5000	nav	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	212	lex	3_3	1	weight	5000	5000	all	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	212	lex	3_3	1	weight	FOC	144	nav	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	212	lex	3_3	1	weight	FOC	212	all	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	212	lex	3_3	1	selection	5000	5000	nav	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	212	lex	3_3	1	selection	5000	5000	all	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	212	lex	3_3	1	selection	FOC	144	nav	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	212	lex	3_3	1	selection	FOC	212	all	4_4	212	herstellen
-		herstellen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	327	lex	3_3	1	no	5000	5000	nav	4_4	234	herstellen
-		herstellen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	327	lex	3_3	1	no	5000	5000	all	4_4	234	herstellen
-		herstellen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	327	lex	3_3	1	no	FOC	233	nav	4_4	234	herstellen
-		herstellen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	327	lex	3_3	1	no	FOC	327	all	4_4	234	herstellen
-		herstellen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	300	all	3_3	1	weight	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	300	all	3_3	1	weight	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	300	all	3_3	1	weight	FOC	144	nav	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	300	all	3_3	1	weight	FOC	300	all	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	300	all	3_3	1	selection	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	300	all	3_3	1	selection	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	300	all	3_3	1	selection	FOC	144	nav	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	300	all	3_3	1	selection	FOC	300	all	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	476	all	3_3	1	no	5000	5000	nav	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	476	all	3_3	1	no	5000	5000	all	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	476	all	3_3	1	no	FOC	233	nav	4_4	239	herstellen
-		herstellen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	476	all	3_3	1	no	FOC	476	all	4_4	239	herstellen
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	150	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	298	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	150	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	298	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	251	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	489	all	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	200	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	396	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	200	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	396	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	386	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	728	all	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	200	nav	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	396	all	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	386	nav	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	728	all	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-	group1	herstellen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	175			1	weight	5000	5000	nav	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	175			1	weight	5000	5000	all	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	175			1	weight	FOC	79	nav	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	175			1	weight	FOC	175	all	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	175			1	selection	5000	5000	nav	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	175			1	selection	5000	5000	all	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	175			1	selection	FOC	79	nav	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	175			1	selection	FOC	175	all	4_4	212	herstellen
-	group1	herstellen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	246			1	no	5000	5000	nav	4_4	222	herstellen
-	group1	herstellen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	246			1	no	5000	5000	all	4_4	222	herstellen
-	group1	herstellen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	246			1	no	FOC	106	nav	4_4	222	herstellen
-	group1	herstellen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	246			1	no	FOC	246	all	4_4	222	herstellen
-	group2	herstellen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	259			1	weight	5000	5000	nav	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	259			1	weight	5000	5000	all	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	259			1	weight	FOC	138	nav	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	259			1	weight	FOC	259	all	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	259			1	selection	5000	5000	nav	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	259			1	selection	5000	5000	all	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	259			1	selection	FOC	138	nav	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	259			1	selection	FOC	259	all	4_4	233	herstellen
-	group2	herstellen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	391			1	no	5000	5000	nav	4_4	235	herstellen
-	group2	herstellen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	391			1	no	5000	5000	all	4_4	235	herstellen
-	group2	herstellen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	391			1	no	FOC	214	nav	4_4	235	herstellen
-	group2	herstellen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	391			1	no	FOC	391	all	4_4	235	herstellen
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	150	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	298	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	150	nav	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	298	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	298	all	4_4	235	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	251	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection2    selection2
-herstellen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection2    dependency
-herstellen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    bound
-herstellen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	489	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection2    NaN
-herstellen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	489	all	4_4	238	"_model
-herstellen.LEMMAPATHselection2    herstellen
-herstellen.LEMMAPATHselection2    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	200	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	396	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	200	nav	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	396	all	4_4	237	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	386	nav	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHselection3    selection3
-herstellen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHselection3    dependency
-herstellen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    bound
-herstellen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHselection3    NaN
-herstellen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	728	all	4_4	238	"_model
-herstellen.LEMMAPATHselection3    herstellen
-herstellen.LEMMAPATHselection3    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	200	nav	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	396	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	396	all	4_4	237	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	386	nav	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
-"_model
-herstellen.LEMMAPATHweight    weight
-herstellen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	herstellen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	"_model
-herstellen.LEMMAPATHweight    dependency
-herstellen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-herstellen.LEMMAPATHweight    bound
-herstellen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	728	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-herstellen.LEMMAPATHweight    NaN
-herstellen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	728	all	4_4	238	"_model
-herstellen.LEMMAPATHweight    herstellen
-herstellen.LEMMAPATHweight    herstellen
-Name: type, dtype: object"
+_model	LEMMAPATH	LEMMAREL	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
+herstellen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW	bound	362	lex	10_10	1	weight	5000	5000	nav	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall			BOW	bound	362	lex	10_10	1	weight	5000	5000	all	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	bound	362	lex	10_10	1	weight	FOC	248	nav	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW	bound	362	lex	10_10	1	weight	FOC	362	all	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW	bound	362	lex	10_10	1	selection	5000	5000	nav	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall			BOW	bound	362	lex	10_10	1	selection	5000	5000	all	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	bound	362	lex	10_10	1	selection	FOC	248	nav	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW	bound	362	lex	10_10	1	selection	FOC	362	all	4_4	234	herstellen
+herstellen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav			BOW	bound	750	lex	10_10	1	no	5000	5000	nav	4_4	238	herstellen
+herstellen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall			BOW	bound	750	lex	10_10	1	no	5000	5000	all	4_4	238	herstellen
+herstellen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW	bound	750	lex	10_10	1	no	FOC	541	nav	4_4	238	herstellen
+herstellen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall			BOW	bound	750	lex	10_10	1	no	FOC	750	all	4_4	238	herstellen
+herstellen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav			BOW	bound	490	all	10_10	1	weight	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall			BOW	bound	490	all	10_10	1	weight	5000	5000	all	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	bound	490	all	10_10	1	weight	FOC	248	nav	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall			BOW	bound	490	all	10_10	1	weight	FOC	490	all	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav			BOW	bound	490	all	10_10	1	selection	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall			BOW	bound	490	all	10_10	1	selection	5000	5000	all	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	bound	490	all	10_10	1	selection	FOC	248	nav	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall			BOW	bound	490	all	10_10	1	selection	FOC	490	all	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav			BOW	bound	1033	all	10_10	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall			BOW	bound	1033	all	10_10	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav			BOW	bound	1033	all	10_10	1	no	FOC	541	nav	4_4	239	herstellen
+herstellen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall			BOW	bound	1033	all	10_10	1	no	FOC	1033	all	4_4	239	herstellen
+herstellen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW	bound	280	lex	5_5	1	weight	5000	5000	nav	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall			BOW	bound	280	lex	5_5	1	weight	5000	5000	all	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	bound	280	lex	5_5	1	weight	FOC	190	nav	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW	bound	280	lex	5_5	1	weight	FOC	280	all	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW	bound	280	lex	5_5	1	selection	5000	5000	nav	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall			BOW	bound	280	lex	5_5	1	selection	5000	5000	all	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	bound	280	lex	5_5	1	selection	FOC	190	nav	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW	bound	280	lex	5_5	1	selection	FOC	280	all	4_4	225	herstellen
+herstellen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav			BOW	bound	458	lex	5_5	1	no	5000	5000	nav	4_4	236	herstellen
+herstellen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall			BOW	bound	458	lex	5_5	1	no	5000	5000	all	4_4	236	herstellen
+herstellen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW	bound	458	lex	5_5	1	no	FOC	327	nav	4_4	236	herstellen
+herstellen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall			BOW	bound	458	lex	5_5	1	no	FOC	458	all	4_4	236	herstellen
+herstellen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav			BOW	bound	379	all	5_5	1	weight	5000	5000	nav	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall			BOW	bound	379	all	5_5	1	weight	5000	5000	all	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	bound	379	all	5_5	1	weight	FOC	190	nav	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall			BOW	bound	379	all	5_5	1	weight	FOC	379	all	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav			BOW	bound	379	all	5_5	1	selection	5000	5000	nav	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall			BOW	bound	379	all	5_5	1	selection	5000	5000	all	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	bound	379	all	5_5	1	selection	FOC	190	nav	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall			BOW	bound	379	all	5_5	1	selection	FOC	379	all	4_4	238	herstellen
+herstellen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav			BOW	bound	643	all	5_5	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall			BOW	bound	643	all	5_5	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav			BOW	bound	643	all	5_5	1	no	FOC	327	nav	4_4	239	herstellen
+herstellen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall			BOW	bound	643	all	5_5	1	no	FOC	643	all	4_4	239	herstellen
+herstellen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW	bound	198	lex	3_3	1	weight	5000	5000	nav	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall			BOW	bound	198	lex	3_3	1	weight	5000	5000	all	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	bound	198	lex	3_3	1	weight	FOC	133	nav	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW	bound	198	lex	3_3	1	weight	FOC	198	all	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW	bound	198	lex	3_3	1	selection	5000	5000	nav	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall			BOW	bound	198	lex	3_3	1	selection	5000	5000	all	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	bound	198	lex	3_3	1	selection	FOC	133	nav	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW	bound	198	lex	3_3	1	selection	FOC	198	all	4_4	210	herstellen
+herstellen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav			BOW	bound	288	lex	3_3	1	no	5000	5000	nav	4_4	232	herstellen
+herstellen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall			BOW	bound	288	lex	3_3	1	no	5000	5000	all	4_4	232	herstellen
+herstellen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW	bound	288	lex	3_3	1	no	FOC	202	nav	4_4	232	herstellen
+herstellen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall			BOW	bound	288	lex	3_3	1	no	FOC	288	all	4_4	232	herstellen
+herstellen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav			BOW	bound	269	all	3_3	1	weight	5000	5000	nav	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall			BOW	bound	269	all	3_3	1	weight	5000	5000	all	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	bound	269	all	3_3	1	weight	FOC	133	nav	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall			BOW	bound	269	all	3_3	1	weight	FOC	269	all	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav			BOW	bound	269	all	3_3	1	selection	5000	5000	nav	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall			BOW	bound	269	all	3_3	1	selection	5000	5000	all	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	bound	269	all	3_3	1	selection	FOC	133	nav	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall			BOW	bound	269	all	3_3	1	selection	FOC	269	all	4_4	237	herstellen
+herstellen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav			BOW	bound	411	all	3_3	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall			BOW	bound	411	all	3_3	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav			BOW	bound	411	all	3_3	1	no	FOC	202	nav	4_4	239	herstellen
+herstellen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall			BOW	bound	411	all	3_3	1	no	FOC	411	all	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW	nobound	451	lex	10_10	1	weight	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall			BOW	nobound	451	lex	10_10	1	weight	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	nobound	451	lex	10_10	1	weight	FOC	307	nav	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW	nobound	451	lex	10_10	1	weight	FOC	451	all	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW	nobound	451	lex	10_10	1	selection	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall			BOW	nobound	451	lex	10_10	1	selection	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	nobound	451	lex	10_10	1	selection	FOC	307	nav	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW	nobound	451	lex	10_10	1	selection	FOC	451	all	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav			BOW	nobound	1061	lex	10_10	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall			BOW	nobound	1061	lex	10_10	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW	nobound	1061	lex	10_10	1	no	FOC	769	nav	4_4	239	herstellen
+herstellen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall			BOW	nobound	1061	lex	10_10	1	no	FOC	1061	all	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav			BOW	nobound	628	all	10_10	1	weight	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall			BOW	nobound	628	all	10_10	1	weight	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	nobound	628	all	10_10	1	weight	FOC	307	nav	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall			BOW	nobound	628	all	10_10	1	weight	FOC	628	all	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav			BOW	nobound	628	all	10_10	1	selection	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall			BOW	nobound	628	all	10_10	1	selection	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	nobound	628	all	10_10	1	selection	FOC	307	nav	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall			BOW	nobound	628	all	10_10	1	selection	FOC	628	all	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav			BOW	nobound	1477	all	10_10	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall			BOW	nobound	1477	all	10_10	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav			BOW	nobound	1477	all	10_10	1	no	FOC	769	nav	4_4	239	herstellen
+herstellen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall			BOW	nobound	1477	all	10_10	1	no	FOC	1477	all	4_4	239	herstellen
+herstellen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW	nobound	319	lex	5_5	1	weight	5000	5000	nav	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall			BOW	nobound	319	lex	5_5	1	weight	5000	5000	all	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	nobound	319	lex	5_5	1	weight	FOC	219	nav	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW	nobound	319	lex	5_5	1	weight	FOC	319	all	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW	nobound	319	lex	5_5	1	selection	5000	5000	nav	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall			BOW	nobound	319	lex	5_5	1	selection	5000	5000	all	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	nobound	319	lex	5_5	1	selection	FOC	219	nav	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW	nobound	319	lex	5_5	1	selection	FOC	319	all	4_4	227	herstellen
+herstellen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav			BOW	nobound	556	lex	5_5	1	no	5000	5000	nav	4_4	238	herstellen
+herstellen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall			BOW	nobound	556	lex	5_5	1	no	5000	5000	all	4_4	238	herstellen
+herstellen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW	nobound	556	lex	5_5	1	no	FOC	401	nav	4_4	238	herstellen
+herstellen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall			BOW	nobound	556	lex	5_5	1	no	FOC	556	all	4_4	238	herstellen
+herstellen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav			BOW	nobound	441	all	5_5	1	weight	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall			BOW	nobound	441	all	5_5	1	weight	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	nobound	441	all	5_5	1	weight	FOC	219	nav	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall			BOW	nobound	441	all	5_5	1	weight	FOC	441	all	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav			BOW	nobound	441	all	5_5	1	selection	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall			BOW	nobound	441	all	5_5	1	selection	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	nobound	441	all	5_5	1	selection	FOC	219	nav	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall			BOW	nobound	441	all	5_5	1	selection	FOC	441	all	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav			BOW	nobound	794	all	5_5	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall			BOW	nobound	794	all	5_5	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav			BOW	nobound	794	all	5_5	1	no	FOC	401	nav	4_4	239	herstellen
+herstellen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall			BOW	nobound	794	all	5_5	1	no	FOC	794	all	4_4	239	herstellen
+herstellen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW	nobound	212	lex	3_3	1	weight	5000	5000	nav	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall			BOW	nobound	212	lex	3_3	1	weight	5000	5000	all	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	nobound	212	lex	3_3	1	weight	FOC	144	nav	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW	nobound	212	lex	3_3	1	weight	FOC	212	all	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW	nobound	212	lex	3_3	1	selection	5000	5000	nav	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall			BOW	nobound	212	lex	3_3	1	selection	5000	5000	all	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	nobound	212	lex	3_3	1	selection	FOC	144	nav	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW	nobound	212	lex	3_3	1	selection	FOC	212	all	4_4	212	herstellen
+herstellen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav			BOW	nobound	327	lex	3_3	1	no	5000	5000	nav	4_4	234	herstellen
+herstellen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall			BOW	nobound	327	lex	3_3	1	no	5000	5000	all	4_4	234	herstellen
+herstellen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW	nobound	327	lex	3_3	1	no	FOC	233	nav	4_4	234	herstellen
+herstellen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall			BOW	nobound	327	lex	3_3	1	no	FOC	327	all	4_4	234	herstellen
+herstellen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav			BOW	nobound	300	all	3_3	1	weight	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall			BOW	nobound	300	all	3_3	1	weight	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW	nobound	300	all	3_3	1	weight	FOC	144	nav	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall			BOW	nobound	300	all	3_3	1	weight	FOC	300	all	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav			BOW	nobound	300	all	3_3	1	selection	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall			BOW	nobound	300	all	3_3	1	selection	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW	nobound	300	all	3_3	1	selection	FOC	144	nav	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall			BOW	nobound	300	all	3_3	1	selection	FOC	300	all	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav			BOW	nobound	476	all	3_3	1	no	5000	5000	nav	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall			BOW	nobound	476	all	3_3	1	no	5000	5000	all	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav			BOW	nobound	476	all	3_3	1	no	FOC	233	nav	4_4	239	herstellen
+herstellen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall			BOW	nobound	476	all	3_3	1	no	FOC	476	all	4_4	239	herstellen
+herstellen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	selection2		dependency	bound	298			1	weight	5000	5000	nav	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	selection2		dependency	bound	298			1	weight	5000	5000	all	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	selection2		dependency	bound	298			1	weight	FOC	150	nav	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	selection2		dependency	bound	298			1	weight	FOC	298	all	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	selection2		dependency	bound	298			1	selection	5000	5000	nav	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	selection2		dependency	bound	298			1	selection	5000	5000	all	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	selection2		dependency	bound	298			1	selection	FOC	150	nav	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	selection2		dependency	bound	298			1	selection	FOC	298	all	4_4	235	herstellen
+herstellen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	selection2		dependency	bound	489			1	no	5000	5000	nav	4_4	238	herstellen
+herstellen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	selection2		dependency	bound	489			1	no	5000	5000	all	4_4	238	herstellen
+herstellen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	selection2		dependency	bound	489			1	no	FOC	251	nav	4_4	238	herstellen
+herstellen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	selection2		dependency	bound	489			1	no	FOC	489	all	4_4	238	herstellen
+herstellen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	selection3		dependency	bound	396			1	weight	5000	5000	nav	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	selection3		dependency	bound	396			1	weight	5000	5000	all	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	selection3		dependency	bound	396			1	weight	FOC	200	nav	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	selection3		dependency	bound	396			1	weight	FOC	396	all	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	selection3		dependency	bound	396			1	selection	5000	5000	nav	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	selection3		dependency	bound	396			1	selection	5000	5000	all	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	selection3		dependency	bound	396			1	selection	FOC	200	nav	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	selection3		dependency	bound	396			1	selection	FOC	396	all	4_4	237	herstellen
+herstellen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	selection3		dependency	bound	728			1	no	5000	5000	nav	4_4	238	herstellen
+herstellen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	selection3		dependency	bound	728			1	no	5000	5000	all	4_4	238	herstellen
+herstellen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	selection3		dependency	bound	728			1	no	FOC	386	nav	4_4	238	herstellen
+herstellen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	selection3		dependency	bound	728			1	no	FOC	728	all	4_4	238	herstellen
+herstellen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	weight		dependency	bound	396			1	selection	5000	5000	nav	4_4	237	herstellen
+herstellen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	weight		dependency	bound	396			1	selection	5000	5000	all	4_4	237	herstellen
+herstellen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	weight		dependency	bound	396			1	selection	FOC	200	nav	4_4	237	herstellen
+herstellen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	weight		dependency	bound	396			1	selection	FOC	396	all	4_4	237	herstellen
+herstellen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	weight		dependency	bound	728			1	no	5000	5000	nav	4_4	238	herstellen
+herstellen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	weight		dependency	bound	728			1	no	5000	5000	all	4_4	238	herstellen
+herstellen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	weight		dependency	bound	728			1	no	FOC	386	nav	4_4	238	herstellen
+herstellen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	weight		dependency	bound	728			1	no	FOC	728	all	4_4	238	herstellen
+herstellen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav		group1	dependency	bound	175			1	weight	5000	5000	nav	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall		group1	dependency	bound	175			1	weight	5000	5000	all	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav		group1	dependency	bound	175			1	weight	FOC	79	nav	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall		group1	dependency	bound	175			1	weight	FOC	175	all	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav		group1	dependency	bound	175			1	selection	5000	5000	nav	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall		group1	dependency	bound	175			1	selection	5000	5000	all	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav		group1	dependency	bound	175			1	selection	FOC	79	nav	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall		group1	dependency	bound	175			1	selection	FOC	175	all	4_4	212	herstellen
+herstellen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav		group1	dependency	bound	246			1	no	5000	5000	nav	4_4	222	herstellen
+herstellen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall		group1	dependency	bound	246			1	no	5000	5000	all	4_4	222	herstellen
+herstellen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav		group1	dependency	bound	246			1	no	FOC	106	nav	4_4	222	herstellen
+herstellen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall		group1	dependency	bound	246			1	no	FOC	246	all	4_4	222	herstellen
+herstellen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav		group2	dependency	bound	259			1	weight	5000	5000	nav	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall		group2	dependency	bound	259			1	weight	5000	5000	all	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav		group2	dependency	bound	259			1	weight	FOC	138	nav	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall		group2	dependency	bound	259			1	weight	FOC	259	all	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav		group2	dependency	bound	259			1	selection	5000	5000	nav	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall		group2	dependency	bound	259			1	selection	5000	5000	all	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav		group2	dependency	bound	259			1	selection	FOC	138	nav	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall		group2	dependency	bound	259			1	selection	FOC	259	all	4_4	233	herstellen
+herstellen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav		group2	dependency	bound	391			1	no	5000	5000	nav	4_4	235	herstellen
+herstellen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall		group2	dependency	bound	391			1	no	5000	5000	all	4_4	235	herstellen
+herstellen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav		group2	dependency	bound	391			1	no	FOC	214	nav	4_4	235	herstellen
+herstellen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall		group2	dependency	bound	391			1	no	FOC	391	all	4_4	235	herstellen

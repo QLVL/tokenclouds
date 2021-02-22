@@ -1,213 +1,213 @@
-LEMMAPATH	LEMMAREL	_model	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
-		horde.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	480	lex	10_10	1	weight	5000	5000	nav	4_4	268	horde
-		horde.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	480	lex	10_10	1	weight	5000	5000	all	4_4	268	horde
-		horde.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	480	lex	10_10	1	weight	FOC	354	nav	4_4	268	horde
-		horde.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	480	lex	10_10	1	weight	FOC	480	all	4_4	268	horde
-		horde.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	480	lex	10_10	1	selection	5000	5000	nav	4_4	268	horde
-		horde.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	480	lex	10_10	1	selection	5000	5000	all	4_4	268	horde
-		horde.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	480	lex	10_10	1	selection	FOC	354	nav	4_4	268	horde
-		horde.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	480	lex	10_10	1	selection	FOC	480	all	4_4	268	horde
-		horde.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	926	lex	10_10	1	no	5000	5000	nav	4_4	273	horde
-		horde.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	926	lex	10_10	1	no	5000	5000	all	4_4	273	horde
-		horde.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	926	lex	10_10	1	no	FOC	685	nav	4_4	273	horde
-		horde.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	926	lex	10_10	1	no	FOC	926	all	4_4	273	horde
-		horde.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	659	all	10_10	1	weight	5000	5000	nav	4_4	277	horde
-		horde.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	659	all	10_10	1	weight	5000	5000	all	4_4	277	horde
-		horde.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	659	all	10_10	1	weight	FOC	354	nav	4_4	277	horde
-		horde.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	659	all	10_10	1	weight	FOC	659	all	4_4	277	horde
-		horde.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	659	all	10_10	1	selection	5000	5000	nav	4_4	277	horde
-		horde.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	659	all	10_10	1	selection	5000	5000	all	4_4	277	horde
-		horde.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	659	all	10_10	1	selection	FOC	354	nav	4_4	277	horde
-		horde.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	659	all	10_10	1	selection	FOC	659	all	4_4	277	horde
-		horde.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	1319	all	10_10	1	no	5000	5000	nav	4_4	277	horde
-		horde.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	1319	all	10_10	1	no	5000	5000	all	4_4	277	horde
-		horde.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	1319	all	10_10	1	no	FOC	685	nav	4_4	277	horde
-		horde.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	1319	all	10_10	1	no	FOC	1319	all	4_4	277	horde
-		horde.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	402	lex	5_5	1	weight	5000	5000	nav	4_4	259	horde
-		horde.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	402	lex	5_5	1	weight	5000	5000	all	4_4	259	horde
-		horde.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	402	lex	5_5	1	weight	FOC	295	nav	4_4	259	horde
-		horde.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	402	lex	5_5	1	weight	FOC	402	all	4_4	259	horde
-		horde.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	402	lex	5_5	1	selection	5000	5000	nav	4_4	259	horde
-		horde.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	402	lex	5_5	1	selection	5000	5000	all	4_4	259	horde
-		horde.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	402	lex	5_5	1	selection	FOC	295	nav	4_4	259	horde
-		horde.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	402	lex	5_5	1	selection	FOC	402	all	4_4	259	horde
-		horde.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	580	lex	5_5	1	no	5000	5000	nav	4_4	271	horde
-		horde.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	580	lex	5_5	1	no	5000	5000	all	4_4	271	horde
-		horde.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	580	lex	5_5	1	no	FOC	436	nav	4_4	271	horde
-		horde.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	580	lex	5_5	1	no	FOC	580	all	4_4	271	horde
-		horde.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	545	all	5_5	1	weight	5000	5000	nav	4_4	276	horde
-		horde.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	545	all	5_5	1	weight	5000	5000	all	4_4	276	horde
-		horde.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	545	all	5_5	1	weight	FOC	295	nav	4_4	276	horde
-		horde.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	545	all	5_5	1	weight	FOC	545	all	4_4	276	horde
-		horde.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	545	all	5_5	1	selection	5000	5000	nav	4_4	276	horde
-		horde.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	545	all	5_5	1	selection	5000	5000	all	4_4	276	horde
-		horde.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	545	all	5_5	1	selection	FOC	295	nav	4_4	276	horde
-		horde.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	545	all	5_5	1	selection	FOC	545	all	4_4	276	horde
-		horde.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	812	all	5_5	1	no	5000	5000	nav	4_4	276	horde
-		horde.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	812	all	5_5	1	no	5000	5000	all	4_4	276	horde
-		horde.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	812	all	5_5	1	no	FOC	436	nav	4_4	276	horde
-		horde.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	812	all	5_5	1	no	FOC	812	all	4_4	276	horde
-		horde.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	313	lex	3_3	1	weight	5000	5000	nav	4_4	248	horde
-		horde.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	313	lex	3_3	1	weight	5000	5000	all	4_4	248	horde
-		horde.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	313	lex	3_3	1	weight	FOC	233	nav	4_4	248	horde
-		horde.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	313	lex	3_3	1	weight	FOC	313	all	4_4	248	horde
-		horde.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	313	lex	3_3	1	selection	5000	5000	nav	4_4	248	horde
-		horde.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	313	lex	3_3	1	selection	5000	5000	all	4_4	248	horde
-		horde.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	313	lex	3_3	1	selection	FOC	233	nav	4_4	248	horde
-		horde.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	313	lex	3_3	1	selection	FOC	313	all	4_4	248	horde
-		horde.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	388	lex	3_3	1	no	5000	5000	nav	4_4	259	horde
-		horde.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	388	lex	3_3	1	no	5000	5000	all	4_4	259	horde
-		horde.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	388	lex	3_3	1	no	FOC	289	nav	4_4	259	horde
-		horde.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	388	lex	3_3	1	no	FOC	388	all	4_4	259	horde
-		horde.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	403	all	3_3	1	weight	5000	5000	nav	4_4	274	horde
-		horde.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	403	all	3_3	1	weight	5000	5000	all	4_4	274	horde
-		horde.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	403	all	3_3	1	weight	FOC	233	nav	4_4	274	horde
-		horde.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	403	all	3_3	1	weight	FOC	403	all	4_4	274	horde
-		horde.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	403	all	3_3	1	selection	5000	5000	nav	4_4	274	horde
-		horde.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	403	all	3_3	1	selection	5000	5000	all	4_4	274	horde
-		horde.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	403	all	3_3	1	selection	FOC	233	nav	4_4	274	horde
-		horde.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	403	all	3_3	1	selection	FOC	403	all	4_4	274	horde
-		horde.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	527	all	3_3	1	no	5000	5000	nav	4_4	275	horde
-		horde.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	527	all	3_3	1	no	5000	5000	all	4_4	275	horde
-		horde.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	527	all	3_3	1	no	FOC	289	nav	4_4	275	horde
-		horde.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	527	all	3_3	1	no	FOC	527	all	4_4	275	horde
-		horde.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	583	lex	10_10	1	weight	5000	5000	nav	4_4	273	horde
-		horde.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	583	lex	10_10	1	weight	5000	5000	all	4_4	273	horde
-		horde.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	583	lex	10_10	1	weight	FOC	422	nav	4_4	273	horde
-		horde.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	583	lex	10_10	1	weight	FOC	583	all	4_4	273	horde
-		horde.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	583	lex	10_10	1	selection	5000	5000	nav	4_4	273	horde
-		horde.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	583	lex	10_10	1	selection	5000	5000	all	4_4	273	horde
-		horde.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	583	lex	10_10	1	selection	FOC	422	nav	4_4	273	horde
-		horde.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	583	lex	10_10	1	selection	FOC	583	all	4_4	273	horde
-		horde.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	1238	lex	10_10	1	no	5000	5000	nav	4_4	276	horde
-		horde.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	1238	lex	10_10	1	no	5000	5000	all	4_4	276	horde
-		horde.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	1238	lex	10_10	1	no	FOC	894	nav	4_4	276	horde
-		horde.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	1238	lex	10_10	1	no	FOC	1238	all	4_4	276	horde
-		horde.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	790	all	10_10	1	weight	5000	5000	nav	4_4	277	horde
-		horde.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	790	all	10_10	1	weight	5000	5000	all	4_4	277	horde
-		horde.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	790	all	10_10	1	weight	FOC	422	nav	4_4	277	horde
-		horde.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	790	all	10_10	1	weight	FOC	790	all	4_4	277	horde
-		horde.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	790	all	10_10	1	selection	5000	5000	nav	4_4	277	horde
-		horde.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	790	all	10_10	1	selection	5000	5000	all	4_4	277	horde
-		horde.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	790	all	10_10	1	selection	FOC	422	nav	4_4	277	horde
-		horde.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	790	all	10_10	1	selection	FOC	790	all	4_4	277	horde
-		horde.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	1723	all	10_10	1	no	5000	5000	nav	4_4	278	horde
-		horde.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	1723	all	10_10	1	no	5000	5000	all	4_4	278	horde
-		horde.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	1723	all	10_10	1	no	FOC	894	nav	4_4	278	horde
-		horde.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	1723	all	10_10	1	no	FOC	1723	all	4_4	278	horde
-		horde.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	453	lex	5_5	1	weight	5000	5000	nav	4_4	264	horde
-		horde.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	453	lex	5_5	1	weight	5000	5000	all	4_4	264	horde
-		horde.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	453	lex	5_5	1	weight	FOC	330	nav	4_4	264	horde
-		horde.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	453	lex	5_5	1	weight	FOC	453	all	4_4	264	horde
-		horde.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	453	lex	5_5	1	selection	5000	5000	nav	4_4	264	horde
-		horde.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	453	lex	5_5	1	selection	5000	5000	all	4_4	264	horde
-		horde.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	453	lex	5_5	1	selection	FOC	330	nav	4_4	264	horde
-		horde.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	453	lex	5_5	1	selection	FOC	453	all	4_4	264	horde
-		horde.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	669	lex	5_5	1	no	5000	5000	nav	4_4	274	horde
-		horde.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	669	lex	5_5	1	no	5000	5000	all	4_4	274	horde
-		horde.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	669	lex	5_5	1	no	FOC	494	nav	4_4	274	horde
-		horde.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	669	lex	5_5	1	no	FOC	669	all	4_4	274	horde
-		horde.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	614	all	5_5	1	weight	5000	5000	nav	4_4	276	horde
-		horde.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	614	all	5_5	1	weight	5000	5000	all	4_4	276	horde
-		horde.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	614	all	5_5	1	weight	FOC	330	nav	4_4	276	horde
-		horde.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	614	all	5_5	1	weight	FOC	614	all	4_4	276	horde
-		horde.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	614	all	5_5	1	selection	5000	5000	nav	4_4	276	horde
-		horde.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	614	all	5_5	1	selection	5000	5000	all	4_4	276	horde
-		horde.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	614	all	5_5	1	selection	FOC	330	nav	4_4	276	horde
-		horde.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	614	all	5_5	1	selection	FOC	614	all	4_4	276	horde
-		horde.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	932	all	5_5	1	no	5000	5000	nav	4_4	278	horde
-		horde.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	932	all	5_5	1	no	5000	5000	all	4_4	278	horde
-		horde.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	932	all	5_5	1	no	FOC	494	nav	4_4	278	horde
-		horde.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	932	all	5_5	1	no	FOC	932	all	4_4	278	horde
-		horde.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	333	lex	3_3	1	weight	5000	5000	nav	4_4	252	horde
-		horde.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	333	lex	3_3	1	weight	5000	5000	all	4_4	252	horde
-		horde.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	333	lex	3_3	1	weight	FOC	247	nav	4_4	252	horde
-		horde.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	333	lex	3_3	1	weight	FOC	333	all	4_4	252	horde
-		horde.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	333	lex	3_3	1	selection	5000	5000	nav	4_4	252	horde
-		horde.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	333	lex	3_3	1	selection	5000	5000	all	4_4	252	horde
-		horde.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	333	lex	3_3	1	selection	FOC	247	nav	4_4	252	horde
-		horde.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	333	lex	3_3	1	selection	FOC	333	all	4_4	252	horde
-		horde.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	415	lex	3_3	1	no	5000	5000	nav	4_4	263	horde
-		horde.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	415	lex	3_3	1	no	5000	5000	all	4_4	263	horde
-		horde.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	415	lex	3_3	1	no	FOC	309	nav	4_4	263	horde
-		horde.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	415	lex	3_3	1	no	FOC	415	all	4_4	263	horde
-		horde.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	434	all	3_3	1	weight	5000	5000	nav	4_4	275	horde
-		horde.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	434	all	3_3	1	weight	5000	5000	all	4_4	275	horde
-		horde.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	434	all	3_3	1	weight	FOC	247	nav	4_4	275	horde
-		horde.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	434	all	3_3	1	weight	FOC	434	all	4_4	275	horde
-		horde.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	434	all	3_3	1	selection	5000	5000	nav	4_4	275	horde
-		horde.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	434	all	3_3	1	selection	5000	5000	all	4_4	275	horde
-		horde.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	434	all	3_3	1	selection	FOC	247	nav	4_4	275	horde
-		horde.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	434	all	3_3	1	selection	FOC	434	all	4_4	275	horde
-		horde.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	568	all	3_3	1	no	5000	5000	nav	4_4	275	horde
-		horde.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	568	all	3_3	1	no	5000	5000	all	4_4	275	horde
-		horde.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	568	all	3_3	1	no	FOC	309	nav	4_4	275	horde
-		horde.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	568	all	3_3	1	no	FOC	568	all	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	395			1	weight	5000	5000	nav	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	395			1	weight	5000	5000	all	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	395			1	weight	FOC	234	nav	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	395			1	weight	FOC	395	all	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	395			1	selection	5000	5000	nav	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	395			1	selection	5000	5000	all	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	395			1	selection	FOC	234	nav	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	395			1	selection	FOC	395	all	4_4	275	horde
-selection2		horde.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	587			1	no	5000	5000	nav	4_4	277	horde
-selection2		horde.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	587			1	no	5000	5000	all	4_4	277	horde
-selection2		horde.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	587			1	no	FOC	319	nav	4_4	277	horde
-selection2		horde.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	587			1	no	FOC	587	all	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	537			1	weight	5000	5000	nav	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	537			1	weight	5000	5000	all	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	537			1	weight	FOC	293	nav	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	537			1	weight	FOC	537	all	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	537			1	selection	5000	5000	nav	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	537			1	selection	5000	5000	all	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	537			1	selection	FOC	293	nav	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	537			1	selection	FOC	537	all	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	939			1	no	5000	5000	nav	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	939			1	no	5000	5000	all	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	939			1	no	FOC	470	nav	4_4	277	horde
-selection3		horde.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	939			1	no	FOC	939	all	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	537			1	selection	5000	5000	nav	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	537			1	selection	5000	5000	all	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	537			1	selection	FOC	293	nav	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	537			1	selection	FOC	537	all	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	939			1	no	5000	5000	nav	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	939			1	no	5000	5000	all	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	939			1	no	FOC	470	nav	4_4	277	horde
-weight		horde.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	939			1	no	FOC	939	all	4_4	277	horde
-	group1	horde.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	184			1	weight	5000	5000	nav	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	184			1	weight	5000	5000	all	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	184			1	weight	FOC	122	nav	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	184			1	weight	FOC	184	all	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	184			1	selection	5000	5000	nav	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	184			1	selection	5000	5000	all	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	184			1	selection	FOC	122	nav	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	184			1	selection	FOC	184	all	4_4	262	horde
-	group1	horde.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	232			1	no	5000	5000	nav	4_4	270	horde
-	group1	horde.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	232			1	no	5000	5000	all	4_4	270	horde
-	group1	horde.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	232			1	no	FOC	146	nav	4_4	270	horde
-	group1	horde.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	232			1	no	FOC	232	all	4_4	270	horde
-	group2	horde.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	249			1	weight	5000	5000	nav	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	249			1	weight	5000	5000	all	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	249			1	weight	FOC	165	nav	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	249			1	weight	FOC	249	all	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	249			1	selection	5000	5000	nav	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	249			1	selection	5000	5000	all	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	249			1	selection	FOC	165	nav	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	249			1	selection	FOC	249	all	4_4	264	horde
-	group2	horde.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	312			1	no	5000	5000	nav	4_4	271	horde
-	group2	horde.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	312			1	no	5000	5000	all	4_4	271	horde
-	group2	horde.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	312			1	no	FOC	199	nav	4_4	271	horde
-	group2	horde.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	312			1	no	FOC	312	all	4_4	271	horde
-	group3	horde.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	313			1	weight	5000	5000	nav	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	313			1	weight	5000	5000	all	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	313			1	weight	FOC	196	nav	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	313			1	weight	FOC	313	all	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	313			1	selection	5000	5000	nav	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	313			1	selection	5000	5000	all	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	313			1	selection	FOC	196	nav	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	313			1	selection	FOC	313	all	4_4	265	horde
-	group3	horde.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	425			1	no	5000	5000	nav	4_4	271	horde
-	group3	horde.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	425			1	no	5000	5000	all	4_4	271	horde
-	group3	horde.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	425			1	no	FOC	244	nav	4_4	271	horde
-	group3	horde.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	425			1	no	FOC	425	all	4_4	271	horde
+_model	model.x	model.y	LEMMAPATH	LEMMAREL	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
+horde.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.74496392894685	-0.10430502110230246	type	base	foc_boundaries	foc_foc_pos	foc_foc_win	LEMMAPATH	LEMMAREL	foc_ppmi	foc_minimum_features	foc_context_words	soc_length	soc_soc_pos	soc_soc_win	soc_length_num	tokens
+horde.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.6018563297814054	-0.9714940165866621	NA	NA	BOW	bound	480	lex	10_10	1	weight	5000	5000	all	4_4	268	horde
+horde.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.7368848870848234	0.2841615487520091	NA	NA	BOW	bound	480	lex	10_10	1	weight	FOC	354	nav	4_4	268	horde
+horde.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.7017339938322649	0.24616208217442154	NA	NA	BOW	bound	480	lex	10_10	1	weight	FOC	480	all	4_4	268	horde
+horde.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.8305245372791052	-0.08819508273484306	NA	NA	BOW	bound	480	lex	10_10	1	selection	5000	5000	nav	4_4	268	horde
+horde.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	-0.6867920517082704	-0.9225407637464148	NA	NA	BOW	bound	480	lex	10_10	1	selection	5000	5000	all	4_4	268	horde
+horde.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.6697739129950431	0.32745539473307245	NA	NA	BOW	bound	480	lex	10_10	1	selection	FOC	354	nav	4_4	268	horde
+horde.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.6495731592666666	0.29715659302254643	NA	NA	BOW	bound	480	lex	10_10	1	selection	FOC	480	all	4_4	268	horde
+horde.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.1789862903591293	0.8356547011587032	NA	NA	BOW	bound	926	lex	10_10	1	no	5000	5000	nav	4_4	273	horde
+horde.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	-1.311105783618779	-1.3470144375376634	NA	NA	BOW	bound	926	lex	10_10	1	no	5000	5000	all	4_4	273	horde
+horde.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.920474202336089	0.7865121443091502	NA	NA	BOW	bound	926	lex	10_10	1	no	FOC	685	nav	4_4	273	horde
+horde.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	-0.9353609156691427	0.7542886828037518	NA	NA	BOW	bound	926	lex	10_10	1	no	FOC	926	all	4_4	273	horde
+horde.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.17769855756609057	-0.18319439358523432	NA	NA	BOW	bound	659	all	10_10	1	weight	5000	5000	nav	4_4	277	horde
+horde.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	-0.11922085741458975	-0.9658042374905219	NA	NA	BOW	bound	659	all	10_10	1	weight	5000	5000	all	4_4	277	horde
+horde.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.37002479870814925	0.3536031057552797	NA	NA	BOW	bound	659	all	10_10	1	weight	FOC	354	nav	4_4	277	horde
+horde.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.3372943696553901	0.2669094348933482	NA	NA	BOW	bound	659	all	10_10	1	weight	FOC	659	all	4_4	277	horde
+horde.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.4897715236443359	1.0059953290190513	NA	NA	BOW	bound	659	all	10_10	1	selection	5000	5000	nav	4_4	277	horde
+horde.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	0.3924749732305457	-1.0867089637775906	NA	NA	BOW	bound	659	all	10_10	1	selection	5000	5000	all	4_4	277	horde
+horde.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.04487195149536955	0.6403907796691806	NA	NA	BOW	bound	659	all	10_10	1	selection	FOC	354	nav	4_4	277	horde
+horde.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.06049612085519944	0.5940436542793284	NA	NA	BOW	bound	659	all	10_10	1	selection	FOC	659	all	4_4	277	horde
+horde.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	0.4190905821375804	1.6850488648260993	NA	NA	BOW	bound	1319	all	10_10	1	no	5000	5000	nav	4_4	277	horde
+horde.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	0.30835205884101224	-2.125273883925903	NA	NA	BOW	bound	1319	all	10_10	1	no	5000	5000	all	4_4	277	horde
+horde.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	0.0010938221355670853	1.382818143122232	NA	NA	BOW	bound	1319	all	10_10	1	no	FOC	685	nav	4_4	277	horde
+horde.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.11763388103644168	1.4526809431580385	NA	NA	BOW	bound	1319	all	10_10	1	no	FOC	1319	all	4_4	277	horde
+horde.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6545789670117543	-0.11502632669484034	NA	NA	BOW	bound	402	lex	5_5	1	weight	5000	5000	nav	4_4	259	horde
+horde.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	-0.5711748967780265	-0.9077107740485962	NA	NA	BOW	bound	402	lex	5_5	1	weight	5000	5000	all	4_4	259	horde
+horde.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6209729447103979	0.1348628141870882	NA	NA	BOW	bound	402	lex	5_5	1	weight	FOC	295	nav	4_4	259	horde
+horde.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.6059170626460768	0.10277032770399312	NA	NA	BOW	bound	402	lex	5_5	1	weight	FOC	402	all	4_4	259	horde
+horde.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.6923128371509487	-0.14135093385596953	NA	NA	BOW	bound	402	lex	5_5	1	selection	5000	5000	nav	4_4	259	horde
+horde.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	-0.6057616154327276	-0.8736282216289675	NA	NA	BOW	bound	402	lex	5_5	1	selection	5000	5000	all	4_4	259	horde
+horde.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.5642915107977982	0.13495212673771412	NA	NA	BOW	bound	402	lex	5_5	1	selection	FOC	295	nav	4_4	259	horde
+horde.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.5523741754791665	0.10647658392256452	NA	NA	BOW	bound	402	lex	5_5	1	selection	FOC	402	all	4_4	259	horde
+horde.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	-1.2082520071518181	0.00541111226408116	NA	NA	BOW	bound	580	lex	5_5	1	no	5000	5000	nav	4_4	271	horde
+horde.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	-1.008660293466354	-1.2120440835647208	NA	NA	BOW	bound	580	lex	5_5	1	no	5000	5000	all	4_4	271	horde
+horde.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.8156099454525736	0.34676428651698205	NA	NA	BOW	bound	580	lex	5_5	1	no	FOC	436	nav	4_4	271	horde
+horde.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	-0.8476923390835329	0.32196117033423893	NA	NA	BOW	bound	580	lex	5_5	1	no	FOC	580	all	4_4	271	horde
+horde.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.0579625356723213	-0.13420724981969842	NA	NA	BOW	bound	545	all	5_5	1	weight	5000	5000	nav	4_4	276	horde
+horde.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	-0.0049900029034261485	-0.8754832958115936	NA	NA	BOW	bound	545	all	5_5	1	weight	5000	5000	all	4_4	276	horde
+horde.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.24081138055364779	0.14258425225279184	NA	NA	BOW	bound	545	all	5_5	1	weight	FOC	295	nav	4_4	276	horde
+horde.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.22500023956148796	0.09761659565910641	NA	NA	BOW	bound	545	all	5_5	1	weight	FOC	545	all	4_4	276	horde
+horde.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.6049770941676181	0.6301426275873822	NA	NA	BOW	bound	545	all	5_5	1	selection	5000	5000	nav	4_4	276	horde
+horde.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	0.5071997617028773	-0.772787201048991	NA	NA	BOW	bound	545	all	5_5	1	selection	5000	5000	all	4_4	276	horde
+horde.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	0.057989783610707606	0.3419505304694828	NA	NA	BOW	bound	545	all	5_5	1	selection	FOC	295	nav	4_4	276	horde
+horde.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	0.058650139542105226	0.2933762312551983	NA	NA	BOW	bound	545	all	5_5	1	selection	FOC	545	all	4_4	276	horde
+horde.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	0.6986765833597075	1.0379614839794595	NA	NA	BOW	bound	812	all	5_5	1	no	5000	5000	nav	4_4	276	horde
+horde.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	0.7588512811639577	-1.3207857702165826	NA	NA	BOW	bound	812	all	5_5	1	no	5000	5000	all	4_4	276	horde
+horde.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	0.14029840534360255	0.7350383411494923	NA	NA	BOW	bound	812	all	5_5	1	no	FOC	436	nav	4_4	276	horde
+horde.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	0.10091703469053183	0.7697334609752781	NA	NA	BOW	bound	812	all	5_5	1	no	FOC	812	all	4_4	276	horde
+horde.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.513447350307722	-0.16498768887422785	NA	NA	BOW	bound	313	lex	3_3	1	weight	5000	5000	nav	4_4	248	horde
+horde.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	-0.41691302195071894	-0.8860361150087008	NA	NA	BOW	bound	313	lex	3_3	1	weight	5000	5000	all	4_4	248	horde
+horde.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.48451597510559957	0.03880234028069421	NA	NA	BOW	bound	313	lex	3_3	1	weight	FOC	233	nav	4_4	248	horde
+horde.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.4667736256138085	0.01143935549741255	NA	NA	BOW	bound	313	lex	3_3	1	weight	FOC	313	all	4_4	248	horde
+horde.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.5726889927688403	-0.19509419073622056	NA	NA	BOW	bound	313	lex	3_3	1	selection	5000	5000	nav	4_4	248	horde
+horde.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	-0.4380728755564289	-0.9073334476688244	NA	NA	BOW	bound	313	lex	3_3	1	selection	5000	5000	all	4_4	248	horde
+horde.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.4801732129310382	0.05264631509884252	NA	NA	BOW	bound	313	lex	3_3	1	selection	FOC	233	nav	4_4	248	horde
+horde.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.4680760987898519	0.023235021506397807	NA	NA	BOW	bound	313	lex	3_3	1	selection	FOC	313	all	4_4	248	horde
+horde.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	-0.9985950972741834	-0.14269573058756665	NA	NA	BOW	bound	388	lex	3_3	1	no	5000	5000	nav	4_4	259	horde
+horde.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	-0.674206715325289	-1.2214204103208668	NA	NA	BOW	bound	388	lex	3_3	1	no	5000	5000	all	4_4	259	horde
+horde.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.7016686933589094	0.20068833885201576	NA	NA	BOW	bound	388	lex	3_3	1	no	FOC	289	nav	4_4	259	horde
+horde.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.7013763398722153	0.1789527650210947	NA	NA	BOW	bound	388	lex	3_3	1	no	FOC	388	all	4_4	259	horde
+horde.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.13404724568793913	-0.20580131367035553	NA	NA	BOW	bound	403	all	3_3	1	weight	5000	5000	nav	4_4	274	horde
+horde.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	0.1874611952265063	-0.9324254822883947	NA	NA	BOW	bound	403	all	3_3	1	weight	5000	5000	all	4_4	274	horde
+horde.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.1130358061382517	0.06449631089337123	NA	NA	BOW	bound	403	all	3_3	1	weight	FOC	233	nav	4_4	274	horde
+horde.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.08202779590141088	0.006840204010925281	NA	NA	BOW	bound	403	all	3_3	1	weight	FOC	403	all	4_4	274	horde
+horde.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.8481950568242073	0.35135543317140483	NA	NA	BOW	bound	403	all	3_3	1	selection	5000	5000	nav	4_4	274	horde
+horde.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	0.7489955935623195	-0.7787386816157029	NA	NA	BOW	bound	403	all	3_3	1	selection	5000	5000	all	4_4	274	horde
+horde.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.21708125519456992	0.2445248114919905	NA	NA	BOW	bound	403	all	3_3	1	selection	FOC	233	nav	4_4	274	horde
+horde.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.22024367427649666	0.18320893756620382	NA	NA	BOW	bound	403	all	3_3	1	selection	FOC	403	all	4_4	274	horde
+horde.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	0.9930155988584044	0.5954521361303741	NA	NA	BOW	bound	527	all	3_3	1	no	5000	5000	nav	4_4	275	horde
+horde.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	1.0384321513884844	-0.990475088945866	NA	NA	BOW	bound	527	all	3_3	1	no	5000	5000	all	4_4	275	horde
+horde.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.29841310636633067	0.48602453084611136	NA	NA	BOW	bound	527	all	3_3	1	no	FOC	289	nav	4_4	275	horde
+horde.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	0.290733336818477	0.4486811155141031	NA	NA	BOW	bound	527	all	3_3	1	no	FOC	527	all	4_4	275	horde
+horde.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.0832644460124037	-0.005399793328738082	NA	NA	BOW	nobound	583	lex	10_10	1	weight	5000	5000	nav	4_4	273	horde
+horde.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.9462569439448701	-1.0115251102388074	NA	NA	BOW	nobound	583	lex	10_10	1	weight	5000	5000	all	4_4	273	horde
+horde.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.1347113543989573	0.3689948457754607	NA	NA	BOW	nobound	583	lex	10_10	1	weight	FOC	422	nav	4_4	273	horde
+horde.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.0863803102001917	0.3156070459701914	NA	NA	BOW	nobound	583	lex	10_10	1	weight	FOC	583	all	4_4	273	horde
+horde.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.235071447661564	0.13021742561771704	NA	NA	BOW	nobound	583	lex	10_10	1	selection	5000	5000	nav	4_4	273	horde
+horde.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	-1.1211826758044248	-0.9740251766763758	NA	NA	BOW	nobound	583	lex	10_10	1	selection	5000	5000	all	4_4	273	horde
+horde.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.0423882259015262	0.4695659445814899	NA	NA	BOW	nobound	583	lex	10_10	1	selection	FOC	422	nav	4_4	273	horde
+horde.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.0144006820918534	0.4350163132668625	NA	NA	BOW	nobound	583	lex	10_10	1	selection	FOC	583	all	4_4	273	horde
+horde.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.6714860481745968	0.8066355190164956	NA	NA	BOW	nobound	1238	lex	10_10	1	no	5000	5000	nav	4_4	276	horde
+horde.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	-1.8700207081685847	-1.294713550177186	NA	NA	BOW	nobound	1238	lex	10_10	1	no	5000	5000	all	4_4	276	horde
+horde.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.3544322115104026	0.9340208889087436	NA	NA	BOW	nobound	1238	lex	10_10	1	no	FOC	894	nav	4_4	276	horde
+horde.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.377702464103544	0.8802536668416557	NA	NA	BOW	nobound	1238	lex	10_10	1	no	FOC	1238	all	4_4	276	horde
+horde.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.4637354293137573	0.548143463279282	NA	NA	BOW	nobound	790	all	10_10	1	weight	5000	5000	nav	4_4	277	horde
+horde.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	-0.294988828795698	-1.0910541445121305	NA	NA	BOW	nobound	790	all	10_10	1	weight	5000	5000	all	4_4	277	horde
+horde.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.5995933536208643	0.579107349970393	NA	NA	BOW	nobound	790	all	10_10	1	weight	FOC	422	nav	4_4	277	horde
+horde.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.5689363900918601	0.5065771200785972	NA	NA	BOW	nobound	790	all	10_10	1	weight	FOC	790	all	4_4	277	horde
+horde.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.09542084828029203	1.3105407703130636	NA	NA	BOW	nobound	790	all	10_10	1	selection	5000	5000	nav	4_4	277	horde
+horde.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	0.03220992582047828	-1.3771781025105418	NA	NA	BOW	nobound	790	all	10_10	1	selection	5000	5000	all	4_4	277	horde
+horde.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.31553252698921663	0.8900130900773091	NA	NA	BOW	nobound	790	all	10_10	1	selection	FOC	422	nav	4_4	277	horde
+horde.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.32341187451681935	0.8643344793011827	NA	NA	BOW	nobound	790	all	10_10	1	selection	FOC	790	all	4_4	277	horde
+horde.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	-0.08686595587710982	1.9341418308744105	NA	NA	BOW	nobound	1723	all	10_10	1	no	5000	5000	nav	4_4	278	horde
+horde.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	-0.6343254035490308	-2.3812431192178902	NA	NA	BOW	nobound	1723	all	10_10	1	no	5000	5000	all	4_4	278	horde
+horde.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.4552407903373358	1.6707139276547673	NA	NA	BOW	nobound	1723	all	10_10	1	no	FOC	894	nav	4_4	278	horde
+horde.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.5744972560911605	1.7078984136561435	NA	NA	BOW	nobound	1723	all	10_10	1	no	FOC	1723	all	4_4	278	horde
+horde.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.8672010959588641	-0.08427558405539656	NA	NA	BOW	nobound	453	lex	5_5	1	weight	5000	5000	nav	4_4	264	horde
+horde.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	-0.7833398795041884	-0.9543615139149632	NA	NA	BOW	nobound	453	lex	5_5	1	weight	5000	5000	all	4_4	264	horde
+horde.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.8110105567422754	0.15028788520056172	NA	NA	BOW	nobound	453	lex	5_5	1	weight	FOC	330	nav	4_4	264	horde
+horde.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.7923702351035354	0.11776699490322794	NA	NA	BOW	nobound	453	lex	5_5	1	weight	FOC	453	all	4_4	264	horde
+horde.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.9377314068952016	-0.10328430890998408	NA	NA	BOW	nobound	453	lex	5_5	1	selection	5000	5000	nav	4_4	264	horde
+horde.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	-0.8202740333414856	-0.8987695505664057	NA	NA	BOW	nobound	453	lex	5_5	1	selection	5000	5000	all	4_4	264	horde
+horde.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7427751970243575	0.14761189633957636	NA	NA	BOW	nobound	453	lex	5_5	1	selection	FOC	330	nav	4_4	264	horde
+horde.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.7288773542734055	0.10989384606249404	NA	NA	BOW	nobound	453	lex	5_5	1	selection	FOC	453	all	4_4	264	horde
+horde.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	-1.4246894625008695	0.12029083698965809	NA	NA	BOW	nobound	669	lex	5_5	1	no	5000	5000	nav	4_4	274	horde
+horde.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	-1.2846904944644983	-1.1612559894006462	NA	NA	BOW	nobound	669	lex	5_5	1	no	5000	5000	all	4_4	274	horde
+horde.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.0392133869102647	0.35070680560722917	NA	NA	BOW	nobound	669	lex	5_5	1	no	FOC	494	nav	4_4	274	horde
+horde.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.0926044047356815	0.28984649022869485	NA	NA	BOW	nobound	669	lex	5_5	1	no	FOC	669	all	4_4	274	horde
+horde.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.17428533641641483	-0.13529157975318115	NA	NA	BOW	nobound	614	all	5_5	1	weight	5000	5000	nav	4_4	276	horde
+horde.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	-0.1292160158253918	-0.9260932239043541	NA	NA	BOW	nobound	614	all	5_5	1	weight	5000	5000	all	4_4	276	horde
+horde.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.3326082395814996	0.22871885466877281	NA	NA	BOW	nobound	614	all	5_5	1	weight	FOC	330	nav	4_4	276	horde
+horde.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.31542225253081246	0.16604713424201611	NA	NA	BOW	nobound	614	all	5_5	1	weight	FOC	614	all	4_4	276	horde
+horde.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.5017817935712099	0.8136268967183884	NA	NA	BOW	nobound	614	all	5_5	1	selection	5000	5000	nav	4_4	276	horde
+horde.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	0.35354762464570544	-0.9513399150687241	NA	NA	BOW	nobound	614	all	5_5	1	selection	5000	5000	all	4_4	276	horde
+horde.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.030811021709943914	0.4219063912485536	NA	NA	BOW	nobound	614	all	5_5	1	selection	FOC	330	nav	4_4	276	horde
+horde.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.03177899269916145	0.3873458635971274	NA	NA	BOW	nobound	614	all	5_5	1	selection	FOC	614	all	4_4	276	horde
+horde.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	0.5240664600929135	1.2329763978084618	NA	NA	BOW	nobound	932	all	5_5	1	no	5000	5000	nav	4_4	278	horde
+horde.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	0.5151076788551827	-1.6541635250869895	NA	NA	BOW	nobound	932	all	5_5	1	no	5000	5000	all	4_4	278	horde
+horde.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	0.02561546355253663	0.8769814013733275	NA	NA	BOW	nobound	932	all	5_5	1	no	FOC	494	nav	4_4	278	horde
+horde.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.036360367697748384	0.9127367028518163	NA	NA	BOW	nobound	932	all	5_5	1	no	FOC	932	all	4_4	278	horde
+horde.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6199968673048465	-0.17970343204440054	NA	NA	BOW	nobound	333	lex	3_3	1	weight	5000	5000	nav	4_4	252	horde
+horde.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	-0.5065850680919698	-0.9562580559928651	NA	NA	BOW	nobound	333	lex	3_3	1	weight	5000	5000	all	4_4	252	horde
+horde.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.5941271194408885	0.04508213300107027	NA	NA	BOW	nobound	333	lex	3_3	1	weight	FOC	247	nav	4_4	252	horde
+horde.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.5557891528268906	0.013088832796699989	NA	NA	BOW	nobound	333	lex	3_3	1	weight	FOC	333	all	4_4	252	horde
+horde.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.7051624263892051	-0.2134422077610226	NA	NA	BOW	nobound	333	lex	3_3	1	selection	5000	5000	nav	4_4	252	horde
+horde.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	-0.5328123957413055	-0.9897629421885675	NA	NA	BOW	nobound	333	lex	3_3	1	selection	5000	5000	all	4_4	252	horde
+horde.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.5787194181867057	0.051568824267317494	NA	NA	BOW	nobound	333	lex	3_3	1	selection	FOC	247	nav	4_4	252	horde
+horde.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.5542865661194984	0.028751461908235184	NA	NA	BOW	nobound	333	lex	3_3	1	selection	FOC	333	all	4_4	252	horde
+horde.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	-1.1849843837958671	-0.09939609975405408	NA	NA	BOW	nobound	415	lex	3_3	1	no	5000	5000	nav	4_4	263	horde
+horde.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	-0.8375544012751819	-1.2815490134037613	NA	NA	BOW	nobound	415	lex	3_3	1	no	5000	5000	all	4_4	263	horde
+horde.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.8681278192118296	0.2271622971787261	NA	NA	BOW	nobound	415	lex	3_3	1	no	FOC	309	nav	4_4	263	horde
+horde.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.867706204375703	0.19271843844548373	NA	NA	BOW	nobound	415	lex	3_3	1	no	FOC	415	all	4_4	263	horde
+horde.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.08723959342612472	-0.2450113932426993	NA	NA	BOW	nobound	434	all	3_3	1	weight	5000	5000	nav	4_4	275	horde
+horde.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	0.1399434402007418	-1.0005344419712612	NA	NA	BOW	nobound	434	all	3_3	1	weight	5000	5000	all	4_4	275	horde
+horde.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.17091659806559217	0.06446952292195325	NA	NA	BOW	nobound	434	all	3_3	1	weight	FOC	247	nav	4_4	275	horde
+horde.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.13420922272375704	0.005455478179685817	NA	NA	BOW	nobound	434	all	3_3	1	weight	FOC	434	all	4_4	275	horde
+horde.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.8829590824383734	0.4238228727616448	NA	NA	BOW	nobound	434	all	3_3	1	selection	5000	5000	nav	4_4	275	horde
+horde.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	0.7518871857249328	-0.8595682193802388	NA	NA	BOW	nobound	434	all	3_3	1	selection	5000	5000	all	4_4	275	horde
+horde.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.1947162752969388	0.2607752165647527	NA	NA	BOW	nobound	434	all	3_3	1	selection	FOC	247	nav	4_4	275	horde
+horde.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.21304994048962972	0.1939575019002512	NA	NA	BOW	nobound	434	all	3_3	1	selection	FOC	434	all	4_4	275	horde
+horde.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	1.0005093475217632	0.640654459393853	NA	NA	BOW	nobound	568	all	3_3	1	no	5000	5000	nav	4_4	275	horde
+horde.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	1.0221770238897496	-1.1157255923750324	NA	NA	BOW	nobound	568	all	3_3	1	no	5000	5000	all	4_4	275	horde
+horde.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.2832923229959251	0.520569194894375	NA	NA	BOW	nobound	568	all	3_3	1	no	FOC	309	nav	4_4	275	horde
+horde.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	0.2717725448373113	0.48965677773191635	NA	NA	BOW	nobound	568	all	3_3	1	no	FOC	568	all	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	0.29251714247322597	-0.18107798318731394	selection2	NA	dependency	bound	395	NA	NA	1	weight	5000	5000	nav	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	0.4268649725691915	-0.9441374792085835	selection2	NA	dependency	bound	395	NA	NA	1	weight	5000	5000	all	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	0.01290667611237874	0.03682437597861207	selection2	NA	dependency	bound	395	NA	NA	1	weight	FOC	234	nav	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	0.038425195119874904	0.0018733404265187637	selection2	NA	dependency	bound	395	NA	NA	1	weight	FOC	395	all	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	0.9011969274717808	0.22789189944143373	selection2	NA	dependency	bound	395	NA	NA	1	selection	5000	5000	nav	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	0.939478281598483	-0.5919384765512484	selection2	NA	dependency	bound	395	NA	NA	1	selection	5000	5000	all	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	0.37738112293543546	0.20314331335099242	selection2	NA	dependency	bound	395	NA	NA	1	selection	FOC	234	nav	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	0.38026538318975467	0.15747196754854567	selection2	NA	dependency	bound	395	NA	NA	1	selection	FOC	395	all	4_4	275	horde
+horde.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	1.13583673568977	0.5052287570124379	selection2	NA	dependency	bound	587	NA	NA	1	no	5000	5000	nav	4_4	277	horde
+horde.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	1.3888444229436623	-0.7590317826014003	selection2	NA	dependency	bound	587	NA	NA	1	no	5000	5000	all	4_4	277	horde
+horde.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	0.5028399516455804	0.44155139562559675	selection2	NA	dependency	bound	587	NA	NA	1	no	FOC	319	nav	4_4	277	horde
+horde.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	0.5024951888792919	0.38806242048763134	selection2	NA	dependency	bound	587	NA	NA	1	no	FOC	587	all	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	0.09446934800942766	-0.17794514271071663	selection3	NA	dependency	bound	537	NA	NA	1	weight	5000	5000	nav	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	0.1504280119427815	-0.9124041640420089	selection3	NA	dependency	bound	537	NA	NA	1	weight	5000	5000	all	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	-0.13235756643036625	0.1278176869243398	selection3	NA	dependency	bound	537	NA	NA	1	weight	FOC	293	nav	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	-0.11057106219365731	0.052558227027287324	selection3	NA	dependency	bound	537	NA	NA	1	weight	FOC	537	all	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	0.8412474575272394	0.5853461346336997	selection3	NA	dependency	bound	537	NA	NA	1	selection	5000	5000	nav	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	0.7800788124357303	-0.7098520459310534	selection3	NA	dependency	bound	537	NA	NA	1	selection	5000	5000	all	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	0.21499564712336378	0.37962729553068886	selection3	NA	dependency	bound	537	NA	NA	1	selection	FOC	293	nav	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	0.2263964141224527	0.3255880977007736	selection3	NA	dependency	bound	537	NA	NA	1	selection	FOC	537	all	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	1.0621668492289222	0.8956991130042712	selection3	NA	dependency	bound	939	NA	NA	1	no	5000	5000	nav	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	1.3208799810928993	-1.164049748482716	selection3	NA	dependency	bound	939	NA	NA	1	no	5000	5000	all	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	0.39718047748087776	0.7509734711556382	selection3	NA	dependency	bound	939	NA	NA	1	no	FOC	470	nav	4_4	277	horde
+horde.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	0.3820217257380722	0.7939142632647312	selection3	NA	dependency	bound	939	NA	NA	1	no	FOC	939	all	4_4	277	horde
+horde.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	0.8412474575272394	0.5853461346336997	weight	NA	dependency	bound	537	NA	NA	1	selection	5000	5000	nav	4_4	277	horde
+horde.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	0.7800788124357303	-0.7098520459310534	weight	NA	dependency	bound	537	NA	NA	1	selection	5000	5000	all	4_4	277	horde
+horde.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	0.21499564712336378	0.37962729553068886	weight	NA	dependency	bound	537	NA	NA	1	selection	FOC	293	nav	4_4	277	horde
+horde.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	0.2263964141224527	0.3255880977007736	weight	NA	dependency	bound	537	NA	NA	1	selection	FOC	537	all	4_4	277	horde
+horde.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	1.133537481038606	0.44993696369436786	weight	NA	dependency	bound	939	NA	NA	1	no	5000	5000	nav	4_4	277	horde
+horde.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	1.3293427360535515	-0.605498679251686	weight	NA	dependency	bound	939	NA	NA	1	no	5000	5000	all	4_4	277	horde
+horde.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	0.5376511873121612	0.38349820626305803	weight	NA	dependency	bound	939	NA	NA	1	no	FOC	470	nav	4_4	277	horde
+horde.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	0.5464148021683437	0.34439922533705397	weight	NA	dependency	bound	939	NA	NA	1	no	FOC	939	all	4_4	277	horde
+horde.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	0.9943512212775597	-0.010943726467855124	NA	group1	dependency	bound	184	NA	NA	1	weight	5000	5000	nav	4_4	262	horde
+horde.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	1.1864912446538642	-0.6546177511740912	NA	group1	dependency	bound	184	NA	NA	1	weight	5000	5000	all	4_4	262	horde
+horde.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	0.857022183980131	-0.02310977356381645	NA	group1	dependency	bound	184	NA	NA	1	weight	FOC	122	nav	4_4	262	horde
+horde.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	0.8311129570686224	-0.030966452393492837	NA	group1	dependency	bound	184	NA	NA	1	weight	FOC	184	all	4_4	262	horde
+horde.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	1.2608304760739264	0.19972918136947101	NA	group1	dependency	bound	184	NA	NA	1	selection	5000	5000	nav	4_4	262	horde
+horde.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	1.406611846607797	-0.3170705711007185	NA	group1	dependency	bound	184	NA	NA	1	selection	5000	5000	all	4_4	262	horde
+horde.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	1.0330579407398688	0.18700153676727357	NA	group1	dependency	bound	184	NA	NA	1	selection	FOC	122	nav	4_4	262	horde
+horde.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	1.0024421949176379	0.13408594802193544	NA	group1	dependency	bound	184	NA	NA	1	selection	FOC	184	all	4_4	262	horde
+horde.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	1.50962440668824	0.3407246422157676	NA	group1	dependency	bound	232	NA	NA	1	no	5000	5000	nav	4_4	270	horde
+horde.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	1.7262038576530636	-0.33460886582023036	NA	group1	dependency	bound	232	NA	NA	1	no	5000	5000	all	4_4	270	horde
+horde.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	1.1932596568116134	0.3242237522755233	NA	group1	dependency	bound	232	NA	NA	1	no	FOC	146	nav	4_4	270	horde
+horde.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	1.1608135453558421	0.26024312585258197	NA	group1	dependency	bound	232	NA	NA	1	no	FOC	232	all	4_4	270	horde
+horde.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	0.6921779011331869	-0.14439145486685379	NA	group2	dependency	bound	249	NA	NA	1	weight	5000	5000	nav	4_4	264	horde
+horde.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	0.815835353253025	-0.9026080994477433	NA	group2	dependency	bound	249	NA	NA	1	weight	5000	5000	all	4_4	264	horde
+horde.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	0.42642443447174705	-0.08163743510488992	NA	group2	dependency	bound	249	NA	NA	1	weight	FOC	165	nav	4_4	264	horde
+horde.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	0.416096376194461	-0.10435020191293527	NA	group2	dependency	bound	249	NA	NA	1	weight	FOC	249	all	4_4	264	horde
+horde.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	1.1182825857020944	0.15109092559690632	NA	group2	dependency	bound	249	NA	NA	1	selection	5000	5000	nav	4_4	264	horde
+horde.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	1.179123554130497	-0.4567177312391996	NA	group2	dependency	bound	249	NA	NA	1	selection	5000	5000	all	4_4	264	horde
+horde.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	0.7034114632037972	0.13094986544571074	NA	group2	dependency	bound	249	NA	NA	1	selection	FOC	165	nav	4_4	264	horde
+horde.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	0.6979569580270498	0.09418195334053193	NA	group2	dependency	bound	249	NA	NA	1	selection	FOC	249	all	4_4	264	horde
+horde.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	1.3556311068815359	0.284928124513643	NA	group2	dependency	bound	312	NA	NA	1	no	5000	5000	nav	4_4	271	horde
+horde.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	1.4789357559491707	-0.4589214436198592	NA	group2	dependency	bound	312	NA	NA	1	no	5000	5000	all	4_4	271	horde
+horde.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	0.8314219884100872	0.24000582452765593	NA	group2	dependency	bound	312	NA	NA	1	no	FOC	199	nav	4_4	271	horde
+horde.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	0.80614970053138435	0.1759089757043908	NA	group2	dependency	bound	312	NA	NA	1	no	FOC	312	all	4_4	271	horde
+horde.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav	0.5598407775659608	-0.15041304297961614	NA	group3	dependency	bound	313	NA	NA	1	weight	5000	5000	nav	4_4	265	horde
+horde.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall	0.6554693450753021	-0.9159227791490793	NA	group3	dependency	bound	313	NA	NA	1	weight	5000	5000	all	4_4	265	horde
+horde.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav	0.24155253966815446	-0.020949264351392816	NA	group3	dependency	bound	313	NA	NA	1	weight	FOC	196	nav	4_4	265	horde
+horde.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall	0.25293808278658025	-0.042972899875256494	NA	group3	dependency	bound	313	NA	NA	1	weight	FOC	313	all	4_4	265	horde
+horde.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav	0.9996279930299674	0.16612854324112175	NA	group3	dependency	bound	313	NA	NA	1	selection	5000	5000	nav	4_4	265	horde
+horde.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall	1.079246225279376	-0.5285684576797457	NA	group3	dependency	bound	313	NA	NA	1	selection	5000	5000	all	4_4	265	horde
+horde.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav	0.5277598626527783	0.14987486690358406	NA	group3	dependency	bound	313	NA	NA	1	selection	FOC	196	nav	4_4	265	horde
+horde.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall	0.5296945754730378	0.11778940270166079	NA	group3	dependency	bound	313	NA	NA	1	selection	FOC	313	all	4_4	265	horde
+horde.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav	1.3176289336180733	0.32244801610960516	NA	group3	dependency	bound	425	NA	NA	1	no	5000	5000	nav	4_4	271	horde
+horde.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall	1.5448895106261245	-0.578016929291264	NA	group3	dependency	bound	425	NA	NA	1	no	5000	5000	all	4_4	271	horde
+horde.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav	0.6928545111367467	0.3114640585293391	NA	group3	dependency	bound	425	NA	NA	1	no	FOC	244	nav	4_4	271	horde
+horde.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall	0.6931860784461165	0.26022592735467054	NA	group3	dependency	bound	425	NA	NA	1	no	FOC	425	all	4_4	271	horde
