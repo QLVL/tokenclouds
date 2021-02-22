@@ -2,13 +2,13 @@
   "cws": ["heet.cws.tsv"],
   "mds": ["heet.mds.tsv"],
   "medoids": ["heet.medoids.tsv"],
-  "models.dist": ["heet.models.dist.tsv"],
+  "modelsdist": ["heet.models.dist.tsv"],
   "models": ["heet.models.tsv"],
   "ppmi": ["heet.ppmi.tsv"],
   "solutions": ["heet.solutions.json"],
-  "tsne.10": ["heet.tsne.10.tsv"],
-  "tsne.20": ["heet.tsne.20.tsv"],
-  "tsne.30": ["heet.tsne.30.tsv"],
-  "tsne.50": ["heet.tsne.50.tsv"],
+  "tsne10": ["heet.tsne.10.tsv"],
+  "tsne20": ["heet.tsne.20.tsv"],
+  "tsne30": ["heet.tsne.30.tsv"],
+  "tsne50": ["heet.tsne.50.tsv"],
   "variables": ["heet.variables.tsv"]
 }

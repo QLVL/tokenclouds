@@ -2,13 +2,13 @@
   "cws": ["goedkoop.cws.tsv"],
   "mds": ["goedkoop.mds.tsv"],
   "medoids": ["goedkoop.medoids.tsv"],
-  "models.dist": ["goedkoop.models.dist.tsv"],
+  "modelsdist": ["goedkoop.models.dist.tsv"],
   "models": ["goedkoop.models.tsv"],
   "ppmi": ["goedkoop.ppmi.tsv"],
   "solutions": ["goedkoop.solutions.json"],
-  "tsne.10": ["goedkoop.tsne.10.tsv"],
-  "tsne.20": ["goedkoop.tsne.20.tsv"],
-  "tsne.30": ["goedkoop.tsne.30.tsv"],
-  "tsne.50": ["goedkoop.tsne.50.tsv"],
+  "tsne10": ["goedkoop.tsne.10.tsv"],
+  "tsne20": ["goedkoop.tsne.20.tsv"],
+  "tsne30": ["goedkoop.tsne.30.tsv"],
+  "tsne50": ["goedkoop.tsne.50.tsv"],
   "variables": ["goedkoop.variables.tsv"]
 }

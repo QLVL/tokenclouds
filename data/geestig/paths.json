@@ -2,13 +2,13 @@
   "cws": ["geestig.cws.tsv"],
   "mds": ["geestig.mds.tsv"],
   "medoids": ["geestig.medoids.tsv"],
-  "models.dist": ["geestig.models.dist.tsv"],
+  "modelsdist": ["geestig.models.dist.tsv"],
   "models": ["geestig.models.tsv"],
   "ppmi": ["geestig.ppmi.tsv"],
   "solutions": ["geestig.solutions.json"],
-  "tsne.10": ["geestig.tsne.10.tsv"],
-  "tsne.20": ["geestig.tsne.20.tsv"],
-  "tsne.30": ["geestig.tsne.30.tsv"],
-  "tsne.50": ["geestig.tsne.50.tsv"],
+  "tsne10": ["geestig.tsne.10.tsv"],
+  "tsne20": ["geestig.tsne.20.tsv"],
+  "tsne30": ["geestig.tsne.30.tsv"],
+  "tsne50": ["geestig.tsne.50.tsv"],
   "variables": ["geestig.variables.tsv"]
 }

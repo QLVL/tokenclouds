@@ -1,8 +1,8 @@
 {
   "cws": ["destroy.cws.tsv"],
-  "models.dist": ["destroy.models.dist.tsv"],
+  "modelsdist": ["destroy.models.dist.tsv"],
   "models": ["destroy.models.tsv"],
   "ppmi": ["destroy.ppmi.tsv"],
-  "destroy.tsv": ["destroy.tsv"],
+  "destroytsv": ["destroy.tsv"],
   "variables": ["destroy.variables.tsv"]
 }
