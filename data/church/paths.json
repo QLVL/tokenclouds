@@ -1,0 +1,13 @@
+{
+  "coords": ["church.coords.tsv"],
+  "cws.extra": ["church.cws.extra.tsv"],
+  "cws": ["church.cws.tsv"],
+  "mds": ["church.mds.tsv"],
+  "models.dist": ["church.models.dist.tsv"],
+  "models": ["church.models.tsv"],
+  "ppmi": ["church.ppmi.tsv"],
+  "church.tsv": ["church.tsv"],
+  "variables": ["church.variables.tsv"],
+  "LOTSchool": ["LOTSchool"],
+  "Semcor": ["Semcor"]
+}

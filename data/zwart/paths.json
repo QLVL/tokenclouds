@@ -1,0 +1,11 @@
+{
+  "concordance_contexts.tsv": ["concordance_contexts.tsv"],
+  "coords": ["zwart.coords.tsv"],
+  "cws": ["zwart.cws.tsv"],
+  "mds": ["zwart.mds.tsv"],
+  "models.dist": ["zwart.models.dist.tsv"],
+  "models": ["zwart.models.tsv"],
+  "ppmi": ["zwart.ppmi.tsv"],
+  "zwart.tsv": ["zwart.tsv"],
+  "variables": ["zwart.variables.tsv"]
+}
