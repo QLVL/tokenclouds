@@ -1,1577 +1,201 @@
-LEMMAPATH	LEMMAREL	_model	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
-		heffen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	366	lex	10_10	1	weight	5000	5000	nav	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	366	lex	10_10	1	weight	5000	5000	all	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	366	lex	10_10	1	weight	FOC	253	nav	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	366	lex	10_10	1	weight	FOC	366	all	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	366	lex	10_10	1	selection	5000	5000	nav	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	366	lex	10_10	1	selection	5000	5000	all	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	366	lex	10_10	1	selection	FOC	253	nav	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	366	lex	10_10	1	selection	FOC	366	all	4_4	217	heffen
-		heffen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	718	lex	10_10	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	718	lex	10_10	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	718	lex	10_10	1	no	FOC	502	nav	4_4	218	heffen
-		heffen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	718	lex	10_10	1	no	FOC	718	all	4_4	218	heffen
-		heffen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	475	all	10_10	1	weight	5000	5000	nav	4_4	218	heffen
-		heffen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	475	all	10_10	1	weight	5000	5000	all	4_4	218	heffen
-		heffen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	475	all	10_10	1	weight	FOC	253	nav	4_4	218	heffen
-		heffen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	475	all	10_10	1	weight	FOC	475	all	4_4	218	heffen
-		heffen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	475	all	10_10	1	selection	5000	5000	nav	4_4	218	heffen
-		heffen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	475	all	10_10	1	selection	5000	5000	all	4_4	218	heffen
-		heffen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	475	all	10_10	1	selection	FOC	253	nav	4_4	218	heffen
-		heffen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	475	all	10_10	1	selection	FOC	475	all	4_4	218	heffen
-		heffen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	960	all	10_10	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	960	all	10_10	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	960	all	10_10	1	no	FOC	502	nav	4_4	218	heffen
-		heffen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	960	all	10_10	1	no	FOC	960	all	4_4	218	heffen
-		heffen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	279	lex	5_5	1	weight	5000	5000	nav	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	279	lex	5_5	1	weight	5000	5000	all	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	279	lex	5_5	1	weight	FOC	194	nav	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	279	lex	5_5	1	weight	FOC	279	all	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	279	lex	5_5	1	selection	5000	5000	nav	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	279	lex	5_5	1	selection	5000	5000	all	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	279	lex	5_5	1	selection	FOC	194	nav	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	279	lex	5_5	1	selection	FOC	279	all	4_4	216	heffen
-		heffen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	433	lex	5_5	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	433	lex	5_5	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	433	lex	5_5	1	no	FOC	315	nav	4_4	218	heffen
-		heffen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	433	lex	5_5	1	no	FOC	433	all	4_4	218	heffen
-		heffen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	361	all	5_5	1	weight	5000	5000	nav	4_4	217	heffen
-		heffen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	361	all	5_5	1	weight	5000	5000	all	4_4	217	heffen
-		heffen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	361	all	5_5	1	weight	FOC	194	nav	4_4	217	heffen
-		heffen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	361	all	5_5	1	weight	FOC	361	all	4_4	217	heffen
-		heffen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	361	all	5_5	1	selection	5000	5000	nav	4_4	217	heffen
-		heffen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	361	all	5_5	1	selection	5000	5000	all	4_4	217	heffen
-		heffen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	361	all	5_5	1	selection	FOC	194	nav	4_4	217	heffen
-		heffen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	361	all	5_5	1	selection	FOC	361	all	4_4	217	heffen
-		heffen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	580	all	5_5	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	580	all	5_5	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	580	all	5_5	1	no	FOC	315	nav	4_4	218	heffen
-		heffen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	580	all	5_5	1	no	FOC	580	all	4_4	218	heffen
-		heffen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	202	lex	3_3	1	weight	5000	5000	nav	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	202	lex	3_3	1	weight	5000	5000	all	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	202	lex	3_3	1	weight	FOC	136	nav	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	202	lex	3_3	1	weight	FOC	202	all	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	202	lex	3_3	1	selection	5000	5000	nav	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	202	lex	3_3	1	selection	5000	5000	all	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	202	lex	3_3	1	selection	FOC	136	nav	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	202	lex	3_3	1	selection	FOC	202	all	4_4	204	heffen
-		heffen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	280	lex	3_3	1	no	5000	5000	nav	4_4	213	heffen
-		heffen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	280	lex	3_3	1	no	5000	5000	all	4_4	213	heffen
-		heffen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	280	lex	3_3	1	no	FOC	195	nav	4_4	213	heffen
-		heffen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	280	lex	3_3	1	no	FOC	280	all	4_4	213	heffen
-		heffen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	bound	261	all	3_3	1	weight	5000	5000	nav	4_4	216	heffen
-		heffen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	bound	261	all	3_3	1	weight	5000	5000	all	4_4	216	heffen
-		heffen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	bound	261	all	3_3	1	weight	FOC	136	nav	4_4	216	heffen
-		heffen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	bound	261	all	3_3	1	weight	FOC	261	all	4_4	216	heffen
-		heffen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	bound	261	all	3_3	1	selection	5000	5000	nav	4_4	216	heffen
-		heffen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	bound	261	all	3_3	1	selection	5000	5000	all	4_4	216	heffen
-		heffen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	bound	261	all	3_3	1	selection	FOC	136	nav	4_4	216	heffen
-		heffen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	bound	261	all	3_3	1	selection	FOC	261	all	4_4	216	heffen
-		heffen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	bound	372	all	3_3	1	no	5000	5000	nav	4_4	217	heffen
-		heffen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	bound	372	all	3_3	1	no	5000	5000	all	4_4	217	heffen
-		heffen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	bound	372	all	3_3	1	no	FOC	195	nav	4_4	217	heffen
-		heffen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	bound	372	all	3_3	1	no	FOC	372	all	4_4	217	heffen
-		heffen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	454	lex	10_10	1	weight	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	454	lex	10_10	1	weight	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	454	lex	10_10	1	weight	FOC	314	nav	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	454	lex	10_10	1	weight	FOC	454	all	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	454	lex	10_10	1	selection	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	454	lex	10_10	1	selection	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	454	lex	10_10	1	selection	FOC	314	nav	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	454	lex	10_10	1	selection	FOC	454	all	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	991	lex	10_10	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	991	lex	10_10	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	991	lex	10_10	1	no	FOC	702	nav	4_4	218	heffen
-		heffen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	991	lex	10_10	1	no	FOC	991	all	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	598	all	10_10	1	weight	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	598	all	10_10	1	weight	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	598	all	10_10	1	weight	FOC	314	nav	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	598	all	10_10	1	weight	FOC	598	all	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	598	all	10_10	1	selection	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	598	all	10_10	1	selection	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	598	all	10_10	1	selection	FOC	314	nav	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	598	all	10_10	1	selection	FOC	598	all	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	1325	all	10_10	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	1325	all	10_10	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	1325	all	10_10	1	no	FOC	702	nav	4_4	218	heffen
-		heffen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	1325	all	10_10	1	no	FOC	1325	all	4_4	218	heffen
-		heffen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	322	lex	5_5	1	weight	5000	5000	nav	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	322	lex	5_5	1	weight	5000	5000	all	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	322	lex	5_5	1	weight	FOC	221	nav	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	322	lex	5_5	1	weight	FOC	322	all	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	322	lex	5_5	1	selection	5000	5000	nav	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	322	lex	5_5	1	selection	5000	5000	all	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	322	lex	5_5	1	selection	FOC	221	nav	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	322	lex	5_5	1	selection	FOC	322	all	4_4	217	heffen
-		heffen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	515	lex	5_5	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	515	lex	5_5	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	515	lex	5_5	1	no	FOC	375	nav	4_4	218	heffen
-		heffen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	515	lex	5_5	1	no	FOC	515	all	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	427	all	5_5	1	weight	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	427	all	5_5	1	weight	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	427	all	5_5	1	weight	FOC	221	nav	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	427	all	5_5	1	weight	FOC	427	all	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	427	all	5_5	1	selection	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	427	all	5_5	1	selection	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	427	all	5_5	1	selection	FOC	221	nav	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	427	all	5_5	1	selection	FOC	427	all	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	698	all	5_5	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	698	all	5_5	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	698	all	5_5	1	no	FOC	375	nav	4_4	218	heffen
-		heffen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	698	all	5_5	1	no	FOC	698	all	4_4	218	heffen
-		heffen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	220	lex	3_3	1	weight	5000	5000	nav	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	220	lex	3_3	1	weight	5000	5000	all	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	220	lex	3_3	1	weight	FOC	151	nav	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	220	lex	3_3	1	weight	FOC	220	all	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	220	lex	3_3	1	selection	5000	5000	nav	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	220	lex	3_3	1	selection	5000	5000	all	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	220	lex	3_3	1	selection	FOC	151	nav	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	220	lex	3_3	1	selection	FOC	220	all	4_4	207	heffen
-		heffen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	312	lex	3_3	1	no	5000	5000	nav	4_4	214	heffen
-		heffen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	312	lex	3_3	1	no	5000	5000	all	4_4	214	heffen
-		heffen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	312	lex	3_3	1	no	FOC	222	nav	4_4	214	heffen
-		heffen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	312	lex	3_3	1	no	FOC	312	all	4_4	214	heffen
-		heffen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	BOW	nobound	290	all	3_3	1	weight	5000	5000	nav	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	BOW	nobound	290	all	3_3	1	weight	5000	5000	all	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	BOW	nobound	290	all	3_3	1	weight	FOC	151	nav	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	BOW	nobound	290	all	3_3	1	weight	FOC	290	all	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	BOW	nobound	290	all	3_3	1	selection	5000	5000	nav	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	BOW	nobound	290	all	3_3	1	selection	5000	5000	all	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	BOW	nobound	290	all	3_3	1	selection	FOC	151	nav	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	BOW	nobound	290	all	3_3	1	selection	FOC	290	all	4_4	216	heffen
-		heffen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	BOW	nobound	421	all	3_3	1	no	5000	5000	nav	4_4	218	heffen
-		heffen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	BOW	nobound	421	all	3_3	1	no	5000	5000	all	4_4	218	heffen
-		heffen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	BOW	nobound	421	all	3_3	1	no	FOC	222	nav	4_4	218	heffen
-		heffen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	BOW	nobound	421	all	3_3	1	no	FOC	421	all	4_4	218	heffen
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	152	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	290	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	152	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	290	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	269	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	515	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	206	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	382	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	206	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	382	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	395	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	743	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	206	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	382	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	395	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	743	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-	group1	heffen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	133			1	weight	5000	5000	nav	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	133			1	weight	5000	5000	all	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	133			1	weight	FOC	63	nav	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	133			1	weight	FOC	133	all	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	133			1	selection	5000	5000	nav	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	133			1	selection	5000	5000	all	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	133			1	selection	FOC	63	nav	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	133			1	selection	FOC	133	all	4_4	189	heffen
-	group1	heffen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	199			1	no	5000	5000	nav	4_4	205	heffen
-	group1	heffen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	199			1	no	5000	5000	all	4_4	205	heffen
-	group1	heffen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	199			1	no	FOC	87	nav	4_4	205	heffen
-	group1	heffen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	199			1	no	FOC	199	all	4_4	205	heffen
-	group2	heffen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	dependency	bound	208			1	weight	5000	5000	nav	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	dependency	bound	208			1	weight	5000	5000	all	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	dependency	bound	208			1	weight	FOC	113	nav	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	dependency	bound	208			1	weight	FOC	208	all	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	dependency	bound	208			1	selection	5000	5000	nav	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	dependency	bound	208			1	selection	5000	5000	all	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	dependency	bound	208			1	selection	FOC	113	nav	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	dependency	bound	208			1	selection	FOC	208	all	4_4	210	heffen
-	group2	heffen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	dependency	bound	323			1	no	5000	5000	nav	4_4	211	heffen
-	group2	heffen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	dependency	bound	323			1	no	5000	5000	all	4_4	211	heffen
-	group2	heffen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	dependency	bound	323			1	no	FOC	175	nav	4_4	211	heffen
-	group2	heffen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	dependency	bound	323			1	no	FOC	323	all	4_4	211	heffen
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	152	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	290	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	152	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	290	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	290	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	269	nav	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection2    selection2
-heffen.LEMMAPATHselection2    selection2
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection2    dependency
-heffen.LEMMAPATHselection2    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection2    bound
-heffen.LEMMAPATHselection2    bound
-Name: foc_boundaries, dtype: object"	515	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection2    NaN
-heffen.LEMMAPATHselection2    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	515	all	4_4	213	"_model
-heffen.LEMMAPATHselection2    heffen
-heffen.LEMMAPATHselection2    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	206	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	weight	FOC	382	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	206	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	382	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	395	nav	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHselection3    selection3
-heffen.LEMMAPATHselection3    selection3
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHselection3    dependency
-heffen.LEMMAPATHselection3    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHselection3    bound
-heffen.LEMMAPATHselection3    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHselection3    NaN
-heffen.LEMMAPATHselection3    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	743	all	4_4	213	"_model
-heffen.LEMMAPATHselection3    heffen
-heffen.LEMMAPATHselection3    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	206	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	382	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	selection	FOC	382	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	5000	5000	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	395	nav	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
-"_model
-heffen.LEMMAPATHweight    weight
-heffen.LEMMAPATHweight    weight
-Name: LEMMAPATH, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: LEMMAREL, dtype: object"	heffen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	"_model
-heffen.LEMMAPATHweight    dependency
-heffen.LEMMAPATHweight    dependency
-Name: base, dtype: object"	"_model
-heffen.LEMMAPATHweight    bound
-heffen.LEMMAPATHweight    bound
-Name: foc_boundaries, dtype: object"	743	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-heffen.LEMMAPATHweight    NaN
-heffen.LEMMAPATHweight    NaN
-Name: foc_foc_win, dtype: object"	1	no	FOC	743	all	4_4	213	"_model
-heffen.LEMMAPATHweight    heffen
-heffen.LEMMAPATHweight    heffen
-Name: type, dtype: object"
+_model	model.x	model.y	LEMMAPATH	LEMMAREL	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
+heffen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.01885484974804823	-0.22501768249063947	NA	NA	BOW	bound	366	lex	10_10	1	weight	5000	5000	nav	4_4	217	heffen
+heffen.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	0.03759117236612634	-0.6733004185178814	NA	NA	BOW	bound	366	lex	10_10	1	weight	5000	5000	all	4_4	217	heffen
+heffen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.02785778023129621	-0.19536958036650848	NA	NA	BOW	bound	366	lex	10_10	1	weight	FOC	253	nav	4_4	217	heffen
+heffen.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.018977701373840007	-0.2121207117949599	NA	NA	BOW	bound	366	lex	10_10	1	weight	FOC	366	all	4_4	217	heffen
+heffen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.15349193792012483	-0.38932804017520534	NA	NA	BOW	bound	366	lex	10_10	1	selection	5000	5000	nav	4_4	217	heffen
+heffen.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	-0.07269482390619447	-0.8727815653457731	NA	NA	BOW	bound	366	lex	10_10	1	selection	5000	5000	all	4_4	217	heffen
+heffen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.08102522844427079	-0.22689089555216438	NA	NA	BOW	bound	366	lex	10_10	1	selection	FOC	253	nav	4_4	217	heffen
+heffen.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.07720623063428175	-0.2442500688304353	NA	NA	BOW	bound	366	lex	10_10	1	selection	FOC	366	all	4_4	217	heffen
+heffen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	-0.5242376913038561	-0.46681951055120563	NA	NA	BOW	bound	718	lex	10_10	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	-0.6696157007637157	-1.2256289532019629	NA	NA	BOW	bound	718	lex	10_10	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.361567812829336	-0.34691952577363483	NA	NA	BOW	bound	718	lex	10_10	1	no	FOC	502	nav	4_4	218	heffen
+heffen.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	-0.3577293907571969	-0.35654653451970564	NA	NA	BOW	bound	718	lex	10_10	1	no	FOC	718	all	4_4	218	heffen
+heffen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.10651201183886946	-0.1049208063036471	NA	NA	BOW	bound	475	all	10_10	1	weight	5000	5000	nav	4_4	218	heffen
+heffen.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	-0.062365927204347985	-0.6633079392729598	NA	NA	BOW	bound	475	all	10_10	1	weight	5000	5000	all	4_4	218	heffen
+heffen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.07258774601259706	-0.11513477035777123	NA	NA	BOW	bound	475	all	10_10	1	weight	FOC	253	nav	4_4	218	heffen
+heffen.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.07609822261755446	-0.12556149139696052	NA	NA	BOW	bound	475	all	10_10	1	weight	FOC	475	all	4_4	218	heffen
+heffen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.6637574779166039	0.16983600614615932	NA	NA	BOW	bound	475	all	10_10	1	selection	5000	5000	nav	4_4	218	heffen
+heffen.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	-0.7769440094794458	-0.33087316334492356	NA	NA	BOW	bound	475	all	10_10	1	selection	5000	5000	all	4_4	218	heffen
+heffen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.24982445500294737	-0.023867833858690592	NA	NA	BOW	bound	475	all	10_10	1	selection	FOC	253	nav	4_4	218	heffen
+heffen.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.2673166417712221	-0.025993735565216138	NA	NA	BOW	bound	475	all	10_10	1	selection	FOC	475	all	4_4	218	heffen
+heffen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	-1.0838610590084996	0.20501587162760126	NA	NA	BOW	bound	960	all	10_10	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	-1.7139170342700991	0.051922549594123305	NA	NA	BOW	bound	960	all	10_10	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.6958739560362001	-0.013381653440508382	NA	NA	BOW	bound	960	all	10_10	1	no	FOC	502	nav	4_4	218	heffen
+heffen.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.7558889206030228	-0.02024171935483564	NA	NA	BOW	bound	960	all	10_10	1	no	FOC	960	all	4_4	218	heffen
+heffen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	0.1818681234847542	-0.23242041875943312	NA	NA	BOW	bound	279	lex	5_5	1	weight	5000	5000	nav	4_4	216	heffen
+heffen.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	0.3548604042227048	-0.6269834039962089	NA	NA	BOW	bound	279	lex	5_5	1	weight	5000	5000	all	4_4	216	heffen
+heffen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	0.1407897396656654	-0.19673473613663187	NA	NA	BOW	bound	279	lex	5_5	1	weight	FOC	194	nav	4_4	216	heffen
+heffen.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	0.1474399315279839	-0.20207614851830374	NA	NA	BOW	bound	279	lex	5_5	1	weight	FOC	279	all	4_4	216	heffen
+heffen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	0.19857611398793043	-0.36031690002003747	NA	NA	BOW	bound	279	lex	5_5	1	selection	5000	5000	nav	4_4	216	heffen
+heffen.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	0.35942110083389495	-0.753452396734392	NA	NA	BOW	bound	279	lex	5_5	1	selection	5000	5000	all	4_4	216	heffen
+heffen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.1289905674393001	-0.2148768306857554	NA	NA	BOW	bound	279	lex	5_5	1	selection	FOC	194	nav	4_4	216	heffen
+heffen.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	0.12384994506296969	-0.22622910399768034	NA	NA	BOW	bound	279	lex	5_5	1	selection	FOC	279	all	4_4	216	heffen
+heffen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	0.10722063805711776	-0.4735878887604741	NA	NA	BOW	bound	433	lex	5_5	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	0.2782382528612226	-0.9845934865009586	NA	NA	BOW	bound	433	lex	5_5	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	0.08844877776451732	-0.30299639167887865	NA	NA	BOW	bound	433	lex	5_5	1	no	FOC	315	nav	4_4	218	heffen
+heffen.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	0.07488556439890828	-0.28979589162086683	NA	NA	BOW	bound	433	lex	5_5	1	no	FOC	433	all	4_4	218	heffen
+heffen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	0.09992877364068134	-0.08467903772398715	NA	NA	BOW	bound	361	all	5_5	1	weight	5000	5000	nav	4_4	217	heffen
+heffen.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	0.32731767445267573	-0.6188781635707531	NA	NA	BOW	bound	361	all	5_5	1	weight	5000	5000	all	4_4	217	heffen
+heffen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	0.09773097954300597	-0.10970285525259883	NA	NA	BOW	bound	361	all	5_5	1	weight	FOC	194	nav	4_4	217	heffen
+heffen.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	0.08276650496433129	-0.11735824646372882	NA	NA	BOW	bound	361	all	5_5	1	weight	FOC	361	all	4_4	217	heffen
+heffen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	-0.4220535392725997	0.17420627170147066	NA	NA	BOW	bound	361	all	5_5	1	selection	5000	5000	nav	4_4	217	heffen
+heffen.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	0.1296362335820445	-0.7598625310938081	NA	NA	BOW	bound	361	all	5_5	1	selection	5000	5000	all	4_4	217	heffen
+heffen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.0195439412900479	-0.018450275113576293	NA	NA	BOW	bound	361	all	5_5	1	selection	FOC	194	nav	4_4	217	heffen
+heffen.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.039161642458062425	-0.01710122536524248	NA	NA	BOW	bound	361	all	5_5	1	selection	FOC	361	all	4_4	217	heffen
+heffen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	-0.6888402582070284	0.26541013586093914	NA	NA	BOW	bound	580	all	5_5	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	-1.1463178030705408	0.36006226716777057	NA	NA	BOW	bound	580	all	5_5	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.2613465129066129	0.037380661323124564	NA	NA	BOW	bound	580	all	5_5	1	no	FOC	315	nav	4_4	218	heffen
+heffen.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.28860504854823577	0.04731756126599024	NA	NA	BOW	bound	580	all	5_5	1	no	FOC	580	all	4_4	218	heffen
+heffen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	0.4845432882513431	-0.09817728544770876	NA	NA	BOW	bound	202	lex	3_3	1	weight	5000	5000	nav	4_4	204	heffen
+heffen.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	0.8143216380655658	-0.3486464607106483	NA	NA	BOW	bound	202	lex	3_3	1	weight	5000	5000	all	4_4	204	heffen
+heffen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	0.3993695747293409	-0.05828301770904753	NA	NA	BOW	bound	202	lex	3_3	1	weight	FOC	136	nav	4_4	204	heffen
+heffen.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	0.389436482761871	-0.06683168374731194	NA	NA	BOW	bound	202	lex	3_3	1	weight	FOC	202	all	4_4	204	heffen
+heffen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	0.535293638085203	-0.13757496645895093	NA	NA	BOW	bound	202	lex	3_3	1	selection	5000	5000	nav	4_4	204	heffen
+heffen.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	0.8450250297480819	-0.3781101330436577	NA	NA	BOW	bound	202	lex	3_3	1	selection	5000	5000	all	4_4	204	heffen
+heffen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.3996630316935658	-0.07343234969109881	NA	NA	BOW	bound	202	lex	3_3	1	selection	FOC	136	nav	4_4	204	heffen
+heffen.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	0.3750973907318952	-0.07387079171930705	NA	NA	BOW	bound	202	lex	3_3	1	selection	FOC	202	all	4_4	204	heffen
+heffen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	0.7752154602534836	-0.19976336835606673	NA	NA	BOW	bound	280	lex	3_3	1	no	5000	5000	nav	4_4	213	heffen
+heffen.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	1.1392051143730233	-0.43347561828758574	NA	NA	BOW	bound	280	lex	3_3	1	no	5000	5000	all	4_4	213	heffen
+heffen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	0.6039272315093143	-0.13248430074946393	NA	NA	BOW	bound	280	lex	3_3	1	no	FOC	195	nav	4_4	213	heffen
+heffen.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	0.5867555252724559	-0.1331063443977736	NA	NA	BOW	bound	280	lex	3_3	1	no	FOC	280	all	4_4	213	heffen
+heffen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.6555557499909059	0.0685561426262833	NA	NA	BOW	bound	261	all	3_3	1	weight	5000	5000	nav	4_4	216	heffen
+heffen.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	1.064709350333536	-0.1014252724546891	NA	NA	BOW	bound	261	all	3_3	1	weight	5000	5000	all	4_4	216	heffen
+heffen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	0.5577973528894136	0.04196379831341603	NA	NA	BOW	bound	261	all	3_3	1	weight	FOC	136	nav	4_4	216	heffen
+heffen.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	0.5237398122463791	0.023807749246139064	NA	NA	BOW	bound	261	all	3_3	1	weight	FOC	261	all	4_4	216	heffen
+heffen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.7481299310368857	0.44272346534709395	NA	NA	BOW	bound	261	all	3_3	1	selection	5000	5000	nav	4_4	216	heffen
+heffen.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	1.0572096447253074	0.21562607600564493	NA	NA	BOW	bound	261	all	3_3	1	selection	5000	5000	all	4_4	216	heffen
+heffen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.5215876527064495	0.156072327103658	NA	NA	BOW	bound	261	all	3_3	1	selection	FOC	136	nav	4_4	216	heffen
+heffen.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.4678797020366273	0.14050841878865702	NA	NA	BOW	bound	261	all	3_3	1	selection	FOC	261	all	4_4	216	heffen
+heffen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	0.7743709595032193	0.6112949279636006	NA	NA	BOW	bound	372	all	3_3	1	no	5000	5000	nav	4_4	217	heffen
+heffen.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	1.2100214310929023	0.5045701743956981	NA	NA	BOW	bound	372	all	3_3	1	no	5000	5000	all	4_4	217	heffen
+heffen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.5465155539364944	0.2586170347492921	NA	NA	BOW	bound	372	all	3_3	1	no	FOC	195	nav	4_4	217	heffen
+heffen.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	0.5165451171343897	0.24891100514548267	NA	NA	BOW	bound	372	all	3_3	1	no	FOC	372	all	4_4	217	heffen
+heffen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.09730143273465947	-0.3423416015382032	NA	NA	BOW	nobound	454	lex	10_10	1	weight	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.07307304206236342	-0.8160269806503314	NA	NA	BOW	nobound	454	lex	10_10	1	weight	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.1088672977269516	-0.30961059057829976	NA	NA	BOW	nobound	454	lex	10_10	1	weight	FOC	314	nav	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.0944175063841313	-0.3252190157873034	NA	NA	BOW	nobound	454	lex	10_10	1	weight	FOC	454	all	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.29583537328172804	-0.5560395183557542	NA	NA	BOW	nobound	454	lex	10_10	1	selection	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	-0.2770863071412431	-1.084504503285546	NA	NA	BOW	nobound	454	lex	10_10	1	selection	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.21869044210386862	-0.3887358433604301	NA	NA	BOW	nobound	454	lex	10_10	1	selection	FOC	314	nav	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.2127886530230448	-0.4024740855352942	NA	NA	BOW	nobound	454	lex	10_10	1	selection	FOC	454	all	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	-0.6469377874985729	-0.8156797725688834	NA	NA	BOW	nobound	991	lex	10_10	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	-0.9613593362413618	-1.6079320434858948	NA	NA	BOW	nobound	991	lex	10_10	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.5734292401277947	-0.6470434629809438	NA	NA	BOW	nobound	991	lex	10_10	1	no	FOC	702	nav	4_4	218	heffen
+heffen.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	-0.5577192973827063	-0.6535064282611986	NA	NA	BOW	nobound	991	lex	10_10	1	no	FOC	991	all	4_4	218	heffen
+heffen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.20410307043611997	-0.2357412915777998	NA	NA	BOW	nobound	598	all	10_10	1	weight	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	-0.230340810655222	-0.8135323375921407	NA	NA	BOW	nobound	598	all	10_10	1	weight	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.17455536191851126	-0.22865454302416247	NA	NA	BOW	nobound	598	all	10_10	1	weight	FOC	314	nav	4_4	218	heffen
+heffen.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.17122008777529726	-0.24731642223254907	NA	NA	BOW	nobound	598	all	10_10	1	weight	FOC	598	all	4_4	218	heffen
+heffen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.9051210189115363	-0.033845210093919095	NA	NA	BOW	nobound	598	all	10_10	1	selection	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	-0.9680967215197505	-0.6890091782108436	NA	NA	BOW	nobound	598	all	10_10	1	selection	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.4433909371115303	-0.15730245001997487	NA	NA	BOW	nobound	598	all	10_10	1	selection	FOC	314	nav	4_4	218	heffen
+heffen.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.4568950006604282	-0.17403930330366033	NA	NA	BOW	nobound	598	all	10_10	1	selection	FOC	598	all	4_4	218	heffen
+heffen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	-1.3637715963900223	-0.08529252136195234	NA	NA	BOW	nobound	1325	all	10_10	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	-2.1833615497206367	-0.6011804744455492	NA	NA	BOW	nobound	1325	all	10_10	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	-1.010206935221961	-0.27128861732871223	NA	NA	BOW	nobound	1325	all	10_10	1	no	FOC	702	nav	4_4	218	heffen
+heffen.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	-1.0939538894686334	-0.3204018704416482	NA	NA	BOW	nobound	1325	all	10_10	1	no	FOC	1325	all	4_4	218	heffen
+heffen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	0.17443217806474928	-0.27714615226420614	NA	NA	BOW	nobound	322	lex	5_5	1	weight	5000	5000	nav	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	0.34560300336343736	-0.6514487609875445	NA	NA	BOW	nobound	322	lex	5_5	1	weight	5000	5000	all	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	0.1450760186527606	-0.2411038441807401	NA	NA	BOW	nobound	322	lex	5_5	1	weight	FOC	221	nav	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	0.14882640488925047	-0.2463459690042628	NA	NA	BOW	nobound	322	lex	5_5	1	weight	FOC	322	all	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	0.17303096304147883	-0.42901851670233104	NA	NA	BOW	nobound	322	lex	5_5	1	selection	5000	5000	nav	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	0.3203011066307181	-0.8184908877459875	NA	NA	BOW	nobound	322	lex	5_5	1	selection	5000	5000	all	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.11704567127591096	-0.2819131817840613	NA	NA	BOW	nobound	322	lex	5_5	1	selection	FOC	221	nav	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	0.11256945698632602	-0.2928641566043088	NA	NA	BOW	nobound	322	lex	5_5	1	selection	FOC	322	all	4_4	217	heffen
+heffen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	0.08228286594217454	-0.6071944733703479	NA	NA	BOW	nobound	515	lex	5_5	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	0.1997137518241775	-1.1224798021816373	NA	NA	BOW	nobound	515	lex	5_5	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	0.051074354777963495	-0.4203490689560183	NA	NA	BOW	nobound	515	lex	5_5	1	no	FOC	375	nav	4_4	218	heffen
+heffen.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	0.048209376182861835	-0.414881200205692	NA	NA	BOW	nobound	515	lex	5_5	1	no	FOC	515	all	4_4	218	heffen
+heffen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	0.09267734967636561	-0.13353321783006675	NA	NA	BOW	nobound	427	all	5_5	1	weight	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	0.2935610715249678	-0.6785134773513204	NA	NA	BOW	nobound	427	all	5_5	1	weight	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	0.09162416642752005	-0.16038688295960685	NA	NA	BOW	nobound	427	all	5_5	1	weight	FOC	221	nav	4_4	218	heffen
+heffen.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	0.07891628986533811	-0.15702683101699594	NA	NA	BOW	nobound	427	all	5_5	1	weight	FOC	427	all	4_4	218	heffen
+heffen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	-0.5180870896011845	0.09855557136299099	NA	NA	BOW	nobound	427	all	5_5	1	selection	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	-0.12994521351322622	-0.8348511578748185	NA	NA	BOW	nobound	427	all	5_5	1	selection	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.0498166714505656	-0.05539765160005757	NA	NA	BOW	nobound	427	all	5_5	1	selection	FOC	221	nav	4_4	218	heffen
+heffen.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.07936220181333066	-0.056548914561681804	NA	NA	BOW	nobound	427	all	5_5	1	selection	FOC	427	all	4_4	218	heffen
+heffen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	-0.8325466370490989	0.17528510112018808	NA	NA	BOW	nobound	698	all	5_5	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	-1.3304620979516313	-0.44323773137390493	NA	NA	BOW	nobound	698	all	5_5	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.3931227412590467	-0.023925639788406946	NA	NA	BOW	nobound	698	all	5_5	1	no	FOC	375	nav	4_4	218	heffen
+heffen.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.4435950584926333	-0.03660888006922838	NA	NA	BOW	nobound	698	all	5_5	1	no	FOC	698	all	4_4	218	heffen
+heffen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	0.5143421841136414	-0.11417537583265168	NA	NA	BOW	nobound	220	lex	3_3	1	weight	5000	5000	nav	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	0.8747241995577508	-0.36005510222650283	NA	NA	BOW	nobound	220	lex	3_3	1	weight	5000	5000	all	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	0.46462416767037207	-0.07821733615564291	NA	NA	BOW	nobound	220	lex	3_3	1	weight	FOC	151	nav	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	0.4210706797066077	-0.0868695081556504	NA	NA	BOW	nobound	220	lex	3_3	1	weight	FOC	220	all	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	0.5863335641071882	-0.18567883105869273	NA	NA	BOW	nobound	220	lex	3_3	1	selection	5000	5000	nav	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	0.916428313973056	-0.41866073598542025	NA	NA	BOW	nobound	220	lex	3_3	1	selection	5000	5000	all	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.44586136381819824	-0.0930830422686718	NA	NA	BOW	nobound	220	lex	3_3	1	selection	FOC	151	nav	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	0.42441723532408643	-0.10122082346495827	NA	NA	BOW	nobound	220	lex	3_3	1	selection	FOC	220	all	4_4	207	heffen
+heffen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	0.8202220961191244	-0.2275775210682263	NA	NA	BOW	nobound	312	lex	3_3	1	no	5000	5000	nav	4_4	214	heffen
+heffen.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	1.1929719868914552	-0.504372936337242	NA	NA	BOW	nobound	312	lex	3_3	1	no	5000	5000	all	4_4	214	heffen
+heffen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	0.6355647847574226	-0.1419399518365866	NA	NA	BOW	nobound	312	lex	3_3	1	no	FOC	222	nav	4_4	214	heffen
+heffen.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	0.6224676971650968	-0.14862166875794486	NA	NA	BOW	nobound	312	lex	3_3	1	no	FOC	312	all	4_4	214	heffen
+heffen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.6550237415408713	0.050174346125171035	NA	NA	BOW	nobound	290	all	3_3	1	weight	5000	5000	nav	4_4	216	heffen
+heffen.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	1.0820347950976226	-0.1399283008956186	NA	NA	BOW	nobound	290	all	3_3	1	weight	5000	5000	all	4_4	216	heffen
+heffen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	0.55568930927	0.02988560253289875	NA	NA	BOW	nobound	290	all	3_3	1	weight	FOC	151	nav	4_4	216	heffen
+heffen.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	0.5262155650404208	0.007974293399040619	NA	NA	BOW	nobound	290	all	3_3	1	weight	FOC	290	all	4_4	216	heffen
+heffen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.7618669153584415	0.44118148817322644	NA	NA	BOW	nobound	290	all	3_3	1	selection	5000	5000	nav	4_4	216	heffen
+heffen.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	1.1084356702742704	0.17296839187573365	NA	NA	BOW	nobound	290	all	3_3	1	selection	5000	5000	all	4_4	216	heffen
+heffen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.518145654090889	0.14575419771744763	NA	NA	BOW	nobound	290	all	3_3	1	selection	FOC	151	nav	4_4	216	heffen
+heffen.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.47459062837722665	0.131564592809427	NA	NA	BOW	nobound	290	all	3_3	1	selection	FOC	290	all	4_4	216	heffen
+heffen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	0.8210687543498122	0.6297085189395591	NA	NA	BOW	nobound	421	all	3_3	1	no	5000	5000	nav	4_4	218	heffen
+heffen.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	1.3192964307587074	0.5446018811596485	NA	NA	BOW	nobound	421	all	3_3	1	no	5000	5000	all	4_4	218	heffen
+heffen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.6084625397131438	0.28894390607465914	NA	NA	BOW	nobound	421	all	3_3	1	no	FOC	222	nav	4_4	218	heffen
+heffen.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	0.5823627139222785	0.28089105061314534	NA	NA	BOW	nobound	421	all	3_3	1	no	FOC	421	all	4_4	218	heffen
+heffen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	-0.010738838611869517	0.3828975655617946	selection2	NA	dependency	bound	290	NA	NA	1	weight	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	0.1975774348534226	0.9144480455933922	selection2	NA	dependency	bound	290	NA	NA	1	weight	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	-0.00619166080147745	0.3357714439784865	selection2	NA	dependency	bound	290	NA	NA	1	weight	FOC	152	nav	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	-0.008503774767979068	0.3159246384218325	selection2	NA	dependency	bound	290	NA	NA	1	weight	FOC	290	all	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	-0.34070738992367305	0.8050525533592162	selection2	NA	dependency	bound	290	NA	NA	1	selection	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	-0.2700430601666209	1.0454932707761253	selection2	NA	dependency	bound	290	NA	NA	1	selection	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	-0.13365191533019338	0.42779834608150535	selection2	NA	dependency	bound	290	NA	NA	1	selection	FOC	152	nav	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	-0.14145538924405088	0.4161097471062616	selection2	NA	dependency	bound	290	NA	NA	1	selection	FOC	290	all	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	-0.49968666649406723	0.9219732953358022	selection2	NA	dependency	bound	515	NA	NA	1	no	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	-0.570291365420633	1.3619749305306865	selection2	NA	dependency	bound	515	NA	NA	1	no	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	-0.25737119545280457	0.5456148215610233	selection2	NA	dependency	bound	515	NA	NA	1	no	FOC	269	nav	4_4	213	heffen
+heffen.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	-0.28199195417945067	0.5594034129891114	selection2	NA	dependency	bound	515	NA	NA	1	no	FOC	515	all	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	-0.07630827204868568	0.11146466140252859	selection3	NA	dependency	bound	382	NA	NA	1	weight	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	-0.4371448051338236	-0.24292074988646295	selection3	NA	dependency	bound	382	NA	NA	1	weight	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	-0.07100978314808894	0.056694379442674005	selection3	NA	dependency	bound	382	NA	NA	1	weight	FOC	206	nav	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	-0.07506391244969993	0.05813459949257634	selection3	NA	dependency	bound	382	NA	NA	1	weight	FOC	382	all	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	-0.47102076229453105	0.5080016962878638	selection3	NA	dependency	bound	382	NA	NA	1	selection	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	-0.6078354929027024	0.5243867829647265	selection3	NA	dependency	bound	382	NA	NA	1	selection	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	-0.2018249525134334	0.1706632166830251	selection3	NA	dependency	bound	382	NA	NA	1	selection	FOC	206	nav	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	-0.21278447819623567	0.16359972472578532	selection3	NA	dependency	bound	382	NA	NA	1	selection	FOC	382	all	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	-0.7306731241639238	0.6727292893748469	selection3	NA	dependency	bound	743	NA	NA	1	no	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	-1.1975904812720315	0.8802744840307227	selection3	NA	dependency	bound	743	NA	NA	1	no	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	-0.43722153755594945	0.30487238445831316	selection3	NA	dependency	bound	743	NA	NA	1	no	FOC	395	nav	4_4	213	heffen
+heffen.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	-0.47133675515090473	0.32227499202003146	selection3	NA	dependency	bound	743	NA	NA	1	no	FOC	743	all	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	-0.47102076229437034	0.5080016962877174	weight	NA	dependency	bound	382	NA	NA	1	selection	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	-0.607835492903198	0.5243867829649167	weight	NA	dependency	bound	382	NA	NA	1	selection	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	-0.2018249525134334	0.17066321668302503	weight	NA	dependency	bound	382	NA	NA	1	selection	FOC	206	nav	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	-0.21278447819623567	0.16359972472578532	weight	NA	dependency	bound	382	NA	NA	1	selection	FOC	382	all	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	-0.43631746244458586	0.7630697597150454	weight	NA	dependency	bound	743	NA	NA	1	no	5000	5000	nav	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	-0.6658020736823237	1.151238951389085	weight	NA	dependency	bound	743	NA	NA	1	no	5000	5000	all	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	-0.24969597758401776	0.39314134833817754	weight	NA	dependency	bound	743	NA	NA	1	no	FOC	395	nav	4_4	213	heffen
+heffen.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	-0.2724147075987071	0.4148064318077068	weight	NA	dependency	bound	743	NA	NA	1	no	FOC	743	all	4_4	213	heffen
+heffen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	0.09753259045837057	0.3668440387414821	NA	group1	dependency	bound	133	NA	NA	1	weight	5000	5000	nav	4_4	189	heffen
+heffen.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	0.17871288556194506	0.6217884340838037	NA	group1	dependency	bound	133	NA	NA	1	weight	5000	5000	all	4_4	189	heffen
+heffen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	0.08799681828237235	0.3186383611272088	NA	group1	dependency	bound	133	NA	NA	1	weight	FOC	63	nav	4_4	189	heffen
+heffen.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	0.09148839652498096	0.314144560937305	NA	group1	dependency	bound	133	NA	NA	1	weight	FOC	133	all	4_4	189	heffen
+heffen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	0.06744242709056976	0.5644083168906482	NA	group1	dependency	bound	133	NA	NA	1	selection	5000	5000	nav	4_4	189	heffen
+heffen.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	0.11997198327549999	0.83469285039904	NA	group1	dependency	bound	133	NA	NA	1	selection	5000	5000	all	4_4	189	heffen
+heffen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	0.09696919474184829	0.3830846096875136	NA	group1	dependency	bound	133	NA	NA	1	selection	FOC	63	nav	4_4	189	heffen
+heffen.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	0.059886990539102285	0.37455540045302416	NA	group1	dependency	bound	133	NA	NA	1	selection	FOC	133	all	4_4	189	heffen
+heffen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	0.027488786250533928	0.9881001599574188	NA	group1	dependency	bound	199	NA	NA	1	no	5000	5000	nav	4_4	205	heffen
+heffen.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	0.061291071910842584	1.4111838625295827	NA	group1	dependency	bound	199	NA	NA	1	no	5000	5000	all	4_4	205	heffen
+heffen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	0.13945643851420614	0.7789334935915694	NA	group1	dependency	bound	199	NA	NA	1	no	FOC	87	nav	4_4	205	heffen
+heffen.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	0.07446468110766719	0.7580301200703461	NA	group1	dependency	bound	199	NA	NA	1	no	FOC	199	all	4_4	205	heffen
+heffen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	0.06929729028510997	0.448912431923044	NA	group2	dependency	bound	208	NA	NA	1	weight	5000	5000	nav	4_4	210	heffen
+heffen.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	0.21583047075599307	0.8969889524154496	NA	group2	dependency	bound	208	NA	NA	1	weight	5000	5000	all	4_4	210	heffen
+heffen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	0.08208762141487207	0.4183976123114981	NA	group2	dependency	bound	208	NA	NA	1	weight	FOC	113	nav	4_4	210	heffen
+heffen.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	0.07241346938446087	0.38365965624325765	NA	group2	dependency	bound	208	NA	NA	1	weight	FOC	208	all	4_4	210	heffen
+heffen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	-0.09227347557225854	0.7177156424637096	NA	group2	dependency	bound	208	NA	NA	1	selection	5000	5000	nav	4_4	210	heffen
+heffen.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	-0.020098660342951307	1.1237411635166836	NA	group2	dependency	bound	208	NA	NA	1	selection	5000	5000	all	4_4	210	heffen
+heffen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	0.004037318244817245	0.4798650168512596	NA	group2	dependency	bound	208	NA	NA	1	selection	FOC	113	nav	4_4	210	heffen
+heffen.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	-0.019432280438676848	0.4679001569049466	NA	group2	dependency	bound	208	NA	NA	1	selection	FOC	208	all	4_4	210	heffen
+heffen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	-0.1732274570241866	0.7745739256422006	NA	group2	dependency	bound	323	NA	NA	1	no	5000	5000	nav	4_4	211	heffen
+heffen.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	-0.14919466270612253	1.2891817301683801	NA	group2	dependency	bound	323	NA	NA	1	no	5000	5000	all	4_4	211	heffen
+heffen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	-0.07549791594168748	0.5338115246140758	NA	group2	dependency	bound	323	NA	NA	1	no	FOC	175	nav	4_4	211	heffen
+heffen.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	-0.09118336176271329	0.5519308712581894	NA	group2	dependency	bound	323	NA	NA	1	no	FOC	323	all	4_4	211	heffen
