@@ -1,0 +1,14 @@
+{
+  "cws": ["dof.cws.tsv"],
+  "mds": ["dof.mds.tsv"],
+  "medoids": ["dof.medoids.tsv"],
+  "models.dist": ["dof.models.dist.tsv"],
+  "models": ["dof.models.tsv"],
+  "ppmi": ["dof.ppmi.tsv"],
+  "solutions": ["dof.solutions.json"],
+  "tsne.10": ["dof.tsne.10.tsv"],
+  "tsne.20": ["dof.tsne.20.tsv"],
+  "tsne.30": ["dof.tsne.30.tsv"],
+  "tsne.50": ["dof.tsne.50.tsv"],
+  "variables": ["dof.variables.tsv"]
+}

@@ -1,0 +1,21 @@
+{
+  "cws": ["haken.cws.tsv"],
+  "mds.cws": ["haken.mds.cws.tsv"],
+  "mds": ["haken.mds.tsv"],
+  "medoids": ["haken.medoids.tsv"],
+  "models.comp": ["haken.models.comp.tsv"],
+  "models.dist": ["haken.models.dist.tsv"],
+  "models": ["haken.models.tsv"],
+  "ppmi": ["haken.ppmi.tsv"],
+  "solutions": ["haken.solutions.json"],
+  "tsne.10.cws": ["haken.tsne.10.cws.tsv"],
+  "tsne.10": ["haken.tsne.10.tsv"],
+  "tsne.20.cws": ["haken.tsne.20.cws.tsv"],
+  "tsne.20": ["haken.tsne.20.tsv"],
+  "tsne.30.cws": ["haken.tsne.30.cws.tsv"],
+  "tsne.30": ["haken.tsne.30.tsv"],
+  "tsne.50.cws": ["haken.tsne.50.cws.tsv"],
+  "tsne.50": ["haken.tsne.50.tsv"],
+  "variables": ["haken.variables.tsv"],
+  "tokens": ["tokens"]
+}

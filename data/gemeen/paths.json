@@ -1,0 +1,14 @@
+{
+  "cws": ["gemeen.cws.tsv"],
+  "mds": ["gemeen.mds.tsv"],
+  "medoids": ["gemeen.medoids.tsv"],
+  "models.dist": ["gemeen.models.dist.tsv"],
+  "models": ["gemeen.models.tsv"],
+  "ppmi": ["gemeen.ppmi.tsv"],
+  "solutions": ["gemeen.solutions.json"],
+  "tsne.10": ["gemeen.tsne.10.tsv"],
+  "tsne.20": ["gemeen.tsne.20.tsv"],
+  "tsne.30": ["gemeen.tsne.30.tsv"],
+  "tsne.50": ["gemeen.tsne.50.tsv"],
+  "variables": ["gemeen.variables.tsv"]
+}

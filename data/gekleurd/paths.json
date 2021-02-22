@@ -1,0 +1,14 @@
+{
+  "cws": ["gekleurd.cws.tsv"],
+  "mds": ["gekleurd.mds.tsv"],
+  "medoids": ["gekleurd.medoids.tsv"],
+  "models.dist": ["gekleurd.models.dist.tsv"],
+  "models": ["gekleurd.models.tsv"],
+  "ppmi": ["gekleurd.ppmi.tsv"],
+  "solutions": ["gekleurd.solutions.json"],
+  "tsne.10": ["gekleurd.tsne.10.tsv"],
+  "tsne.20": ["gekleurd.tsne.20.tsv"],
+  "tsne.30": ["gekleurd.tsne.30.tsv"],
+  "tsne.50": ["gekleurd.tsne.50.tsv"],
+  "variables": ["gekleurd.variables.tsv"]
+}

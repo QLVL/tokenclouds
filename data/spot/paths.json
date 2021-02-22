@@ -1,0 +1,20 @@
+{
+  "cws": ["spot.cws.tsv"],
+  "mds.cws": ["spot.mds.cws.tsv"],
+  "mds": ["spot.mds.tsv"],
+  "medoids": ["spot.medoids.tsv"],
+  "models.comp": ["spot.models.comp.tsv"],
+  "models.dist": ["spot.models.dist.tsv"],
+  "models": ["spot.models.tsv"],
+  "ppmi": ["spot.ppmi.tsv"],
+  "solutions": ["spot.solutions.json"],
+  "tsne.10.cws": ["spot.tsne.10.cws.tsv"],
+  "tsne.10": ["spot.tsne.10.tsv"],
+  "tsne.20.cws": ["spot.tsne.20.cws.tsv"],
+  "tsne.20": ["spot.tsne.20.tsv"],
+  "tsne.30.cws": ["spot.tsne.30.cws.tsv"],
+  "tsne.30": ["spot.tsne.30.tsv"],
+  "tsne.50.cws": ["spot.tsne.50.cws.tsv"],
+  "tsne.50": ["spot.tsne.50.tsv"],
+  "variables": ["spot.variables.tsv"]
+}

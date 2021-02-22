@@ -1,0 +1,14 @@
+{
+  "cws": ["geldig.cws.tsv"],
+  "mds": ["geldig.mds.tsv"],
+  "medoids": ["geldig.medoids.tsv"],
+  "models.dist": ["geldig.models.dist.tsv"],
+  "models": ["geldig.models.tsv"],
+  "ppmi": ["geldig.ppmi.tsv"],
+  "solutions": ["geldig.solutions.json"],
+  "tsne.10": ["geldig.tsne.10.tsv"],
+  "tsne.20": ["geldig.tsne.20.tsv"],
+  "tsne.30": ["geldig.tsne.30.tsv"],
+  "tsne.50": ["geldig.tsne.50.tsv"],
+  "variables": ["geldig.variables.tsv"]
+}

@@ -1,0 +1,14 @@
+{
+  "cws": ["grijs.cws.tsv"],
+  "mds": ["grijs.mds.tsv"],
+  "medoids": ["grijs.medoids.tsv"],
+  "models.dist": ["grijs.models.dist.tsv"],
+  "models": ["grijs.models.tsv"],
+  "ppmi": ["grijs.ppmi.tsv"],
+  "solutions": ["grijs.solutions.json"],
+  "tsne.10": ["grijs.tsne.10.tsv"],
+  "tsne.20": ["grijs.tsne.20.tsv"],
+  "tsne.30": ["grijs.tsne.30.tsv"],
+  "tsne.50": ["grijs.tsne.50.tsv"],
+  "variables": ["grijs.variables.tsv"]
+}

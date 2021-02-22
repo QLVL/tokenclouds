@@ -1,0 +1,14 @@
+{
+  "cws": ["hemels.cws.tsv"],
+  "mds": ["hemels.mds.tsv"],
+  "medoids": ["hemels.medoids.tsv"],
+  "models.dist": ["hemels.models.dist.tsv"],
+  "models": ["hemels.models.tsv"],
+  "ppmi": ["hemels.ppmi.tsv"],
+  "solutions": ["hemels.solutions.json"],
+  "tsne.10": ["hemels.tsne.10.tsv"],
+  "tsne.20": ["hemels.tsne.20.tsv"],
+  "tsne.30": ["hemels.tsne.30.tsv"],
+  "tsne.50": ["hemels.tsne.50.tsv"],
+  "variables": ["hemels.variables.tsv"]
+}

@@ -1,0 +1,21 @@
+{
+  "cws": ["herhalen.cws.tsv"],
+  "mds.cws": ["herhalen.mds.cws.tsv"],
+  "mds": ["herhalen.mds.tsv"],
+  "medoids": ["herhalen.medoids.tsv"],
+  "models.comp": ["herhalen.models.comp.tsv"],
+  "models.dist": ["herhalen.models.dist.tsv"],
+  "models": ["herhalen.models.tsv"],
+  "ppmi": ["herhalen.ppmi.tsv"],
+  "solutions": ["herhalen.solutions.json"],
+  "tsne.10.cws": ["herhalen.tsne.10.cws.tsv"],
+  "tsne.10": ["herhalen.tsne.10.tsv"],
+  "tsne.20.cws": ["herhalen.tsne.20.cws.tsv"],
+  "tsne.20": ["herhalen.tsne.20.tsv"],
+  "tsne.30.cws": ["herhalen.tsne.30.cws.tsv"],
+  "tsne.30": ["herhalen.tsne.30.tsv"],
+  "tsne.50.cws": ["herhalen.tsne.50.cws.tsv"],
+  "tsne.50": ["herhalen.tsne.50.tsv"],
+  "variables": ["herhalen.variables.tsv"],
+  "tokens": ["tokens"]
+}

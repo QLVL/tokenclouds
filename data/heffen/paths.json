@@ -1,0 +1,21 @@
+{
+  "cws": ["heffen.cws.tsv"],
+  "mds.cws": ["heffen.mds.cws.tsv"],
+  "mds": ["heffen.mds.tsv"],
+  "medoids": ["heffen.medoids.tsv"],
+  "models.comp": ["heffen.models.comp.tsv"],
+  "models.dist": ["heffen.models.dist.tsv"],
+  "models": ["heffen.models.tsv"],
+  "ppmi": ["heffen.ppmi.tsv"],
+  "solutions": ["heffen.solutions.json"],
+  "tsne.10.cws": ["heffen.tsne.10.cws.tsv"],
+  "tsne.10": ["heffen.tsne.10.tsv"],
+  "tsne.20.cws": ["heffen.tsne.20.cws.tsv"],
+  "tsne.20": ["heffen.tsne.20.tsv"],
+  "tsne.30.cws": ["heffen.tsne.30.cws.tsv"],
+  "tsne.30": ["heffen.tsne.30.tsv"],
+  "tsne.50.cws": ["heffen.tsne.50.cws.tsv"],
+  "tsne.50": ["heffen.tsne.50.tsv"],
+  "variables": ["heffen.variables.tsv"],
+  "tokens": ["tokens"]
+}

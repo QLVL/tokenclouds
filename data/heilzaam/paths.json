@@ -1,0 +1,14 @@
+{
+  "cws": ["heilzaam.cws.tsv"],
+  "mds": ["heilzaam.mds.tsv"],
+  "medoids": ["heilzaam.medoids.tsv"],
+  "models.dist": ["heilzaam.models.dist.tsv"],
+  "models": ["heilzaam.models.tsv"],
+  "ppmi": ["heilzaam.ppmi.tsv"],
+  "solutions": ["heilzaam.solutions.json"],
+  "tsne.10": ["heilzaam.tsne.10.tsv"],
+  "tsne.20": ["heilzaam.tsne.20.tsv"],
+  "tsne.30": ["heilzaam.tsne.30.tsv"],
+  "tsne.50": ["heilzaam.tsne.50.tsv"],
+  "variables": ["heilzaam.variables.tsv"]
+}

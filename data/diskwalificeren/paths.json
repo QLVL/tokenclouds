@@ -1,0 +1,21 @@
+{
+  "cws": ["diskwalificeren.cws.tsv"],
+  "mds.cws": ["diskwalificeren.mds.cws.tsv"],
+  "mds": ["diskwalificeren.mds.tsv"],
+  "medoids": ["diskwalificeren.medoids.tsv"],
+  "models.comp": ["diskwalificeren.models.comp.tsv"],
+  "models.dist": ["diskwalificeren.models.dist.tsv"],
+  "models": ["diskwalificeren.models.tsv"],
+  "ppmi": ["diskwalificeren.ppmi.tsv"],
+  "solutions": ["diskwalificeren.solutions.json"],
+  "tsne.10.cws": ["diskwalificeren.tsne.10.cws.tsv"],
+  "tsne.10": ["diskwalificeren.tsne.10.tsv"],
+  "tsne.20.cws": ["diskwalificeren.tsne.20.cws.tsv"],
+  "tsne.20": ["diskwalificeren.tsne.20.tsv"],
+  "tsne.30.cws": ["diskwalificeren.tsne.30.cws.tsv"],
+  "tsne.30": ["diskwalificeren.tsne.30.tsv"],
+  "tsne.50.cws": ["diskwalificeren.tsne.50.cws.tsv"],
+  "tsne.50": ["diskwalificeren.tsne.50.tsv"],
+  "variables": ["diskwalificeren.variables.tsv"],
+  "tokens": ["tokens"]
+}
