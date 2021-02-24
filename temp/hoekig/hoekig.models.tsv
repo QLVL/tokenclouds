@@ -1,201 +1,201 @@
 _model	model.x	model.y	LEMMAPATH	LEMMAREL	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
-hoekig.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	610	lex	10_10	1	weight	5000	5000	nav	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	610	lex	10_10	1	weight	5000	5000	all	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	610	lex	10_10	1	weight	FOC	437	nav	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	610	lex	10_10	1	weight	FOC	610	all	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	610	lex	10_10	1	selection	5000	5000	nav	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	610	lex	10_10	1	selection	5000	5000	all	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	610	lex	10_10	1	selection	FOC	437	nav	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	610	lex	10_10	1	selection	FOC	610	all	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	1053	lex	10_10	1	no	5000	5000	nav	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	1053	lex	10_10	1	no	5000	5000	all	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	1053	lex	10_10	1	no	FOC	730	nav	4_4	262	hoekig
-hoekig.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	1053	lex	10_10	1	no	FOC	1053	all	4_4	262	hoekig
-hoekig.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	715	all	10_10	1	weight	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	715	all	10_10	1	weight	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	715	all	10_10	1	weight	FOC	437	nav	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	715	all	10_10	1	weight	FOC	715	all	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	715	all	10_10	1	selection	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	715	all	10_10	1	selection	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	715	all	10_10	1	selection	FOC	437	nav	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	715	all	10_10	1	selection	FOC	715	all	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	1324	all	10_10	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	1324	all	10_10	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	1324	all	10_10	1	no	FOC	730	nav	4_4	263	hoekig
-hoekig.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	1324	all	10_10	1	no	FOC	1324	all	4_4	263	hoekig
-hoekig.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	538	lex	5_5	1	weight	5000	5000	nav	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	538	lex	5_5	1	weight	5000	5000	all	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	538	lex	5_5	1	weight	FOC	376	nav	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	538	lex	5_5	1	weight	FOC	538	all	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	538	lex	5_5	1	selection	5000	5000	nav	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	538	lex	5_5	1	selection	5000	5000	all	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	538	lex	5_5	1	selection	FOC	376	nav	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	538	lex	5_5	1	selection	FOC	538	all	4_4	258	hoekig
-hoekig.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	667	lex	5_5	1	no	5000	5000	nav	4_4	261	hoekig
-hoekig.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	667	lex	5_5	1	no	5000	5000	all	4_4	261	hoekig
-hoekig.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	667	lex	5_5	1	no	FOC	467	nav	4_4	261	hoekig
-hoekig.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	667	lex	5_5	1	no	FOC	667	all	4_4	261	hoekig
-hoekig.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	631	all	5_5	1	weight	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	631	all	5_5	1	weight	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	631	all	5_5	1	weight	FOC	376	nav	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	631	all	5_5	1	weight	FOC	631	all	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	631	all	5_5	1	selection	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	631	all	5_5	1	selection	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	631	all	5_5	1	selection	FOC	376	nav	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	631	all	5_5	1	selection	FOC	631	all	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	830	all	5_5	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	830	all	5_5	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	830	all	5_5	1	no	FOC	467	nav	4_4	263	hoekig
-hoekig.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	830	all	5_5	1	no	FOC	830	all	4_4	263	hoekig
-hoekig.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	397	lex	3_3	1	weight	5000	5000	nav	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	397	lex	3_3	1	weight	5000	5000	all	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	397	lex	3_3	1	weight	FOC	274	nav	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	397	lex	3_3	1	weight	FOC	397	all	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	397	lex	3_3	1	selection	5000	5000	nav	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	397	lex	3_3	1	selection	5000	5000	all	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	397	lex	3_3	1	selection	FOC	274	nav	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	397	lex	3_3	1	selection	FOC	397	all	4_4	252	hoekig
-hoekig.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	444	lex	3_3	1	no	5000	5000	nav	4_4	257	hoekig
-hoekig.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	444	lex	3_3	1	no	5000	5000	all	4_4	257	hoekig
-hoekig.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	444	lex	3_3	1	no	FOC	310	nav	4_4	257	hoekig
-hoekig.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	444	lex	3_3	1	no	FOC	444	all	4_4	257	hoekig
-hoekig.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	470	all	3_3	1	weight	5000	5000	nav	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	470	all	3_3	1	weight	5000	5000	all	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	470	all	3_3	1	weight	FOC	274	nav	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	470	all	3_3	1	weight	FOC	470	all	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	470	all	3_3	1	selection	5000	5000	nav	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	470	all	3_3	1	selection	5000	5000	all	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	470	all	3_3	1	selection	FOC	274	nav	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	470	all	3_3	1	selection	FOC	470	all	4_4	261	hoekig
-hoekig.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	549	all	3_3	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	549	all	3_3	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	549	all	3_3	1	no	FOC	310	nav	4_4	263	hoekig
-hoekig.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	549	all	3_3	1	no	FOC	549	all	4_4	263	hoekig
-hoekig.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	672	lex	10_10	1	weight	5000	5000	nav	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	672	lex	10_10	1	weight	5000	5000	all	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	672	lex	10_10	1	weight	FOC	483	nav	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	672	lex	10_10	1	weight	FOC	672	all	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	672	lex	10_10	1	selection	5000	5000	nav	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	672	lex	10_10	1	selection	5000	5000	all	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	672	lex	10_10	1	selection	FOC	483	nav	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	672	lex	10_10	1	selection	FOC	672	all	4_4	262	hoekig
-hoekig.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	1299	lex	10_10	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	1299	lex	10_10	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	1299	lex	10_10	1	no	FOC	906	nav	4_4	263	hoekig
-hoekig.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	1299	lex	10_10	1	no	FOC	1299	all	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	791	all	10_10	1	weight	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	791	all	10_10	1	weight	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	791	all	10_10	1	weight	FOC	483	nav	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	791	all	10_10	1	weight	FOC	791	all	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	791	all	10_10	1	selection	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	791	all	10_10	1	selection	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	791	all	10_10	1	selection	FOC	483	nav	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	791	all	10_10	1	selection	FOC	791	all	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	1653	all	10_10	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	1653	all	10_10	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	1653	all	10_10	1	no	FOC	906	nav	4_4	263	hoekig
-hoekig.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	1653	all	10_10	1	no	FOC	1653	all	4_4	263	hoekig
-hoekig.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	577	lex	5_5	1	weight	5000	5000	nav	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	577	lex	5_5	1	weight	5000	5000	all	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	577	lex	5_5	1	weight	FOC	406	nav	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	577	lex	5_5	1	weight	FOC	577	all	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	577	lex	5_5	1	selection	5000	5000	nav	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	577	lex	5_5	1	selection	5000	5000	all	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	577	lex	5_5	1	selection	FOC	406	nav	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	577	lex	5_5	1	selection	FOC	577	all	4_4	258	hoekig
-hoekig.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	736	lex	5_5	1	no	5000	5000	nav	4_4	261	hoekig
-hoekig.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	736	lex	5_5	1	no	5000	5000	all	4_4	261	hoekig
-hoekig.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	736	lex	5_5	1	no	FOC	512	nav	4_4	261	hoekig
-hoekig.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	736	lex	5_5	1	no	FOC	736	all	4_4	261	hoekig
-hoekig.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	680	all	5_5	1	weight	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	680	all	5_5	1	weight	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	680	all	5_5	1	weight	FOC	406	nav	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	680	all	5_5	1	weight	FOC	680	all	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	680	all	5_5	1	selection	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	680	all	5_5	1	selection	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	680	all	5_5	1	selection	FOC	406	nav	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	680	all	5_5	1	selection	FOC	680	all	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	921	all	5_5	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	921	all	5_5	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	921	all	5_5	1	no	FOC	512	nav	4_4	263	hoekig
-hoekig.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	921	all	5_5	1	no	FOC	921	all	4_4	263	hoekig
-hoekig.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	411	lex	3_3	1	weight	5000	5000	nav	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	411	lex	3_3	1	weight	5000	5000	all	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	411	lex	3_3	1	weight	FOC	285	nav	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	411	lex	3_3	1	weight	FOC	411	all	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	411	lex	3_3	1	selection	5000	5000	nav	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	411	lex	3_3	1	selection	5000	5000	all	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	411	lex	3_3	1	selection	FOC	285	nav	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	411	lex	3_3	1	selection	FOC	411	all	4_4	255	hoekig
-hoekig.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	462	lex	3_3	1	no	5000	5000	nav	4_4	258	hoekig
-hoekig.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	462	lex	3_3	1	no	5000	5000	all	4_4	258	hoekig
-hoekig.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	462	lex	3_3	1	no	FOC	323	nav	4_4	258	hoekig
-hoekig.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	462	lex	3_3	1	no	FOC	462	all	4_4	258	hoekig
-hoekig.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	487	all	3_3	1	weight	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	487	all	3_3	1	weight	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	487	all	3_3	1	weight	FOC	285	nav	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	487	all	3_3	1	weight	FOC	487	all	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	487	all	3_3	1	selection	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	487	all	3_3	1	selection	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	487	all	3_3	1	selection	FOC	285	nav	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	487	all	3_3	1	selection	FOC	487	all	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	573	all	3_3	1	no	5000	5000	nav	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	573	all	3_3	1	no	5000	5000	all	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	573	all	3_3	1	no	FOC	323	nav	4_4	263	hoekig
-hoekig.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	573	all	3_3	1	no	FOC	573	all	4_4	263	hoekig
-hoekig.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav			selection2		LEMMAPATH	bound	326			1	weight	5000	5000	nav	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall			selection2		LEMMAPATH	bound	326			1	weight	5000	5000	all	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav			selection2		LEMMAPATH	bound	326			1	weight	FOC	203	nav	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall			selection2		LEMMAPATH	bound	326			1	weight	FOC	326	all	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav			selection2		LEMMAPATH	bound	326			1	selection	5000	5000	nav	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall			selection2		LEMMAPATH	bound	326			1	selection	5000	5000	all	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav			selection2		LEMMAPATH	bound	326			1	selection	FOC	203	nav	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall			selection2		LEMMAPATH	bound	326			1	selection	FOC	326	all	4_4	258	hoekig
-hoekig.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav			selection2		LEMMAPATH	bound	421			1	no	5000	5000	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall			selection2		LEMMAPATH	bound	421			1	no	5000	5000	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav			selection2		LEMMAPATH	bound	421			1	no	FOC	249	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall			selection2		LEMMAPATH	bound	421			1	no	FOC	421	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav			selection3		LEMMAPATH	bound	483			1	weight	5000	5000	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall			selection3		LEMMAPATH	bound	483			1	weight	5000	5000	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav			selection3		LEMMAPATH	bound	483			1	weight	FOC	301	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall			selection3		LEMMAPATH	bound	483			1	weight	FOC	483	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav			selection3		LEMMAPATH	bound	483			1	selection	5000	5000	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall			selection3		LEMMAPATH	bound	483			1	selection	5000	5000	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav			selection3		LEMMAPATH	bound	483			1	selection	FOC	301	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall			selection3		LEMMAPATH	bound	483			1	selection	FOC	483	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav			selection3		LEMMAPATH	bound	695			1	no	5000	5000	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall			selection3		LEMMAPATH	bound	695			1	no	5000	5000	all	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav			selection3		LEMMAPATH	bound	695			1	no	FOC	413	nav	4_4	264	hoekig
-hoekig.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall			selection3		LEMMAPATH	bound	695			1	no	FOC	695	all	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav			weight		LEMMAPATH	bound	483			1	selection	5000	5000	nav	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall			weight		LEMMAPATH	bound	483			1	selection	5000	5000	all	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav			weight		LEMMAPATH	bound	483			1	selection	FOC	301	nav	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall			weight		LEMMAPATH	bound	483			1	selection	FOC	483	all	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav			weight		LEMMAPATH	bound	695			1	no	5000	5000	nav	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall			weight		LEMMAPATH	bound	695			1	no	5000	5000	all	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav			weight		LEMMAPATH	bound	695			1	no	FOC	413	nav	4_4	264	hoekig
-hoekig.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall			weight		LEMMAPATH	bound	695			1	no	FOC	695	all	4_4	264	hoekig
-hoekig.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav				group1	LEMMAREL	bound	130			1	weight	5000	5000	nav	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall				group1	LEMMAREL	bound	130			1	weight	5000	5000	all	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav				group1	LEMMAREL	bound	130			1	weight	FOC	86	nav	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall				group1	LEMMAREL	bound	130			1	weight	FOC	130	all	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav				group1	LEMMAREL	bound	130			1	selection	5000	5000	nav	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall				group1	LEMMAREL	bound	130			1	selection	5000	5000	all	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav				group1	LEMMAREL	bound	130			1	selection	FOC	86	nav	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall				group1	LEMMAREL	bound	130			1	selection	FOC	130	all	4_4	170	hoekig
-hoekig.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav				group1	LEMMAREL	bound	145			1	no	5000	5000	nav	4_4	182	hoekig
-hoekig.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall				group1	LEMMAREL	bound	145			1	no	5000	5000	all	4_4	182	hoekig
-hoekig.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav				group1	LEMMAREL	bound	145			1	no	FOC	95	nav	4_4	182	hoekig
-hoekig.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall				group1	LEMMAREL	bound	145			1	no	FOC	145	all	4_4	182	hoekig
-hoekig.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav				group2	LEMMAREL	bound	206			1	weight	5000	5000	nav	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall				group2	LEMMAREL	bound	206			1	weight	5000	5000	all	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav				group2	LEMMAREL	bound	206			1	weight	FOC	137	nav	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall				group2	LEMMAREL	bound	206			1	weight	FOC	206	all	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav				group2	LEMMAREL	bound	206			1	selection	5000	5000	nav	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall				group2	LEMMAREL	bound	206			1	selection	5000	5000	all	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav				group2	LEMMAREL	bound	206			1	selection	FOC	137	nav	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall				group2	LEMMAREL	bound	206			1	selection	FOC	206	all	4_4	212	hoekig
-hoekig.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav				group2	LEMMAREL	bound	236			1	no	5000	5000	nav	4_4	225	hoekig
-hoekig.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall				group2	LEMMAREL	bound	236			1	no	5000	5000	all	4_4	225	hoekig
-hoekig.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav				group2	LEMMAREL	bound	236			1	no	FOC	157	nav	4_4	225	hoekig
-hoekig.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall				group2	LEMMAREL	bound	236			1	no	FOC	236	all	4_4	225	hoekig
+hoekig.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.0504732405806538	-0.38040778265876424	NA	NA	BOW	bound	610	lex	10_10	1	weight	5000	5000	nav	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	0.030988994209789313	-1.3981233669766389	NA	NA	BOW	bound	610	lex	10_10	1	weight	5000	5000	all	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.232023507162102	-0.06376487663270795	NA	NA	BOW	bound	610	lex	10_10	1	weight	FOC	437	nav	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.1737676669497443	-0.10877449465856219	NA	NA	BOW	bound	610	lex	10_10	1	weight	FOC	610	all	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.9434856787888181	-0.6073595228285956	NA	NA	BOW	bound	610	lex	10_10	1	selection	5000	5000	nav	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	0.22362381664264164	-1.6701916560807666	NA	NA	BOW	bound	610	lex	10_10	1	selection	5000	5000	all	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.1348638878846067	-0.2544692541577844	NA	NA	BOW	bound	610	lex	10_10	1	selection	FOC	437	nav	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.0582972702747597	-0.29776779119131214	NA	NA	BOW	bound	610	lex	10_10	1	selection	FOC	610	all	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.048841917356818	-0.9012129961446845	NA	NA	BOW	bound	1053	lex	10_10	1	no	5000	5000	nav	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	0.3357130184293252	-2.174900274154728	NA	NA	BOW	bound	1053	lex	10_10	1	no	5000	5000	all	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.3142292777529698	-0.5455477605032772	NA	NA	BOW	bound	1053	lex	10_10	1	no	FOC	730	nav	4_4	262	hoekig
+hoekig.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.1992572885495203	-0.5978829355874055	NA	NA	BOW	bound	1053	lex	10_10	1	no	FOC	1053	all	4_4	262	hoekig
+hoekig.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.22496964544172135	-0.489430694113689	NA	NA	BOW	bound	715	all	10_10	1	weight	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	0.8985818993971875	-0.9961515499504622	NA	NA	BOW	bound	715	all	10_10	1	weight	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6651782032422122	-0.24658057412563786	NA	NA	BOW	bound	715	all	10_10	1	weight	FOC	437	nav	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.6102839160338914	-0.28153135317688316	NA	NA	BOW	bound	715	all	10_10	1	weight	FOC	715	all	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.03701999729936083	-0.9506604465487619	NA	NA	BOW	bound	715	all	10_10	1	selection	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	1.738771831423388	-0.9869797326326313	NA	NA	BOW	bound	715	all	10_10	1	selection	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.5661935091499871	-0.5008849056578206	NA	NA	BOW	bound	715	all	10_10	1	selection	FOC	437	nav	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.43559481679154	-0.5250225151675001	NA	NA	BOW	bound	715	all	10_10	1	selection	FOC	715	all	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	-0.3735880602763568	-1.5626349848784464	NA	NA	BOW	bound	1324	all	10_10	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	2.12454191124482	-1.5595434218999216	NA	NA	BOW	bound	1324	all	10_10	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.7983953864314297	-0.9686363271755055	NA	NA	BOW	bound	1324	all	10_10	1	no	FOC	730	nav	4_4	263	hoekig
+hoekig.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.698716519361831	-1.0452015371124563	NA	NA	BOW	bound	1324	all	10_10	1	no	FOC	1324	all	4_4	263	hoekig
+hoekig.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.8297161989471125	0.0662187977083466	NA	NA	BOW	bound	538	lex	5_5	1	weight	5000	5000	nav	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	0.46295778087737416	-1.0714357788022761	NA	NA	BOW	bound	538	lex	5_5	1	weight	5000	5000	all	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.0065277266068817	0.2369046891517519	NA	NA	BOW	bound	538	lex	5_5	1	weight	FOC	376	nav	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.9494937552300529	0.20817957630277864	NA	NA	BOW	bound	538	lex	5_5	1	weight	FOC	538	all	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.7409899990657408	-0.02288743237888285	NA	NA	BOW	bound	538	lex	5_5	1	selection	5000	5000	nav	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	0.5938383249021825	-1.2280162929559175	NA	NA	BOW	bound	538	lex	5_5	1	selection	5000	5000	all	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9036893569391611	0.1514250721604386	NA	NA	BOW	bound	538	lex	5_5	1	selection	FOC	376	nav	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.81944314574307	0.11647071397538776	NA	NA	BOW	bound	538	lex	5_5	1	selection	FOC	538	all	4_4	258	hoekig
+hoekig.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	-0.9623959658605107	-0.16246606120107585	NA	NA	BOW	bound	667	lex	5_5	1	no	5000	5000	nav	4_4	261	hoekig
+hoekig.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	0.6027063791504497	-1.7613436049926148	NA	NA	BOW	bound	667	lex	5_5	1	no	5000	5000	all	4_4	261	hoekig
+hoekig.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.1145159164560319	0.09825617367284126	NA	NA	BOW	bound	667	lex	5_5	1	no	FOC	467	nav	4_4	261	hoekig
+hoekig.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.0185341648149469	0.04213957245194342	NA	NA	BOW	bound	667	lex	5_5	1	no	FOC	667	all	4_4	261	hoekig
+hoekig.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.03467787382872389	-0.11094447479562014	NA	NA	BOW	bound	631	all	5_5	1	weight	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	1.2459581766156083	-0.5256688337951129	NA	NA	BOW	bound	631	all	5_5	1	weight	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.5255276855559994	0.11746267235771121	NA	NA	BOW	bound	631	all	5_5	1	weight	FOC	376	nav	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.4746167143969609	0.08120801941360097	NA	NA	BOW	bound	631	all	5_5	1	weight	FOC	631	all	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.6666291974786539	0.20629418954064754	NA	NA	BOW	bound	631	all	5_5	1	selection	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	1.8147884364266773	-0.3231067311112801	NA	NA	BOW	bound	631	all	5_5	1	selection	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.30282386317080806	0.04803169007984196	NA	NA	BOW	bound	631	all	5_5	1	selection	FOC	376	nav	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.20798669120446012	-9.452763903736062e-4	NA	NA	BOW	bound	631	all	5_5	1	selection	FOC	631	all	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	0.973932398783287	0.19210358553091955	NA	NA	BOW	bound	830	all	5_5	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	2.3430838599392163	-0.4477919115794094	NA	NA	BOW	bound	830	all	5_5	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.31455974022645	-0.17251495973789385	NA	NA	BOW	bound	830	all	5_5	1	no	FOC	467	nav	4_4	263	hoekig
+hoekig.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.18495615048230785	-0.23673314724539857	NA	NA	BOW	bound	830	all	5_5	1	no	FOC	830	all	4_4	263	hoekig
+hoekig.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.651318364317404	0.4450278027135115	NA	NA	BOW	bound	397	lex	3_3	1	weight	5000	5000	nav	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	0.8796821041646812	-0.7853316691070042	NA	NA	BOW	bound	397	lex	3_3	1	weight	5000	5000	all	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.8788329605492852	0.5376638825269178	NA	NA	BOW	bound	397	lex	3_3	1	weight	FOC	274	nav	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.8153565280734344	0.4844490992444863	NA	NA	BOW	bound	397	lex	3_3	1	weight	FOC	397	all	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.5531863125972243	0.4932445150232614	NA	NA	BOW	bound	397	lex	3_3	1	selection	5000	5000	nav	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	1.0077110056833674	-0.8275899460804127	NA	NA	BOW	bound	397	lex	3_3	1	selection	5000	5000	all	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7536014575928174	0.4992384741525082	NA	NA	BOW	bound	397	lex	3_3	1	selection	FOC	274	nav	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.6908700005494633	0.47182481682093846	NA	NA	BOW	bound	397	lex	3_3	1	selection	FOC	397	all	4_4	252	hoekig
+hoekig.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	-0.7073618052198967	0.6838381858049519	NA	NA	BOW	bound	444	lex	3_3	1	no	5000	5000	nav	4_4	257	hoekig
+hoekig.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	1.097101431337741	-1.139144926426205	NA	NA	BOW	bound	444	lex	3_3	1	no	5000	5000	all	4_4	257	hoekig
+hoekig.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.843613795881899	0.5740448261834536	NA	NA	BOW	bound	444	lex	3_3	1	no	FOC	310	nav	4_4	257	hoekig
+hoekig.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.7679970536054724	0.5347311353874751	NA	NA	BOW	bound	444	lex	3_3	1	no	FOC	444	all	4_4	257	hoekig
+hoekig.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.36465466213502595	0.3188967913148431	NA	NA	BOW	bound	470	all	3_3	1	weight	5000	5000	nav	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	1.4351260452397707	-0.07177750451351103	NA	NA	BOW	bound	470	all	3_3	1	weight	5000	5000	all	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.3483000942752552	0.5193108235559295	NA	NA	BOW	bound	470	all	3_3	1	weight	FOC	274	nav	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.24233837088559146	0.4612715348213176	NA	NA	BOW	bound	470	all	3_3	1	weight	FOC	470	all	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.7741281622866707	0.626351147639761	NA	NA	BOW	bound	470	all	3_3	1	selection	5000	5000	nav	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	1.8105419345011566	0.22591930327599585	NA	NA	BOW	bound	470	all	3_3	1	selection	5000	5000	all	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.009989709620189224	0.5675194353865212	NA	NA	BOW	bound	470	all	3_3	1	selection	FOC	274	nav	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.16049030085008822	0.52288776363404	NA	NA	BOW	bound	470	all	3_3	1	selection	FOC	470	all	4_4	261	hoekig
+hoekig.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	1.0135469530536927	0.7520006182853156	NA	NA	BOW	bound	549	all	3_3	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	2.29322816884495	0.23164150464597585	NA	NA	BOW	bound	549	all	3_3	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.05998127779626257	0.6278382528572407	NA	NA	BOW	bound	549	all	3_3	1	no	FOC	310	nav	4_4	263	hoekig
+hoekig.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	0.22598234045293428	0.5725437577125849	NA	NA	BOW	bound	549	all	3_3	1	no	FOC	549	all	4_4	263	hoekig
+hoekig.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.2110496114567373	-0.39775471533385615	NA	NA	BOW	nobound	672	lex	10_10	1	weight	5000	5000	nav	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.2041438912600863	-1.48980535365552	NA	NA	BOW	nobound	672	lex	10_10	1	weight	5000	5000	all	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.3263675277241689	-0.12721902725021558	NA	NA	BOW	nobound	672	lex	10_10	1	weight	FOC	483	nav	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.2899976322110311	-0.15891418186630243	NA	NA	BOW	nobound	672	lex	10_10	1	weight	FOC	672	all	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.1611454959606955	-0.683555726592675	NA	NA	BOW	nobound	672	lex	10_10	1	selection	5000	5000	nav	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	-0.01783480614950809	-1.8533306822938613	NA	NA	BOW	nobound	672	lex	10_10	1	selection	5000	5000	all	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.2976108879040167	-0.3184119517860267	NA	NA	BOW	nobound	672	lex	10_10	1	selection	FOC	483	nav	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.2330044536332612	-0.3674018863130117	NA	NA	BOW	nobound	672	lex	10_10	1	selection	FOC	672	all	4_4	262	hoekig
+hoekig.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.412224783001182	-0.9646652351903696	NA	NA	BOW	nobound	1299	lex	10_10	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	-0.20092963644531936	-2.5007284893447026	NA	NA	BOW	nobound	1299	lex	10_10	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.5296464320666918	-0.6168517000316587	NA	NA	BOW	nobound	1299	lex	10_10	1	no	FOC	906	nav	4_4	263	hoekig
+hoekig.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.4667015232754785	-0.6556242059546967	NA	NA	BOW	nobound	1299	lex	10_10	1	no	FOC	1299	all	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.4770293848628867	-0.5944055326222414	NA	NA	BOW	nobound	791	all	10_10	1	weight	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	0.657407669912911	-1.217198731341328	NA	NA	BOW	nobound	791	all	10_10	1	weight	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.845377788386015	-0.34253946636467225	NA	NA	BOW	nobound	791	all	10_10	1	weight	FOC	483	nav	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.7823950264558195	-0.37971460862984174	NA	NA	BOW	nobound	791	all	10_10	1	weight	FOC	791	all	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.2475013192291986	-1.1266604772785087	NA	NA	BOW	nobound	791	all	10_10	1	selection	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	1.5719698589550286	-1.3717372397368575	NA	NA	BOW	nobound	791	all	10_10	1	selection	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7233985480591079	-0.6246462299734683	NA	NA	BOW	nobound	791	all	10_10	1	selection	FOC	483	nav	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.6089129384465454	-0.6535673859235394	NA	NA	BOW	nobound	791	all	10_10	1	selection	FOC	791	all	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	-0.6529016972775813	-1.613551389275928	NA	NA	BOW	nobound	1653	all	10_10	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	1.8807850054708246	-2.190780631189912	NA	NA	BOW	nobound	1653	all	10_10	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	-1.0198043453781405	-1.076531829593046	NA	NA	BOW	nobound	1653	all	10_10	1	no	FOC	906	nav	4_4	263	hoekig
+hoekig.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.9253049397809712	-1.1827331566948034	NA	NA	BOW	nobound	1653	all	10_10	1	no	FOC	1653	all	4_4	263	hoekig
+hoekig.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.9126127566234454	0.03766809841386467	NA	NA	BOW	nobound	577	lex	5_5	1	weight	5000	5000	nav	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	0.43386183418606755	-1.1407007632555493	NA	NA	BOW	nobound	577	lex	5_5	1	weight	5000	5000	all	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.063620441043841	0.21413903112626267	NA	NA	BOW	nobound	577	lex	5_5	1	weight	FOC	406	nav	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.0066582055544937	0.18458850796000564	NA	NA	BOW	nobound	577	lex	5_5	1	weight	FOC	577	all	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.8182359112482475	-0.06771382503618219	NA	NA	BOW	nobound	577	lex	5_5	1	selection	5000	5000	nav	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	0.5466262505620716	-1.305330670043971	NA	NA	BOW	nobound	577	lex	5_5	1	selection	5000	5000	all	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9552541936181699	0.1268709301462346	NA	NA	BOW	nobound	577	lex	5_5	1	selection	FOC	406	nav	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.8744945892103182	0.0877230728154915	NA	NA	BOW	nobound	577	lex	5_5	1	selection	FOC	577	all	4_4	258	hoekig
+hoekig.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	-1.1328222918120507	-0.15763097379399532	NA	NA	BOW	nobound	736	lex	5_5	1	no	5000	5000	nav	4_4	261	hoekig
+hoekig.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	0.5193889721931203	-1.9495557602356721	NA	NA	BOW	nobound	736	lex	5_5	1	no	5000	5000	all	4_4	261	hoekig
+hoekig.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.2014515497278722	0.09187329873915281	NA	NA	BOW	nobound	736	lex	5_5	1	no	FOC	512	nav	4_4	261	hoekig
+hoekig.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.106174597830012	0.03654107794791478	NA	NA	BOW	nobound	736	lex	5_5	1	no	FOC	736	all	4_4	261	hoekig
+hoekig.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.15724533976557692	-0.1679588871501418	NA	NA	BOW	nobound	680	all	5_5	1	weight	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	1.1545166423438422	-0.6591719257627825	NA	NA	BOW	nobound	680	all	5_5	1	weight	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6110608801978761	0.0675345204761201	NA	NA	BOW	nobound	680	all	5_5	1	weight	FOC	406	nav	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.5613884644834076	0.020956349630320375	NA	NA	BOW	nobound	680	all	5_5	1	weight	FOC	680	all	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.6331945747262386	0.11029497706898948	NA	NA	BOW	nobound	680	all	5_5	1	selection	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	1.7748731074325432	-0.4443020411189372	NA	NA	BOW	nobound	680	all	5_5	1	selection	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.3512189365598481	-0.02123133419696662	NA	NA	BOW	nobound	680	all	5_5	1	selection	FOC	406	nav	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.27415657219027684	-0.06352145658357872	NA	NA	BOW	nobound	680	all	5_5	1	selection	FOC	680	all	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	0.973834518461342	0.10293092601602802	NA	NA	BOW	nobound	921	all	5_5	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	2.4142945897852988	-0.6329164186763396	NA	NA	BOW	nobound	921	all	5_5	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.38875910914586675	-0.2483296977566852	NA	NA	BOW	nobound	921	all	5_5	1	no	FOC	512	nav	4_4	263	hoekig
+hoekig.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.266761219823426	-0.3098644940704368	NA	NA	BOW	nobound	921	all	5_5	1	no	FOC	921	all	4_4	263	hoekig
+hoekig.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.7353913460337757	0.5570231353215171	NA	NA	BOW	nobound	411	lex	3_3	1	weight	5000	5000	nav	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	0.9322833762241584	-0.8181537573243903	NA	NA	BOW	nobound	411	lex	3_3	1	weight	5000	5000	all	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9460817643188989	0.5960311368977936	NA	NA	BOW	nobound	411	lex	3_3	1	weight	FOC	285	nav	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.8862416678823757	0.5543787408624534	NA	NA	BOW	nobound	411	lex	3_3	1	weight	FOC	411	all	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.6425731583115545	0.6089711877399576	NA	NA	BOW	nobound	411	lex	3_3	1	selection	5000	5000	nav	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	1.0418557150010725	-0.9028526041877987	NA	NA	BOW	nobound	411	lex	3_3	1	selection	5000	5000	all	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.8250646307967561	0.5540024431286156	NA	NA	BOW	nobound	411	lex	3_3	1	selection	FOC	285	nav	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.7553724364781994	0.5150960357952494	NA	NA	BOW	nobound	411	lex	3_3	1	selection	FOC	411	all	4_4	255	hoekig
+hoekig.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	-0.8020179995660548	0.7103910556370833	NA	NA	BOW	nobound	462	lex	3_3	1	no	5000	5000	nav	4_4	258	hoekig
+hoekig.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	1.0952651800742021	-1.271260601529613	NA	NA	BOW	nobound	462	lex	3_3	1	no	5000	5000	all	4_4	258	hoekig
+hoekig.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.9162041447125429	0.5818132453013903	NA	NA	BOW	nobound	462	lex	3_3	1	no	FOC	323	nav	4_4	258	hoekig
+hoekig.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.835115190450942	0.5482984755313626	NA	NA	BOW	nobound	462	lex	3_3	1	no	FOC	462	all	4_4	258	hoekig
+hoekig.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.37165858284873365	0.33326243962998464	NA	NA	BOW	nobound	487	all	3_3	1	weight	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	1.470870963490002	-0.09260922434152669	NA	NA	BOW	nobound	487	all	3_3	1	weight	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.4198052257801965	0.5762494948419495	NA	NA	BOW	nobound	487	all	3_3	1	weight	FOC	285	nav	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.2946634028832036	0.480916862141896	NA	NA	BOW	nobound	487	all	3_3	1	weight	FOC	487	all	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.7974741388385677	0.6505707686311588	NA	NA	BOW	nobound	487	all	3_3	1	selection	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	1.8639546806844185	0.2257024861791309	NA	NA	BOW	nobound	487	all	3_3	1	selection	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.007098107092805801	0.5982799445493928	NA	NA	BOW	nobound	487	all	3_3	1	selection	FOC	285	nav	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.15678458594818157	0.5434277696293693	NA	NA	BOW	nobound	487	all	3_3	1	selection	FOC	487	all	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	1.0524867629252712	0.764643691563598	NA	NA	BOW	nobound	573	all	3_3	1	no	5000	5000	nav	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	2.3773332941447145	0.2015425294240702	NA	NA	BOW	nobound	573	all	3_3	1	no	5000	5000	all	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.07321861293372861	0.6173472478886692	NA	NA	BOW	nobound	573	all	3_3	1	no	FOC	323	nav	4_4	263	hoekig
+hoekig.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	0.2335312824046075	0.5623637927753712	NA	NA	BOW	nobound	573	all	3_3	1	no	FOC	573	all	4_4	263	hoekig
+hoekig.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	0.3693026675350777	1.0929803562688225	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	weight	5000	5000	nav	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	1.481939558715746	0.7639676447727114	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	weight	5000	5000	all	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	-0.25266590059831256	1.1846239368965648	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	weight	FOC	203	nav	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	-0.15381997932569594	1.1481415862982196	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	weight	FOC	326	all	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	0.701505983450127	1.2613105346256197	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	selection	5000	5000	nav	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	1.6394492460529164	1.0372654448999237	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	selection	5000	5000	all	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	0.04884624980389449	1.1406064506120241	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	selection	FOC	203	nav	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	0.18059176787518086	1.0792872410356988	selection2	NA	LEMMAPATH	bound	326	NA	NA	1	selection	FOC	326	all	4_4	258	hoekig
+hoekig.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	0.8319324751351855	1.5416425026095153	selection2	NA	LEMMAPATH	bound	421	NA	NA	1	no	5000	5000	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	2.0320266156159366	1.393562877536149	selection2	NA	LEMMAPATH	bound	421	NA	NA	1	no	5000	5000	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	0.019917771595676842	1.3232409211400828	selection2	NA	LEMMAPATH	bound	421	NA	NA	1	no	FOC	249	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	0.15811265909236644	1.2690536914644621	selection2	NA	LEMMAPATH	bound	421	NA	NA	1	no	FOC	421	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	0.32110743813493886	0.8088271400173483	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	weight	5000	5000	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	1.5213408672032247	0.3439981412726049	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	weight	5000	5000	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	-0.4304995899864644	0.876486862717608	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	weight	FOC	301	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	-0.33450383998510347	0.8370658536935021	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	weight	FOC	483	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	0.6889575494083647	1.0337291443736563	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	selection	5000	5000	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	1.7884489433922235	0.7542246366323548	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	selection	5000	5000	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	-0.17543203200083574	0.8596686995698876	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	selection	FOC	301	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	-0.03896623568422526	0.8222079667041383	selection3	NA	LEMMAPATH	bound	483	NA	NA	1	selection	FOC	483	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	0.8309996870135328	1.2083961739910045	selection3	NA	LEMMAPATH	bound	695	NA	NA	1	no	5000	5000	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	2.1512751759536237	0.9059204522918806	selection3	NA	LEMMAPATH	bound	695	NA	NA	1	no	5000	5000	all	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	-0.20918037345588125	0.9597966402513366	selection3	NA	LEMMAPATH	bound	695	NA	NA	1	no	FOC	413	nav	4_4	264	hoekig
+hoekig.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	0.0041928608588289945	0.9156885223356422	selection3	NA	LEMMAPATH	bound	695	NA	NA	1	no	FOC	695	all	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	0.6889575494083647	1.0337291443736563	weight	NA	LEMMAPATH	bound	483	NA	NA	1	selection	5000	5000	nav	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	1.7884489442711564	0.754224636938109	weight	NA	LEMMAPATH	bound	483	NA	NA	1	selection	5000	5000	all	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	-0.17543203200083574	0.8596686995698876	weight	NA	LEMMAPATH	bound	483	NA	NA	1	selection	FOC	301	nav	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	-0.03896623568422526	0.8222079667041383	weight	NA	LEMMAPATH	bound	483	NA	NA	1	selection	FOC	483	all	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	0.7447995236521213	1.1881342338626293	weight	NA	LEMMAPATH	bound	695	NA	NA	1	no	5000	5000	nav	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	1.8747613096828288	1.1128682737530624	weight	NA	LEMMAPATH	bound	695	NA	NA	1	no	5000	5000	all	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	-0.024703159585078963	0.9557846713829462	weight	NA	LEMMAPATH	bound	695	NA	NA	1	no	FOC	413	nav	4_4	264	hoekig
+hoekig.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	0.11367406387632562	0.9243709285538482	weight	NA	LEMMAPATH	bound	695	NA	NA	1	no	FOC	695	all	4_4	264	hoekig
+hoekig.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	0.07521368856194244	0.04237527574459723	NA	group1	LEMMAREL	bound	130	NA	NA	1	weight	5000	5000	nav	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	0.46483127562552146	-0.2010198034528332	NA	group1	LEMMAREL	bound	130	NA	NA	1	weight	5000	5000	all	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	0.027581411389793614	0.07422572304019806	NA	group1	LEMMAREL	bound	130	NA	NA	1	weight	FOC	86	nav	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	0.03306639362573928	0.04013691912612108	NA	group1	LEMMAREL	bound	130	NA	NA	1	weight	FOC	130	all	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	0.07672233096944742	0.05104664443113856	NA	group1	LEMMAREL	bound	130	NA	NA	1	selection	5000	5000	nav	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	0.4507108219608339	-0.1760763837328924	NA	group1	LEMMAREL	bound	130	NA	NA	1	selection	5000	5000	all	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	0.03295019140836564	0.0774190141046585	NA	group1	LEMMAREL	bound	130	NA	NA	1	selection	FOC	86	nav	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	0.03509100261388513	0.04183273396129271	NA	group1	LEMMAREL	bound	130	NA	NA	1	selection	FOC	130	all	4_4	170	hoekig
+hoekig.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	0.09903855505214731	0.10314472672372964	NA	group1	LEMMAREL	bound	145	NA	NA	1	no	5000	5000	nav	4_4	182	hoekig
+hoekig.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	0.6266548293268489	-0.24978012929763055	NA	group1	LEMMAREL	bound	145	NA	NA	1	no	5000	5000	all	4_4	182	hoekig
+hoekig.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	0.05769474815372614	0.13822690628704504	NA	group1	LEMMAREL	bound	145	NA	NA	1	no	FOC	95	nav	4_4	182	hoekig
+hoekig.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	0.04988832850688883	0.11600687168864048	NA	group1	LEMMAREL	bound	145	NA	NA	1	no	FOC	145	all	4_4	182	hoekig
+hoekig.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	-0.024256909955993576	0.3170097783883534	NA	group2	LEMMAREL	bound	206	NA	NA	1	weight	5000	5000	nav	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	0.9191205146827233	-0.32734842137663245	NA	group2	LEMMAREL	bound	206	NA	NA	1	weight	5000	5000	all	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	-0.30171360972575223	0.5876872960337779	NA	group2	LEMMAREL	bound	206	NA	NA	1	weight	FOC	137	nav	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	-0.1848018553648207	0.4133676071934169	NA	group2	LEMMAREL	bound	206	NA	NA	1	weight	FOC	206	all	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	0.019522375289929294	0.34637131726953474	NA	group2	LEMMAREL	bound	206	NA	NA	1	selection	5000	5000	nav	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	0.97005388134551	-0.28262483554493306	NA	group2	LEMMAREL	bound	206	NA	NA	1	selection	5000	5000	all	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	-0.27208648113433254	0.6039595083149246	NA	group2	LEMMAREL	bound	206	NA	NA	1	selection	FOC	137	nav	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	-0.15286501723558005	0.4417337823187141	NA	group2	LEMMAREL	bound	206	NA	NA	1	selection	FOC	206	all	4_4	212	hoekig
+hoekig.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	-0.2627115188633885	1.0774830358069898	NA	group2	LEMMAREL	bound	236	NA	NA	1	no	5000	5000	nav	4_4	225	hoekig
+hoekig.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	1.3252241112697605	-0.28786317346664264	NA	group2	LEMMAREL	bound	236	NA	NA	1	no	5000	5000	all	4_4	225	hoekig
+hoekig.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	-0.49922279923325646	1.0339734288508282	NA	group2	LEMMAREL	bound	236	NA	NA	1	no	FOC	157	nav	4_4	225	hoekig
+hoekig.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	-0.41267782981195655	0.9924520777244717	NA	group2	LEMMAREL	bound	236	NA	NA	1	no	FOC	236	all	4_4	225	hoekig

@@ -1,213 +1,213 @@
-	LEMMAPATH	LEMMAREL	base	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	model.x	model.y	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
-staal.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	603	lex	10_10	1	weight			5000	5000	nav	4_4		308	staal
-staal.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	603	lex	10_10	1	weight			5000	5000	all	4_4		308	staal
-staal.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	603	lex	10_10	1	weight			FOC	459	nav	4_4		308	staal
-staal.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	603	lex	10_10	1	weight			FOC	603	all	4_4		308	staal
-staal.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	603	lex	10_10	1	selection			5000	5000	nav	4_4		308	staal
-staal.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	603	lex	10_10	1	selection			5000	5000	all	4_4		308	staal
-staal.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	603	lex	10_10	1	selection			FOC	459	nav	4_4		308	staal
-staal.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	603	lex	10_10	1	selection			FOC	603	all	4_4		308	staal
-staal.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	1033	lex	10_10	1	no			5000	5000	nav	4_4		310	staal
-staal.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	1033	lex	10_10	1	no			5000	5000	all	4_4		310	staal
-staal.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	1033	lex	10_10	1	no			FOC	776	nav	4_4		310	staal
-staal.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	1033	lex	10_10	1	no			FOC	1033	all	4_4		310	staal
-staal.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	775	all	10_10	1	weight			5000	5000	nav	4_4		310	staal
-staal.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	775	all	10_10	1	weight			5000	5000	all	4_4		310	staal
-staal.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	775	all	10_10	1	weight			FOC	459	nav	4_4		310	staal
-staal.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	775	all	10_10	1	weight			FOC	775	all	4_4		310	staal
-staal.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	775	all	10_10	1	selection			5000	5000	nav	4_4		310	staal
-staal.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	775	all	10_10	1	selection			5000	5000	all	4_4		310	staal
-staal.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	775	all	10_10	1	selection			FOC	459	nav	4_4		310	staal
-staal.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	775	all	10_10	1	selection			FOC	775	all	4_4		310	staal
-staal.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	1375	all	10_10	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	1375	all	10_10	1	no			5000	5000	all	4_4		311	staal
-staal.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	1375	all	10_10	1	no			FOC	776	nav	4_4		311	staal
-staal.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	1375	all	10_10	1	no			FOC	1375	all	4_4		311	staal
-staal.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	465	lex	5_5	1	weight			5000	5000	nav	4_4		305	staal
-staal.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	465	lex	5_5	1	weight			5000	5000	all	4_4		305	staal
-staal.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	465	lex	5_5	1	weight			FOC	354	nav	4_4		305	staal
-staal.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	465	lex	5_5	1	weight			FOC	465	all	4_4		305	staal
-staal.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	465	lex	5_5	1	selection			5000	5000	nav	4_4		305	staal
-staal.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	465	lex	5_5	1	selection			5000	5000	all	4_4		305	staal
-staal.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	465	lex	5_5	1	selection			FOC	354	nav	4_4		305	staal
-staal.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	465	lex	5_5	1	selection			FOC	465	all	4_4		305	staal
-staal.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	655	lex	5_5	1	no			5000	5000	nav	4_4		309	staal
-staal.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	655	lex	5_5	1	no			5000	5000	all	4_4		309	staal
-staal.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	655	lex	5_5	1	no			FOC	501	nav	4_4		309	staal
-staal.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	655	lex	5_5	1	no			FOC	655	all	4_4		309	staal
-staal.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	596	all	5_5	1	weight			5000	5000	nav	4_4		310	staal
-staal.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	596	all	5_5	1	weight			5000	5000	all	4_4		310	staal
-staal.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	596	all	5_5	1	weight			FOC	354	nav	4_4		310	staal
-staal.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	596	all	5_5	1	weight			FOC	596	all	4_4		310	staal
-staal.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	596	all	5_5	1	selection			5000	5000	nav	4_4		310	staal
-staal.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	596	all	5_5	1	selection			5000	5000	all	4_4		310	staal
-staal.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	596	all	5_5	1	selection			FOC	354	nav	4_4		310	staal
-staal.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	596	all	5_5	1	selection			FOC	596	all	4_4		310	staal
-staal.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	865	all	5_5	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	865	all	5_5	1	no			5000	5000	all	4_4		311	staal
-staal.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	865	all	5_5	1	no			FOC	501	nav	4_4		311	staal
-staal.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	865	all	5_5	1	no			FOC	865	all	4_4		311	staal
-staal.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	319	lex	3_3	1	weight			5000	5000	nav	4_4		292	staal
-staal.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	319	lex	3_3	1	weight			5000	5000	all	4_4		292	staal
-staal.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	319	lex	3_3	1	weight			FOC	247	nav	4_4		292	staal
-staal.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	319	lex	3_3	1	weight			FOC	319	all	4_4		292	staal
-staal.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	319	lex	3_3	1	selection			5000	5000	nav	4_4		292	staal
-staal.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	319	lex	3_3	1	selection			5000	5000	all	4_4		292	staal
-staal.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	319	lex	3_3	1	selection			FOC	247	nav	4_4		292	staal
-staal.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	319	lex	3_3	1	selection			FOC	319	all	4_4		292	staal
-staal.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	411	lex	3_3	1	no			5000	5000	nav	4_4		301	staal
-staal.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	411	lex	3_3	1	no			5000	5000	all	4_4		301	staal
-staal.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	411	lex	3_3	1	no			FOC	318	nav	4_4		301	staal
-staal.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	411	lex	3_3	1	no			FOC	411	all	4_4		301	staal
-staal.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	415	all	3_3	1	weight			5000	5000	nav	4_4		309	staal
-staal.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	415	all	3_3	1	weight			5000	5000	all	4_4		309	staal
-staal.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	415	all	3_3	1	weight			FOC	247	nav	4_4		309	staal
-staal.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	415	all	3_3	1	weight			FOC	415	all	4_4		309	staal
-staal.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	415	all	3_3	1	selection			5000	5000	nav	4_4		309	staal
-staal.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	415	all	3_3	1	selection			5000	5000	all	4_4		309	staal
-staal.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	415	all	3_3	1	selection			FOC	247	nav	4_4		309	staal
-staal.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	415	all	3_3	1	selection			FOC	415	all	4_4		309	staal
-staal.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	542	all	3_3	1	no			5000	5000	nav	4_4		310	staal
-staal.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	542	all	3_3	1	no			5000	5000	all	4_4		310	staal
-staal.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	542	all	3_3	1	no			FOC	318	nav	4_4		310	staal
-staal.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	542	all	3_3	1	no			FOC	542	all	4_4		310	staal
-staal.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	715	lex	10_10	1	weight			5000	5000	nav	4_4		311	staal
-staal.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	715	lex	10_10	1	weight			5000	5000	all	4_4		311	staal
-staal.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	715	lex	10_10	1	weight			FOC	553	nav	4_4		311	staal
-staal.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	715	lex	10_10	1	weight			FOC	715	all	4_4		311	staal
-staal.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	715	lex	10_10	1	selection			5000	5000	nav	4_4		311	staal
-staal.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	715	lex	10_10	1	selection			5000	5000	all	4_4		311	staal
-staal.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	715	lex	10_10	1	selection			FOC	553	nav	4_4		311	staal
-staal.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	715	lex	10_10	1	selection			FOC	715	all	4_4		311	staal
-staal.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	1376	lex	10_10	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	1376	lex	10_10	1	no			5000	5000	all	4_4		311	staal
-staal.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	1376	lex	10_10	1	no			FOC	1041	nav	4_4		311	staal
-staal.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	1376	lex	10_10	1	no			FOC	1376	all	4_4		311	staal
-staal.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	915	all	10_10	1	weight			5000	5000	nav	4_4		311	staal
-staal.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	915	all	10_10	1	weight			5000	5000	all	4_4		311	staal
-staal.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	915	all	10_10	1	weight			FOC	553	nav	4_4		311	staal
-staal.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	915	all	10_10	1	weight			FOC	915	all	4_4		311	staal
-staal.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	915	all	10_10	1	selection			5000	5000	nav	4_4		311	staal
-staal.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	915	all	10_10	1	selection			5000	5000	all	4_4		311	staal
-staal.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	915	all	10_10	1	selection			FOC	553	nav	4_4		311	staal
-staal.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	915	all	10_10	1	selection			FOC	915	all	4_4		311	staal
-staal.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	1812	all	10_10	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	1812	all	10_10	1	no			5000	5000	all	4_4		311	staal
-staal.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	1812	all	10_10	1	no			FOC	1041	nav	4_4		311	staal
-staal.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	1812	all	10_10	1	no			FOC	1812	all	4_4		311	staal
-staal.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	514	lex	5_5	1	weight			5000	5000	nav	4_4		308	staal
-staal.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	514	lex	5_5	1	weight			5000	5000	all	4_4		308	staal
-staal.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	514	lex	5_5	1	weight			FOC	392	nav	4_4		308	staal
-staal.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	514	lex	5_5	1	weight			FOC	514	all	4_4		308	staal
-staal.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	514	lex	5_5	1	selection			5000	5000	nav	4_4		308	staal
-staal.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	514	lex	5_5	1	selection			5000	5000	all	4_4		308	staal
-staal.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	514	lex	5_5	1	selection			FOC	392	nav	4_4		308	staal
-staal.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	514	lex	5_5	1	selection			FOC	514	all	4_4		308	staal
-staal.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	732	lex	5_5	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	732	lex	5_5	1	no			5000	5000	all	4_4		311	staal
-staal.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	732	lex	5_5	1	no			FOC	562	nav	4_4		311	staal
-staal.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	732	lex	5_5	1	no			FOC	732	all	4_4		311	staal
-staal.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	658	all	5_5	1	weight			5000	5000	nav	4_4		311	staal
-staal.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	658	all	5_5	1	weight			5000	5000	all	4_4		311	staal
-staal.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	658	all	5_5	1	weight			FOC	392	nav	4_4		311	staal
-staal.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	658	all	5_5	1	weight			FOC	658	all	4_4		311	staal
-staal.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	658	all	5_5	1	selection			5000	5000	nav	4_4		311	staal
-staal.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	658	all	5_5	1	selection			5000	5000	all	4_4		311	staal
-staal.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	658	all	5_5	1	selection			FOC	392	nav	4_4		311	staal
-staal.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	658	all	5_5	1	selection			FOC	658	all	4_4		311	staal
-staal.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	968	all	5_5	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	968	all	5_5	1	no			5000	5000	all	4_4		311	staal
-staal.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	968	all	5_5	1	no			FOC	562	nav	4_4		311	staal
-staal.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	968	all	5_5	1	no			FOC	968	all	4_4		311	staal
-staal.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	337	lex	3_3	1	weight			5000	5000	nav	4_4		296	staal
-staal.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	337	lex	3_3	1	weight			5000	5000	all	4_4		296	staal
-staal.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	337	lex	3_3	1	weight			FOC	263	nav	4_4		296	staal
-staal.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	337	lex	3_3	1	weight			FOC	337	all	4_4		296	staal
-staal.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	337	lex	3_3	1	selection			5000	5000	nav	4_4		296	staal
-staal.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	337	lex	3_3	1	selection			5000	5000	all	4_4		296	staal
-staal.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	337	lex	3_3	1	selection			FOC	263	nav	4_4		296	staal
-staal.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	337	lex	3_3	1	selection			FOC	337	all	4_4		296	staal
-staal.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	438	lex	3_3	1	no			5000	5000	nav	4_4		304	staal
-staal.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	438	lex	3_3	1	no			5000	5000	all	4_4		304	staal
-staal.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	438	lex	3_3	1	no			FOC	340	nav	4_4		304	staal
-staal.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	438	lex	3_3	1	no			FOC	438	all	4_4		304	staal
-staal.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	439	all	3_3	1	weight			5000	5000	nav	4_4		309	staal
-staal.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	439	all	3_3	1	weight			5000	5000	all	4_4		309	staal
-staal.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	439	all	3_3	1	weight			FOC	263	nav	4_4		309	staal
-staal.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	439	all	3_3	1	weight			FOC	439	all	4_4		309	staal
-staal.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	439	all	3_3	1	selection			5000	5000	nav	4_4		309	staal
-staal.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	439	all	3_3	1	selection			5000	5000	all	4_4		309	staal
-staal.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	439	all	3_3	1	selection			FOC	263	nav	4_4		309	staal
-staal.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	439	all	3_3	1	selection			FOC	439	all	4_4		309	staal
-staal.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	579	all	3_3	1	no			5000	5000	nav	4_4		311	staal
-staal.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	579	all	3_3	1	no			5000	5000	all	4_4		311	staal
-staal.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	579	all	3_3	1	no			FOC	340	nav	4_4		311	staal
-staal.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	579	all	3_3	1	no			FOC	579	all	4_4		311	staal
-staal.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	selection2		dependency		bound	310			1	weight			5000	5000	nav	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	selection2		dependency		bound	310			1	weight			5000	5000	all	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	selection2		dependency		bound	310			1	weight			FOC	206	nav	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	selection2		dependency		bound	310			1	weight			FOC	310	all	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	selection2		dependency		bound	310			1	selection			5000	5000	nav	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	selection2		dependency		bound	310			1	selection			5000	5000	all	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	selection2		dependency		bound	310			1	selection			FOC	206	nav	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	selection2		dependency		bound	310			1	selection			FOC	310	all	4_4		309	staal
-staal.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	selection2		dependency		bound	438			1	no			5000	5000	nav	4_4		311	staal
-staal.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	selection2		dependency		bound	438			1	no			5000	5000	all	4_4		311	staal
-staal.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	selection2		dependency		bound	438			1	no			FOC	277	nav	4_4		311	staal
-staal.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	selection2		dependency		bound	438			1	no			FOC	438	all	4_4		311	staal
-staal.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	selection3		dependency		bound	476			1	weight			5000	5000	nav	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	selection3		dependency		bound	476			1	weight			5000	5000	all	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	selection3		dependency		bound	476			1	weight			FOC	301	nav	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	selection3		dependency		bound	476			1	weight			FOC	476	all	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	selection3		dependency		bound	476			1	selection			5000	5000	nav	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	selection3		dependency		bound	476			1	selection			5000	5000	all	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	selection3		dependency		bound	476			1	selection			FOC	301	nav	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	selection3		dependency		bound	476			1	selection			FOC	476	all	4_4		310	staal
-staal.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	selection3		dependency		bound	709			1	no			5000	5000	nav	4_4		311	staal
-staal.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	selection3		dependency		bound	709			1	no			5000	5000	all	4_4		311	staal
-staal.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	selection3		dependency		bound	709			1	no			FOC	431	nav	4_4		311	staal
-staal.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	selection3		dependency		bound	709			1	no			FOC	709	all	4_4		311	staal
-staal.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	weight		dependency		bound	476			1	selection			5000	5000	nav	4_4		310	staal
-staal.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	weight		dependency		bound	476			1	selection			5000	5000	all	4_4		310	staal
-staal.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	weight		dependency		bound	476			1	selection			FOC	301	nav	4_4		310	staal
-staal.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	weight		dependency		bound	476			1	selection			FOC	476	all	4_4		310	staal
-staal.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	weight		dependency		bound	709			1	no			5000	5000	nav	4_4		311	staal
-staal.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	weight		dependency		bound	709			1	no			5000	5000	all	4_4		311	staal
-staal.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	weight		dependency		bound	709			1	no			FOC	431	nav	4_4		311	staal
-staal.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	weight		dependency		bound	709			1	no			FOC	709	all	4_4		311	staal
-staal.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav		group1	dependency		bound	96			1	weight			5000	5000	nav	4_4		226	staal
-staal.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall		group1	dependency		bound	96			1	weight			5000	5000	all	4_4		226	staal
-staal.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav		group1	dependency		bound	96			1	weight			FOC	54	nav	4_4		226	staal
-staal.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall		group1	dependency		bound	96			1	weight			FOC	96	all	4_4		226	staal
-staal.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav		group1	dependency		bound	96			1	selection			5000	5000	nav	4_4		226	staal
-staal.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall		group1	dependency		bound	96			1	selection			5000	5000	all	4_4		226	staal
-staal.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav		group1	dependency		bound	96			1	selection			FOC	54	nav	4_4		226	staal
-staal.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall		group1	dependency		bound	96			1	selection			FOC	96	all	4_4		226	staal
-staal.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav		group1	dependency		bound	128			1	no			5000	5000	nav	4_4		236	staal
-staal.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall		group1	dependency		bound	128			1	no			5000	5000	all	4_4		236	staal
-staal.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav		group1	dependency		bound	128			1	no			FOC	69	nav	4_4		236	staal
-staal.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall		group1	dependency		bound	128			1	no			FOC	128	all	4_4		236	staal
-staal.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav		group2	dependency		bound	247			1	weight			5000	5000	nav	4_4		296	staal
-staal.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall		group2	dependency		bound	247			1	weight			5000	5000	all	4_4		296	staal
-staal.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav		group2	dependency		bound	247			1	weight			FOC	174	nav	4_4		296	staal
-staal.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall		group2	dependency		bound	247			1	weight			FOC	247	all	4_4		296	staal
-staal.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav		group2	dependency		bound	247			1	selection			5000	5000	nav	4_4		296	staal
-staal.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall		group2	dependency		bound	247			1	selection			5000	5000	all	4_4		296	staal
-staal.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav		group2	dependency		bound	247			1	selection			FOC	174	nav	4_4		296	staal
-staal.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall		group2	dependency		bound	247			1	selection			FOC	247	all	4_4		296	staal
-staal.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav		group2	dependency		bound	321			1	no			5000	5000	nav	4_4		303	staal
-staal.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall		group2	dependency		bound	321			1	no			5000	5000	all	4_4		303	staal
-staal.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav		group2	dependency		bound	321			1	no			FOC	221	nav	4_4		303	staal
-staal.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall		group2	dependency		bound	321			1	no			FOC	321	all	4_4		303	staal
-staal.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav		group3	dependency		bound	264			1	weight			5000	5000	nav	4_4		297	staal
-staal.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall		group3	dependency		bound	264			1	weight			5000	5000	all	4_4		297	staal
-staal.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav		group3	dependency		bound	264			1	weight			FOC	183	nav	4_4		297	staal
-staal.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall		group3	dependency		bound	264			1	weight			FOC	264	all	4_4		297	staal
-staal.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav		group3	dependency		bound	264			1	selection			5000	5000	nav	4_4		297	staal
-staal.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall		group3	dependency		bound	264			1	selection			5000	5000	all	4_4		297	staal
-staal.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav		group3	dependency		bound	264			1	selection			FOC	183	nav	4_4		297	staal
-staal.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall		group3	dependency		bound	264			1	selection			FOC	264	all	4_4		297	staal
-staal.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav		group3	dependency		bound	359			1	no			5000	5000	nav	4_4		303	staal
-staal.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall		group3	dependency		bound	359			1	no			5000	5000	all	4_4		303	staal
-staal.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav		group3	dependency		bound	359			1	no			FOC	235	nav	4_4		303	staal
-staal.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall		group3	dependency		bound	359			1	no			FOC	359	all	4_4		303	staal
+_model	LEMMAPATH	LEMMAREL	base	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	model.x	model.y	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
+staal.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	603	lex	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	603	lex	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	603	lex	10_10	1	weight	NA	NA	FOC	459	nav	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	603	lex	10_10	1	weight	NA	NA	FOC	603	all	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	603	lex	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	603	lex	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	603	lex	10_10	1	selection	NA	NA	FOC	459	nav	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	603	lex	10_10	1	selection	NA	NA	FOC	603	all	4_4	NA	308	staal
+staal.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	1033	lex	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	1033	lex	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	1033	lex	10_10	1	no	NA	NA	FOC	776	nav	4_4	NA	310	staal
+staal.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	1033	lex	10_10	1	no	NA	NA	FOC	1033	all	4_4	NA	310	staal
+staal.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	775	all	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	775	all	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	775	all	10_10	1	weight	NA	NA	FOC	459	nav	4_4	NA	310	staal
+staal.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	775	all	10_10	1	weight	NA	NA	FOC	775	all	4_4	NA	310	staal
+staal.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	775	all	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	775	all	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	775	all	10_10	1	selection	NA	NA	FOC	459	nav	4_4	NA	310	staal
+staal.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	775	all	10_10	1	selection	NA	NA	FOC	775	all	4_4	NA	310	staal
+staal.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	1375	all	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	1375	all	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	1375	all	10_10	1	no	NA	NA	FOC	776	nav	4_4	NA	311	staal
+staal.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	1375	all	10_10	1	no	NA	NA	FOC	1375	all	4_4	NA	311	staal
+staal.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	465	lex	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	465	lex	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	465	lex	5_5	1	weight	NA	NA	FOC	354	nav	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	465	lex	5_5	1	weight	NA	NA	FOC	465	all	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	465	lex	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	465	lex	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	465	lex	5_5	1	selection	NA	NA	FOC	354	nav	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	465	lex	5_5	1	selection	NA	NA	FOC	465	all	4_4	NA	305	staal
+staal.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	655	lex	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	655	lex	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	655	lex	5_5	1	no	NA	NA	FOC	501	nav	4_4	NA	309	staal
+staal.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	655	lex	5_5	1	no	NA	NA	FOC	655	all	4_4	NA	309	staal
+staal.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	596	all	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	596	all	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	596	all	5_5	1	weight	NA	NA	FOC	354	nav	4_4	NA	310	staal
+staal.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	596	all	5_5	1	weight	NA	NA	FOC	596	all	4_4	NA	310	staal
+staal.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	596	all	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	596	all	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	596	all	5_5	1	selection	NA	NA	FOC	354	nav	4_4	NA	310	staal
+staal.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	596	all	5_5	1	selection	NA	NA	FOC	596	all	4_4	NA	310	staal
+staal.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	865	all	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	865	all	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	865	all	5_5	1	no	NA	NA	FOC	501	nav	4_4	NA	311	staal
+staal.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	865	all	5_5	1	no	NA	NA	FOC	865	all	4_4	NA	311	staal
+staal.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	319	lex	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	319	lex	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	319	lex	3_3	1	weight	NA	NA	FOC	247	nav	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	319	lex	3_3	1	weight	NA	NA	FOC	319	all	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	319	lex	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	319	lex	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	319	lex	3_3	1	selection	NA	NA	FOC	247	nav	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	319	lex	3_3	1	selection	NA	NA	FOC	319	all	4_4	NA	292	staal
+staal.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	411	lex	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	301	staal
+staal.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	411	lex	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	301	staal
+staal.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	411	lex	3_3	1	no	NA	NA	FOC	318	nav	4_4	NA	301	staal
+staal.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	411	lex	3_3	1	no	NA	NA	FOC	411	all	4_4	NA	301	staal
+staal.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	415	all	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	415	all	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	415	all	3_3	1	weight	NA	NA	FOC	247	nav	4_4	NA	309	staal
+staal.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	415	all	3_3	1	weight	NA	NA	FOC	415	all	4_4	NA	309	staal
+staal.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	415	all	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	415	all	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	415	all	3_3	1	selection	NA	NA	FOC	247	nav	4_4	NA	309	staal
+staal.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	415	all	3_3	1	selection	NA	NA	FOC	415	all	4_4	NA	309	staal
+staal.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	542	all	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	542	all	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	542	all	3_3	1	no	NA	NA	FOC	318	nav	4_4	NA	310	staal
+staal.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	542	all	3_3	1	no	NA	NA	FOC	542	all	4_4	NA	310	staal
+staal.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	715	lex	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	715	lex	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	715	lex	10_10	1	weight	NA	NA	FOC	553	nav	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	715	lex	10_10	1	weight	NA	NA	FOC	715	all	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	715	lex	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	715	lex	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	715	lex	10_10	1	selection	NA	NA	FOC	553	nav	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	715	lex	10_10	1	selection	NA	NA	FOC	715	all	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	1376	lex	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	1376	lex	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	1376	lex	10_10	1	no	NA	NA	FOC	1041	nav	4_4	NA	311	staal
+staal.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	1376	lex	10_10	1	no	NA	NA	FOC	1376	all	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	915	all	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	915	all	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	915	all	10_10	1	weight	NA	NA	FOC	553	nav	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	915	all	10_10	1	weight	NA	NA	FOC	915	all	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	915	all	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	915	all	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	915	all	10_10	1	selection	NA	NA	FOC	553	nav	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	915	all	10_10	1	selection	NA	NA	FOC	915	all	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	1812	all	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	1812	all	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	1812	all	10_10	1	no	NA	NA	FOC	1041	nav	4_4	NA	311	staal
+staal.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	1812	all	10_10	1	no	NA	NA	FOC	1812	all	4_4	NA	311	staal
+staal.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	514	lex	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	514	lex	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	514	lex	5_5	1	weight	NA	NA	FOC	392	nav	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	514	lex	5_5	1	weight	NA	NA	FOC	514	all	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	514	lex	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	514	lex	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	514	lex	5_5	1	selection	NA	NA	FOC	392	nav	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	514	lex	5_5	1	selection	NA	NA	FOC	514	all	4_4	NA	308	staal
+staal.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	732	lex	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	732	lex	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	732	lex	5_5	1	no	NA	NA	FOC	562	nav	4_4	NA	311	staal
+staal.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	732	lex	5_5	1	no	NA	NA	FOC	732	all	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	658	all	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	658	all	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	658	all	5_5	1	weight	NA	NA	FOC	392	nav	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	658	all	5_5	1	weight	NA	NA	FOC	658	all	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	658	all	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	658	all	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	658	all	5_5	1	selection	NA	NA	FOC	392	nav	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	658	all	5_5	1	selection	NA	NA	FOC	658	all	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	968	all	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	968	all	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	968	all	5_5	1	no	NA	NA	FOC	562	nav	4_4	NA	311	staal
+staal.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	968	all	5_5	1	no	NA	NA	FOC	968	all	4_4	NA	311	staal
+staal.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	337	lex	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	337	lex	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	337	lex	3_3	1	weight	NA	NA	FOC	263	nav	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	337	lex	3_3	1	weight	NA	NA	FOC	337	all	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	337	lex	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	337	lex	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	337	lex	3_3	1	selection	NA	NA	FOC	263	nav	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	337	lex	3_3	1	selection	NA	NA	FOC	337	all	4_4	NA	296	staal
+staal.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	438	lex	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	304	staal
+staal.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	438	lex	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	304	staal
+staal.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	438	lex	3_3	1	no	NA	NA	FOC	340	nav	4_4	NA	304	staal
+staal.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	438	lex	3_3	1	no	NA	NA	FOC	438	all	4_4	NA	304	staal
+staal.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	439	all	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	439	all	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	439	all	3_3	1	weight	NA	NA	FOC	263	nav	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	439	all	3_3	1	weight	NA	NA	FOC	439	all	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	439	all	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	439	all	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	439	all	3_3	1	selection	NA	NA	FOC	263	nav	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	439	all	3_3	1	selection	NA	NA	FOC	439	all	4_4	NA	309	staal
+staal.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	579	all	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	579	all	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	579	all	3_3	1	no	NA	NA	FOC	340	nav	4_4	NA	311	staal
+staal.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	579	all	3_3	1	no	NA	NA	FOC	579	all	4_4	NA	311	staal
+staal.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	310	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	310	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	310	NA	NA	1	weight	NA	NA	FOC	206	nav	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	310	NA	NA	1	weight	NA	NA	FOC	310	all	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	310	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	310	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	310	NA	NA	1	selection	NA	NA	FOC	206	nav	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	310	NA	NA	1	selection	NA	NA	FOC	310	all	4_4	NA	309	staal
+staal.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	438	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	438	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	438	NA	NA	1	no	NA	NA	FOC	277	nav	4_4	NA	311	staal
+staal.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	438	NA	NA	1	no	NA	NA	FOC	438	all	4_4	NA	311	staal
+staal.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	476	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	476	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	476	NA	NA	1	weight	NA	NA	FOC	301	nav	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	476	NA	NA	1	weight	NA	NA	FOC	476	all	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	FOC	301	nav	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	FOC	476	all	4_4	NA	310	staal
+staal.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	FOC	431	nav	4_4	NA	311	staal
+staal.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	FOC	709	all	4_4	NA	311	staal
+staal.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	weight	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	310	staal
+staal.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	weight	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	310	staal
+staal.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	weight	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	FOC	301	nav	4_4	NA	310	staal
+staal.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	weight	NA	dependency	NA	bound	476	NA	NA	1	selection	NA	NA	FOC	476	all	4_4	NA	310	staal
+staal.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	weight	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	311	staal
+staal.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	weight	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	311	staal
+staal.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	weight	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	FOC	431	nav	4_4	NA	311	staal
+staal.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	weight	NA	dependency	NA	bound	709	NA	NA	1	no	NA	NA	FOC	709	all	4_4	NA	311	staal
+staal.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	NA	group1	dependency	NA	bound	96	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	NA	group1	dependency	NA	bound	96	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group1	dependency	NA	bound	96	NA	NA	1	weight	NA	NA	FOC	54	nav	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	NA	group1	dependency	NA	bound	96	NA	NA	1	weight	NA	NA	FOC	96	all	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	NA	group1	dependency	NA	bound	96	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	NA	group1	dependency	NA	bound	96	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group1	dependency	NA	bound	96	NA	NA	1	selection	NA	NA	FOC	54	nav	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	NA	group1	dependency	NA	bound	96	NA	NA	1	selection	NA	NA	FOC	96	all	4_4	NA	226	staal
+staal.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	NA	group1	dependency	NA	bound	128	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	236	staal
+staal.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	NA	group1	dependency	NA	bound	128	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	236	staal
+staal.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	NA	group1	dependency	NA	bound	128	NA	NA	1	no	NA	NA	FOC	69	nav	4_4	NA	236	staal
+staal.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	NA	group1	dependency	NA	bound	128	NA	NA	1	no	NA	NA	FOC	128	all	4_4	NA	236	staal
+staal.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	NA	group2	dependency	NA	bound	247	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	NA	group2	dependency	NA	bound	247	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group2	dependency	NA	bound	247	NA	NA	1	weight	NA	NA	FOC	174	nav	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	NA	group2	dependency	NA	bound	247	NA	NA	1	weight	NA	NA	FOC	247	all	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	NA	group2	dependency	NA	bound	247	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	NA	group2	dependency	NA	bound	247	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group2	dependency	NA	bound	247	NA	NA	1	selection	NA	NA	FOC	174	nav	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	NA	group2	dependency	NA	bound	247	NA	NA	1	selection	NA	NA	FOC	247	all	4_4	NA	296	staal
+staal.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	NA	group2	dependency	NA	bound	321	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	303	staal
+staal.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	NA	group2	dependency	NA	bound	321	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	303	staal
+staal.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	NA	group2	dependency	NA	bound	321	NA	NA	1	no	NA	NA	FOC	221	nav	4_4	NA	303	staal
+staal.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	NA	group2	dependency	NA	bound	321	NA	NA	1	no	NA	NA	FOC	321	all	4_4	NA	303	staal
+staal.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav	NA	group3	dependency	NA	bound	264	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall	NA	group3	dependency	NA	bound	264	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group3	dependency	NA	bound	264	NA	NA	1	weight	NA	NA	FOC	183	nav	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall	NA	group3	dependency	NA	bound	264	NA	NA	1	weight	NA	NA	FOC	264	all	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav	NA	group3	dependency	NA	bound	264	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall	NA	group3	dependency	NA	bound	264	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group3	dependency	NA	bound	264	NA	NA	1	selection	NA	NA	FOC	183	nav	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall	NA	group3	dependency	NA	bound	264	NA	NA	1	selection	NA	NA	FOC	264	all	4_4	NA	297	staal
+staal.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav	NA	group3	dependency	NA	bound	359	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	303	staal
+staal.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall	NA	group3	dependency	NA	bound	359	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	303	staal
+staal.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav	NA	group3	dependency	NA	bound	359	NA	NA	1	no	NA	NA	FOC	235	nav	4_4	NA	303	staal
+staal.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall	NA	group3	dependency	NA	bound	359	NA	NA	1	no	NA	NA	FOC	359	all	4_4	NA	303	staal

@@ -1,201 +1,201 @@
 _model	model.x	model.y	LEMMAPATH	LEMMAREL	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
-gekleurd.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	701	lex	10_10	1	weight	5000	5000	nav	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	701	lex	10_10	1	weight	5000	5000	all	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	701	lex	10_10	1	weight	FOC	536	nav	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	701	lex	10_10	1	weight	FOC	701	all	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	701	lex	10_10	1	selection	5000	5000	nav	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	701	lex	10_10	1	selection	5000	5000	all	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	701	lex	10_10	1	selection	FOC	536	nav	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	701	lex	10_10	1	selection	FOC	701	all	4_4	271	gekleurd
-gekleurd.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	1142	lex	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	1142	lex	10_10	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	1142	lex	10_10	1	no	FOC	857	nav	4_4	275	gekleurd
-gekleurd.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	1142	lex	10_10	1	no	FOC	1142	all	4_4	275	gekleurd
-gekleurd.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	807	all	10_10	1	weight	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	807	all	10_10	1	weight	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	807	all	10_10	1	weight	FOC	536	nav	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	807	all	10_10	1	weight	FOC	807	all	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	807	all	10_10	1	selection	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	807	all	10_10	1	selection	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	807	all	10_10	1	selection	FOC	536	nav	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	807	all	10_10	1	selection	FOC	807	all	4_4	274	gekleurd
-gekleurd.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	1419	all	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	1419	all	10_10	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	1419	all	10_10	1	no	FOC	857	nav	4_4	275	gekleurd
-gekleurd.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	1419	all	10_10	1	no	FOC	1419	all	4_4	275	gekleurd
-gekleurd.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	551	lex	5_5	1	weight	5000	5000	nav	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	551	lex	5_5	1	weight	5000	5000	all	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	551	lex	5_5	1	weight	FOC	405	nav	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	551	lex	5_5	1	weight	FOC	551	all	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	551	lex	5_5	1	selection	5000	5000	nav	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	551	lex	5_5	1	selection	5000	5000	all	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	551	lex	5_5	1	selection	FOC	405	nav	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	551	lex	5_5	1	selection	FOC	551	all	4_4	267	gekleurd
-gekleurd.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	753	lex	5_5	1	no	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	753	lex	5_5	1	no	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	753	lex	5_5	1	no	FOC	553	nav	4_4	274	gekleurd
-gekleurd.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	753	lex	5_5	1	no	FOC	753	all	4_4	274	gekleurd
-gekleurd.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	634	all	5_5	1	weight	5000	5000	nav	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	634	all	5_5	1	weight	5000	5000	all	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	634	all	5_5	1	weight	FOC	405	nav	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	634	all	5_5	1	weight	FOC	634	all	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	634	all	5_5	1	selection	5000	5000	nav	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	634	all	5_5	1	selection	5000	5000	all	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	634	all	5_5	1	selection	FOC	405	nav	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	634	all	5_5	1	selection	FOC	634	all	4_4	272	gekleurd
-gekleurd.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	927	all	5_5	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	927	all	5_5	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	927	all	5_5	1	no	FOC	553	nav	4_4	275	gekleurd
-gekleurd.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	927	all	5_5	1	no	FOC	927	all	4_4	275	gekleurd
-gekleurd.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	401	lex	3_3	1	weight	5000	5000	nav	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	401	lex	3_3	1	weight	5000	5000	all	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	401	lex	3_3	1	weight	FOC	293	nav	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	401	lex	3_3	1	weight	FOC	401	all	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	401	lex	3_3	1	selection	5000	5000	nav	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	401	lex	3_3	1	selection	5000	5000	all	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	401	lex	3_3	1	selection	FOC	293	nav	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	401	lex	3_3	1	selection	FOC	401	all	4_4	257	gekleurd
-gekleurd.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	498	lex	3_3	1	no	5000	5000	nav	4_4	267	gekleurd
-gekleurd.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	498	lex	3_3	1	no	5000	5000	all	4_4	267	gekleurd
-gekleurd.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	498	lex	3_3	1	no	FOC	366	nav	4_4	267	gekleurd
-gekleurd.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	498	lex	3_3	1	no	FOC	498	all	4_4	267	gekleurd
-gekleurd.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	bound	464	all	3_3	1	weight	5000	5000	nav	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall					BOW	bound	464	all	3_3	1	weight	5000	5000	all	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	bound	464	all	3_3	1	weight	FOC	293	nav	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	bound	464	all	3_3	1	weight	FOC	464	all	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	bound	464	all	3_3	1	selection	5000	5000	nav	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall					BOW	bound	464	all	3_3	1	selection	5000	5000	all	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	bound	464	all	3_3	1	selection	FOC	293	nav	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	bound	464	all	3_3	1	selection	FOC	464	all	4_4	269	gekleurd
-gekleurd.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav					BOW	bound	612	all	3_3	1	no	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall					BOW	bound	612	all	3_3	1	no	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	bound	612	all	3_3	1	no	FOC	366	nav	4_4	274	gekleurd
-gekleurd.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall					BOW	bound	612	all	3_3	1	no	FOC	612	all	4_4	274	gekleurd
-gekleurd.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	801	lex	10_10	1	weight	5000	5000	nav	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	801	lex	10_10	1	weight	5000	5000	all	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	801	lex	10_10	1	weight	FOC	616	nav	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	801	lex	10_10	1	weight	FOC	801	all	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	801	lex	10_10	1	selection	5000	5000	nav	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	801	lex	10_10	1	selection	5000	5000	all	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	801	lex	10_10	1	selection	FOC	616	nav	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	801	lex	10_10	1	selection	FOC	801	all	4_4	271	gekleurd
-gekleurd.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	1418	lex	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	1418	lex	10_10	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	1418	lex	10_10	1	no	FOC	1062	nav	4_4	275	gekleurd
-gekleurd.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	1418	lex	10_10	1	no	FOC	1418	all	4_4	275	gekleurd
-gekleurd.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	925	all	10_10	1	weight	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	925	all	10_10	1	weight	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	925	all	10_10	1	weight	FOC	616	nav	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	925	all	10_10	1	weight	FOC	925	all	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	925	all	10_10	1	selection	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	925	all	10_10	1	selection	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	925	all	10_10	1	selection	FOC	616	nav	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	925	all	10_10	1	selection	FOC	925	all	4_4	274	gekleurd
-gekleurd.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	1782	all	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	1782	all	10_10	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	1782	all	10_10	1	no	FOC	1062	nav	4_4	275	gekleurd
-gekleurd.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	1782	all	10_10	1	no	FOC	1782	all	4_4	275	gekleurd
-gekleurd.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	593	lex	5_5	1	weight	5000	5000	nav	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	593	lex	5_5	1	weight	5000	5000	all	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	593	lex	5_5	1	weight	FOC	442	nav	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	593	lex	5_5	1	weight	FOC	593	all	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	593	lex	5_5	1	selection	5000	5000	nav	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	593	lex	5_5	1	selection	5000	5000	all	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	593	lex	5_5	1	selection	FOC	442	nav	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	593	lex	5_5	1	selection	FOC	593	all	4_4	269	gekleurd
-gekleurd.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	829	lex	5_5	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	829	lex	5_5	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	829	lex	5_5	1	no	FOC	616	nav	4_4	275	gekleurd
-gekleurd.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	829	lex	5_5	1	no	FOC	829	all	4_4	275	gekleurd
-gekleurd.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	687	all	5_5	1	weight	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	687	all	5_5	1	weight	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	687	all	5_5	1	weight	FOC	442	nav	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	687	all	5_5	1	weight	FOC	687	all	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	687	all	5_5	1	selection	5000	5000	nav	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	687	all	5_5	1	selection	5000	5000	all	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	687	all	5_5	1	selection	FOC	442	nav	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	687	all	5_5	1	selection	FOC	687	all	4_4	274	gekleurd
-gekleurd.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	1035	all	5_5	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	1035	all	5_5	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	1035	all	5_5	1	no	FOC	616	nav	4_4	275	gekleurd
-gekleurd.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	1035	all	5_5	1	no	FOC	1035	all	4_4	275	gekleurd
-gekleurd.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	414	lex	3_3	1	weight	5000	5000	nav	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	414	lex	3_3	1	weight	5000	5000	all	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	414	lex	3_3	1	weight	FOC	305	nav	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	414	lex	3_3	1	weight	FOC	414	all	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	414	lex	3_3	1	selection	5000	5000	nav	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	414	lex	3_3	1	selection	5000	5000	all	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	414	lex	3_3	1	selection	FOC	305	nav	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	414	lex	3_3	1	selection	FOC	414	all	4_4	259	gekleurd
-gekleurd.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	518	lex	3_3	1	no	5000	5000	nav	4_4	269	gekleurd
-gekleurd.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	518	lex	3_3	1	no	5000	5000	all	4_4	269	gekleurd
-gekleurd.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	518	lex	3_3	1	no	FOC	383	nav	4_4	269	gekleurd
-gekleurd.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	518	lex	3_3	1	no	FOC	518	all	4_4	269	gekleurd
-gekleurd.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav					BOW	nobound	484	all	3_3	1	weight	5000	5000	nav	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall					BOW	nobound	484	all	3_3	1	weight	5000	5000	all	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav					BOW	nobound	484	all	3_3	1	weight	FOC	305	nav	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall					BOW	nobound	484	all	3_3	1	weight	FOC	484	all	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav					BOW	nobound	484	all	3_3	1	selection	5000	5000	nav	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall					BOW	nobound	484	all	3_3	1	selection	5000	5000	all	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav					BOW	nobound	484	all	3_3	1	selection	FOC	305	nav	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall					BOW	nobound	484	all	3_3	1	selection	FOC	484	all	4_4	270	gekleurd
-gekleurd.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav					BOW	nobound	645	all	3_3	1	no	5000	5000	nav	4_4	275	gekleurd
-gekleurd.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall					BOW	nobound	645	all	3_3	1	no	5000	5000	all	4_4	275	gekleurd
-gekleurd.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav					BOW	nobound	645	all	3_3	1	no	FOC	383	nav	4_4	275	gekleurd
-gekleurd.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall					BOW	nobound	645	all	3_3	1	no	FOC	645	all	4_4	275	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav			selection2		LEMMAPATH	bound	331			1	weight	5000	5000	nav	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall			selection2		LEMMAPATH	bound	331			1	weight	5000	5000	all	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav			selection2		LEMMAPATH	bound	331			1	weight	FOC	227	nav	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall			selection2		LEMMAPATH	bound	331			1	weight	FOC	331	all	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav			selection2		LEMMAPATH	bound	331			1	selection	5000	5000	nav	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall			selection2		LEMMAPATH	bound	331			1	selection	5000	5000	all	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav			selection2		LEMMAPATH	bound	331			1	selection	FOC	227	nav	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall			selection2		LEMMAPATH	bound	331			1	selection	FOC	331	all	4_4	266	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav			selection2		LEMMAPATH	bound	448			1	no	5000	5000	nav	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall			selection2		LEMMAPATH	bound	448			1	no	5000	5000	all	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav			selection2		LEMMAPATH	bound	448			1	no	FOC	286	nav	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall			selection2		LEMMAPATH	bound	448			1	no	FOC	448	all	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav			selection3		LEMMAPATH	bound	521			1	weight	5000	5000	nav	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall			selection3		LEMMAPATH	bound	521			1	weight	5000	5000	all	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav			selection3		LEMMAPATH	bound	521			1	weight	FOC	345	nav	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall			selection3		LEMMAPATH	bound	521			1	weight	FOC	521	all	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav			selection3		LEMMAPATH	bound	521			1	selection	5000	5000	nav	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall			selection3		LEMMAPATH	bound	521			1	selection	5000	5000	all	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav			selection3		LEMMAPATH	bound	521			1	selection	FOC	345	nav	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall			selection3		LEMMAPATH	bound	521			1	selection	FOC	521	all	4_4	269	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav			selection3		LEMMAPATH	bound	766			1	no	5000	5000	nav	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall			selection3		LEMMAPATH	bound	766			1	no	5000	5000	all	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav			selection3		LEMMAPATH	bound	766			1	no	FOC	477	nav	4_4	276	gekleurd
-gekleurd.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall			selection3		LEMMAPATH	bound	766			1	no	FOC	766	all	4_4	276	gekleurd
-gekleurd.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav			weight		LEMMAPATH	bound	521			1	selection	5000	5000	nav	4_4	269	gekleurd
-gekleurd.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall			weight		LEMMAPATH	bound	521			1	selection	5000	5000	all	4_4	269	gekleurd
-gekleurd.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav			weight		LEMMAPATH	bound	521			1	selection	FOC	345	nav	4_4	269	gekleurd
-gekleurd.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall			weight		LEMMAPATH	bound	521			1	selection	FOC	521	all	4_4	269	gekleurd
-gekleurd.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav			weight		LEMMAPATH	bound	766			1	no	5000	5000	nav	4_4	276	gekleurd
-gekleurd.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall			weight		LEMMAPATH	bound	766			1	no	5000	5000	all	4_4	276	gekleurd
-gekleurd.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav			weight		LEMMAPATH	bound	766			1	no	FOC	477	nav	4_4	276	gekleurd
-gekleurd.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall			weight		LEMMAPATH	bound	766			1	no	FOC	766	all	4_4	276	gekleurd
-gekleurd.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav				group1	LEMMAREL	bound	180			1	weight	5000	5000	nav	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall				group1	LEMMAREL	bound	180			1	weight	5000	5000	all	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav				group1	LEMMAREL	bound	180			1	weight	FOC	142	nav	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall				group1	LEMMAREL	bound	180			1	weight	FOC	180	all	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav				group1	LEMMAREL	bound	180			1	selection	5000	5000	nav	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall				group1	LEMMAREL	bound	180			1	selection	5000	5000	all	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav				group1	LEMMAREL	bound	180			1	selection	FOC	142	nav	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall				group1	LEMMAREL	bound	180			1	selection	FOC	180	all	4_4	206	gekleurd
-gekleurd.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav				group1	LEMMAREL	bound	204			1	no	5000	5000	nav	4_4	216	gekleurd
-gekleurd.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall				group1	LEMMAREL	bound	204			1	no	5000	5000	all	4_4	216	gekleurd
-gekleurd.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav				group1	LEMMAREL	bound	204			1	no	FOC	158	nav	4_4	216	gekleurd
-gekleurd.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall				group1	LEMMAREL	bound	204			1	no	FOC	204	all	4_4	216	gekleurd
-gekleurd.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav				group2	LEMMAREL	bound	225			1	weight	5000	5000	nav	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall				group2	LEMMAREL	bound	225			1	weight	5000	5000	all	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav				group2	LEMMAREL	bound	225			1	weight	FOC	172	nav	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall				group2	LEMMAREL	bound	225			1	weight	FOC	225	all	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav				group2	LEMMAREL	bound	225			1	selection	5000	5000	nav	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall				group2	LEMMAREL	bound	225			1	selection	5000	5000	all	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav				group2	LEMMAREL	bound	225			1	selection	FOC	172	nav	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall				group2	LEMMAREL	bound	225			1	selection	FOC	225	all	4_4	227	gekleurd
-gekleurd.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav				group2	LEMMAREL	bound	261			1	no	5000	5000	nav	4_4	239	gekleurd
-gekleurd.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall				group2	LEMMAREL	bound	261			1	no	5000	5000	all	4_4	239	gekleurd
-gekleurd.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav				group2	LEMMAREL	bound	261			1	no	FOC	197	nav	4_4	239	gekleurd
-gekleurd.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall				group2	LEMMAREL	bound	261			1	no	FOC	261	all	4_4	239	gekleurd
+gekleurd.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6796359066259138	-0.3835397288230018	NA	NA	BOW	bound	701	lex	10_10	1	weight	5000	5000	nav	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	0.1923036776527893	-1.2955956748447301	NA	NA	BOW	bound	701	lex	10_10	1	weight	5000	5000	all	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.8681456143400461	-0.10132873744266149	NA	NA	BOW	bound	701	lex	10_10	1	weight	FOC	536	nav	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.8418599797586682	-0.10796846371981222	NA	NA	BOW	bound	701	lex	10_10	1	weight	FOC	701	all	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.7834778844324771	-0.4637882204558618	NA	NA	BOW	bound	701	lex	10_10	1	selection	5000	5000	nav	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	0.21423780748781202	-1.5242244619914391	NA	NA	BOW	bound	701	lex	10_10	1	selection	5000	5000	all	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9617217632626213	-0.0515173941132427	NA	NA	BOW	bound	701	lex	10_10	1	selection	FOC	536	nav	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.9162001191719485	-0.058389106462294484	NA	NA	BOW	bound	701	lex	10_10	1	selection	FOC	701	all	4_4	271	gekleurd
+gekleurd.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.1096960892882115	-0.6320538110724169	NA	NA	BOW	bound	1142	lex	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	0.6541212027245858	-2.0941740254047496	NA	NA	BOW	bound	1142	lex	10_10	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.2189134857387975	0.025723391273040627	NA	NA	BOW	bound	1142	lex	10_10	1	no	FOC	857	nav	4_4	275	gekleurd
+gekleurd.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.1843936991411779	-0.0029058911049339394	NA	NA	BOW	bound	1142	lex	10_10	1	no	FOC	1142	all	4_4	275	gekleurd
+gekleurd.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.5526852138461752	0.23319801458537856	NA	NA	BOW	bound	807	all	10_10	1	weight	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	0.9564048791373233	-0.46549763246668663	NA	NA	BOW	bound	807	all	10_10	1	weight	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.7278982067401469	0.14379157751487098	NA	NA	BOW	bound	807	all	10_10	1	weight	FOC	536	nav	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.6924823895248263	0.15200115262399977	NA	NA	BOW	bound	807	all	10_10	1	weight	FOC	807	all	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.3449044883071086	1.0453447988608342	NA	NA	BOW	bound	807	all	10_10	1	selection	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	1.2288233595447984	1.0144575716872208	NA	NA	BOW	bound	807	all	10_10	1	selection	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7009355669812982	0.5868087507585348	NA	NA	BOW	bound	807	all	10_10	1	selection	FOC	536	nav	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.6462905035041742	0.5933858849945893	NA	NA	BOW	bound	807	all	10_10	1	selection	FOC	807	all	4_4	274	gekleurd
+gekleurd.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	-0.32920092819824565	1.5744708518089956	NA	NA	BOW	bound	1419	all	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	1.7274326640996673	1.6868772694100944	NA	NA	BOW	bound	1419	all	10_10	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.8416482456303809	1.067630743236942	NA	NA	BOW	bound	1419	all	10_10	1	no	FOC	857	nav	4_4	275	gekleurd
+gekleurd.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.7910409735252633	1.1156937149371393	NA	NA	BOW	bound	1419	all	10_10	1	no	FOC	1419	all	4_4	275	gekleurd
+gekleurd.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.4733306305289696	-0.3626444115432099	NA	NA	BOW	bound	551	lex	5_5	1	weight	5000	5000	nav	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	0.4148457556448941	-1.162494999077973	NA	NA	BOW	bound	551	lex	5_5	1	weight	5000	5000	all	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6817785507311311	-0.17114876713757757	NA	NA	BOW	bound	551	lex	5_5	1	weight	FOC	405	nav	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.647483536653418	-0.1843561259217729	NA	NA	BOW	bound	551	lex	5_5	1	weight	FOC	551	all	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.49984832528357825	-0.4313347189752734	NA	NA	BOW	bound	551	lex	5_5	1	selection	5000	5000	nav	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	0.4544423086881967	-1.2898062306463653	NA	NA	BOW	bound	551	lex	5_5	1	selection	5000	5000	all	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7136678684457949	-0.1496447370163887	NA	NA	BOW	bound	551	lex	5_5	1	selection	FOC	405	nav	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.6684072576552902	-0.15640142952495345	NA	NA	BOW	bound	551	lex	5_5	1	selection	FOC	551	all	4_4	267	gekleurd
+gekleurd.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	-0.6250530647448609	-0.6234991287476981	NA	NA	BOW	bound	753	lex	5_5	1	no	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	0.6670908490248298	-1.701280576577519	NA	NA	BOW	bound	753	lex	5_5	1	no	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.8272798943288993	-0.1812891339726909	NA	NA	BOW	bound	753	lex	5_5	1	no	FOC	553	nav	4_4	274	gekleurd
+gekleurd.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	-0.7627891521391538	-0.21369372238105402	NA	NA	BOW	bound	753	lex	5_5	1	no	FOC	753	all	4_4	274	gekleurd
+gekleurd.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.20312044373622126	0.10810636124246246	NA	NA	BOW	bound	634	all	5_5	1	weight	5000	5000	nav	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	1.0226212550941887	-0.37139526391970945	NA	NA	BOW	bound	634	all	5_5	1	weight	5000	5000	all	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.5057811103184963	0.08049265647440755	NA	NA	BOW	bound	634	all	5_5	1	weight	FOC	405	nav	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.4651815601775653	0.07765779318597621	NA	NA	BOW	bound	634	all	5_5	1	weight	FOC	634	all	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.04590419519004362	0.8699073150084893	NA	NA	BOW	bound	634	all	5_5	1	selection	5000	5000	nav	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	1.2831708124682901	0.46095591071610487	NA	NA	BOW	bound	634	all	5_5	1	selection	5000	5000	all	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.4097504594926503	0.4831669604810828	NA	NA	BOW	bound	634	all	5_5	1	selection	FOC	405	nav	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.34609345607889613	0.4875261364072569	NA	NA	BOW	bound	634	all	5_5	1	selection	FOC	634	all	4_4	272	gekleurd
+gekleurd.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	0.1448179208509759	1.2111818793302898	NA	NA	BOW	bound	927	all	5_5	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	1.9022878447517007	0.832873949641843	NA	NA	BOW	bound	927	all	5_5	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.41896108355073847	0.7521880667255126	NA	NA	BOW	bound	927	all	5_5	1	no	FOC	553	nav	4_4	275	gekleurd
+gekleurd.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.35383014270685775	0.7764575984227113	NA	NA	BOW	bound	927	all	5_5	1	no	FOC	927	all	4_4	275	gekleurd
+gekleurd.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.3014449804046136	-0.28944830517740316	NA	NA	BOW	bound	401	lex	3_3	1	weight	5000	5000	nav	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	0.5923227518563291	-1.0030233627975929	NA	NA	BOW	bound	401	lex	3_3	1	weight	5000	5000	all	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.48332726894610434	-0.1474850946829792	NA	NA	BOW	bound	401	lex	3_3	1	weight	FOC	293	nav	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.45121195627213784	-0.17395132495114152	NA	NA	BOW	bound	401	lex	3_3	1	weight	FOC	401	all	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.2974143516943218	-0.32994505763110665	NA	NA	BOW	bound	401	lex	3_3	1	selection	5000	5000	nav	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	0.6552387273746124	-1.0905822786786283	NA	NA	BOW	bound	401	lex	3_3	1	selection	5000	5000	all	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.48061821883893224	-0.13660164601297053	NA	NA	BOW	bound	401	lex	3_3	1	selection	FOC	293	nav	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.4424339298475291	-0.15426433245871754	NA	NA	BOW	bound	401	lex	3_3	1	selection	FOC	401	all	4_4	257	gekleurd
+gekleurd.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	-0.37994021494051217	-0.5543064823520164	NA	NA	BOW	bound	498	lex	3_3	1	no	5000	5000	nav	4_4	267	gekleurd
+gekleurd.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	0.8323154162115796	-1.4786104332619385	NA	NA	BOW	bound	498	lex	3_3	1	no	5000	5000	all	4_4	267	gekleurd
+gekleurd.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.5584578700486367	-0.2397141560054162	NA	NA	BOW	bound	498	lex	3_3	1	no	FOC	366	nav	4_4	267	gekleurd
+gekleurd.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.5213825402159873	-0.26500032428807124	NA	NA	BOW	bound	498	lex	3_3	1	no	FOC	498	all	4_4	267	gekleurd
+gekleurd.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.012129974179762547	0.09654130817904591	NA	NA	BOW	bound	464	all	3_3	1	weight	5000	5000	nav	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	1.0852761256940129	-0.3879258076294102	NA	NA	BOW	bound	464	all	3_3	1	weight	5000	5000	all	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.32332800281773766	0.07223401057035465	NA	NA	BOW	bound	464	all	3_3	1	weight	FOC	293	nav	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.27779902854141225	0.06708884061258616	NA	NA	BOW	bound	464	all	3_3	1	weight	FOC	464	all	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.28373444099127665	0.6369619067114192	NA	NA	BOW	bound	464	all	3_3	1	selection	5000	5000	nav	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	1.3535091718143992	0.14342501850048392	NA	NA	BOW	bound	464	all	3_3	1	selection	5000	5000	all	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.17460728202112216	0.4112727256148802	NA	NA	BOW	bound	464	all	3_3	1	selection	FOC	293	nav	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	-0.11424939005802089	0.4028801504002873	NA	NA	BOW	bound	464	all	3_3	1	selection	FOC	464	all	4_4	269	gekleurd
+gekleurd.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	0.4739164299126795	0.9665124867448524	NA	NA	BOW	bound	612	all	3_3	1	no	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	2.063923757447637	0.3914934180480813	NA	NA	BOW	bound	612	all	3_3	1	no	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	-0.12571823903799728	0.5800393181289505	NA	NA	BOW	bound	612	all	3_3	1	no	FOC	366	nav	4_4	274	gekleurd
+gekleurd.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	-0.051299976977291266	0.573467487552793	NA	NA	BOW	bound	612	all	3_3	1	no	FOC	612	all	4_4	274	gekleurd
+gekleurd.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.8361377910320557	-0.4476430670043842	NA	NA	BOW	nobound	801	lex	10_10	1	weight	5000	5000	nav	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	0.038342974828931224	-1.4223484723695679	NA	NA	BOW	nobound	801	lex	10_10	1	weight	5000	5000	all	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.0314566840527095	-0.19617615146639522	NA	NA	BOW	nobound	801	lex	10_10	1	weight	FOC	616	nav	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.0157035486568078	-0.20480448962789846	NA	NA	BOW	nobound	801	lex	10_10	1	weight	FOC	801	all	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.0106043950736137	-0.5015331742816358	NA	NA	BOW	nobound	801	lex	10_10	1	selection	5000	5000	nav	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	0.008288907518618775	-1.695563533190625	NA	NA	BOW	nobound	801	lex	10_10	1	selection	5000	5000	all	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.1742329918832846	-0.14433230551254417	NA	NA	BOW	nobound	801	lex	10_10	1	selection	FOC	616	nav	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.1441050116040015	-0.15120486269138853	NA	NA	BOW	nobound	801	lex	10_10	1	selection	FOC	801	all	4_4	271	gekleurd
+gekleurd.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.4344041745781448	-0.7224186559528093	NA	NA	BOW	nobound	1418	lex	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	0.6649681717247187	-2.535957362914396	NA	NA	BOW	nobound	1418	lex	10_10	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.5436417961976858	-0.10858514950516332	NA	NA	BOW	nobound	1418	lex	10_10	1	no	FOC	1062	nav	4_4	275	gekleurd
+gekleurd.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.5097868975523003	-0.16414859449079927	NA	NA	BOW	nobound	1418	lex	10_10	1	no	FOC	1418	all	4_4	275	gekleurd
+gekleurd.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.8310529489983082	0.2441000291967347	NA	NA	BOW	nobound	925	all	10_10	1	weight	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	0.9528300733722747	-0.868606329667309	NA	NA	BOW	nobound	925	all	10_10	1	weight	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9664276604997328	0.10684799711647729	NA	NA	BOW	nobound	925	all	10_10	1	weight	FOC	616	nav	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.9383786638091265	0.11308392133986091	NA	NA	BOW	nobound	925	all	10_10	1	weight	FOC	925	all	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.5942831388869582	1.129403608215241	NA	NA	BOW	nobound	925	all	10_10	1	selection	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	1.1732565541940363	1.29675805803756	NA	NA	BOW	nobound	925	all	10_10	1	selection	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9366566475086789	0.6165813420203735	NA	NA	BOW	nobound	925	all	10_10	1	selection	FOC	616	nav	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.8954633433359692	0.6188954647139823	NA	NA	BOW	nobound	925	all	10_10	1	selection	FOC	925	all	4_4	274	gekleurd
+gekleurd.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	-0.7136994800451768	1.6767631399323126	NA	NA	BOW	nobound	1782	all	10_10	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	1.875739716008388	1.887450284183078	NA	NA	BOW	nobound	1782	all	10_10	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	-1.2261626691949303	1.0983193290106488	NA	NA	BOW	nobound	1782	all	10_10	1	no	FOC	1062	nav	4_4	275	gekleurd
+gekleurd.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	-1.1887005716615895	1.184993521744293	NA	NA	BOW	nobound	1782	all	10_10	1	no	FOC	1782	all	4_4	275	gekleurd
+gekleurd.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.5416546987540924	-0.4062549503903123	NA	NA	BOW	nobound	593	lex	5_5	1	weight	5000	5000	nav	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	0.3670840349102225	-1.203620352454703	NA	NA	BOW	nobound	593	lex	5_5	1	weight	5000	5000	all	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.7768991971677035	-0.23751909862510848	NA	NA	BOW	nobound	593	lex	5_5	1	weight	FOC	442	nav	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.7515120843397154	-0.23980701298482185	NA	NA	BOW	nobound	593	lex	5_5	1	weight	FOC	593	all	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.5891403480394304	-0.4910099104973263	NA	NA	BOW	nobound	593	lex	5_5	1	selection	5000	5000	nav	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	0.38977777353124277	-1.412444882533741	NA	NA	BOW	nobound	593	lex	5_5	1	selection	5000	5000	all	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.828411196718757	-0.2094005287262586	NA	NA	BOW	nobound	593	lex	5_5	1	selection	FOC	442	nav	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.7944369935643139	-0.2159939468952677	NA	NA	BOW	nobound	593	lex	5_5	1	selection	FOC	593	all	4_4	269	gekleurd
+gekleurd.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	-0.7618960111174282	-0.6864644181319395	NA	NA	BOW	nobound	829	lex	5_5	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	0.6258345475410411	-1.9111889940913938	NA	NA	BOW	nobound	829	lex	5_5	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.9576941236636212	-0.27806513778126596	NA	NA	BOW	nobound	829	lex	5_5	1	no	FOC	616	nav	4_4	275	gekleurd
+gekleurd.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	-0.9188867826393585	-0.2979103311471074	NA	NA	BOW	nobound	829	lex	5_5	1	no	FOC	829	all	4_4	275	gekleurd
+gekleurd.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.29479152297469546	0.1560402100473589	NA	NA	BOW	nobound	687	all	5_5	1	weight	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	1.0484277220840075	-0.42641666186017874	NA	NA	BOW	nobound	687	all	5_5	1	weight	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6082071635189792	0.07446866636971801	NA	NA	BOW	nobound	687	all	5_5	1	weight	FOC	442	nav	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.573611326387127	0.07580825214992185	NA	NA	BOW	nobound	687	all	5_5	1	weight	FOC	687	all	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	-0.014368185257973074	0.9454473728307966	NA	NA	BOW	nobound	687	all	5_5	1	selection	5000	5000	nav	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	1.3299784135298176	0.5112069430924439	NA	NA	BOW	nobound	687	all	5_5	1	selection	5000	5000	all	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.499965172771245	0.5242742648465543	NA	NA	BOW	nobound	687	all	5_5	1	selection	FOC	442	nav	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.43854313017632546	0.5283113188377583	NA	NA	BOW	nobound	687	all	5_5	1	selection	FOC	687	all	4_4	274	gekleurd
+gekleurd.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	0.08555623147215519	1.2745578575705805	NA	NA	BOW	nobound	1035	all	5_5	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	2.040232442301326	0.8670716095785184	NA	NA	BOW	nobound	1035	all	5_5	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.5312656253236375	0.7983171994928268	NA	NA	BOW	nobound	1035	all	5_5	1	no	FOC	616	nav	4_4	275	gekleurd
+gekleurd.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.47154358817430836	0.8123367787385204	NA	NA	BOW	nobound	1035	all	5_5	1	no	FOC	1035	all	4_4	275	gekleurd
+gekleurd.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.31906645603529216	-0.3141650012061896	NA	NA	BOW	nobound	414	lex	3_3	1	weight	5000	5000	nav	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	0.5918336480080267	-1.0336857165552462	NA	NA	BOW	nobound	414	lex	3_3	1	weight	5000	5000	all	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.5087039372970549	-0.16842041222141402	NA	NA	BOW	nobound	414	lex	3_3	1	weight	FOC	305	nav	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.4769103384807097	-0.19011573123805336	NA	NA	BOW	nobound	414	lex	3_3	1	weight	FOC	414	all	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.31516470181938927	-0.3556795545837807	NA	NA	BOW	nobound	414	lex	3_3	1	selection	5000	5000	nav	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	0.6535247255365019	-1.1225969296513647	NA	NA	BOW	nobound	414	lex	3_3	1	selection	5000	5000	all	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.5022385797072451	-0.15395685980454443	NA	NA	BOW	nobound	414	lex	3_3	1	selection	FOC	305	nav	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.46911796778292564	-0.17238448768490036	NA	NA	BOW	nobound	414	lex	3_3	1	selection	FOC	414	all	4_4	259	gekleurd
+gekleurd.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	-0.41651245269522896	-0.5953762392396185	NA	NA	BOW	nobound	518	lex	3_3	1	no	5000	5000	nav	4_4	269	gekleurd
+gekleurd.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	0.8881115598451611	-1.5714617374481223	NA	NA	BOW	nobound	518	lex	3_3	1	no	5000	5000	all	4_4	269	gekleurd
+gekleurd.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.5946001666822772	-0.2673306228565482	NA	NA	BOW	nobound	518	lex	3_3	1	no	FOC	383	nav	4_4	269	gekleurd
+gekleurd.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.5554738441232031	-0.2877423985846558	NA	NA	BOW	nobound	518	lex	3_3	1	no	FOC	518	all	4_4	269	gekleurd
+gekleurd.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	-5.511402254525204e-4	0.10149305115888663	NA	NA	BOW	nobound	484	all	3_3	1	weight	5000	5000	nav	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	1.0997380650780628	-0.4003154426327611	NA	NA	BOW	nobound	484	all	3_3	1	weight	5000	5000	all	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.33537035781268765	0.06961434272333346	NA	NA	BOW	nobound	484	all	3_3	1	weight	FOC	305	nav	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.29166415447625793	0.06705042272399306	NA	NA	BOW	nobound	484	all	3_3	1	weight	FOC	484	all	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.27172347408997694	0.6703915307767531	NA	NA	BOW	nobound	484	all	3_3	1	selection	5000	5000	nav	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	1.360846523200977	0.1608143638831831	NA	NA	BOW	nobound	484	all	3_3	1	selection	5000	5000	all	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.19038218872421375	0.4275799554263222	NA	NA	BOW	nobound	484	all	3_3	1	selection	FOC	305	nav	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	-0.13597134277406886	0.4154074314246289	NA	NA	BOW	nobound	484	all	3_3	1	selection	FOC	484	all	4_4	270	gekleurd
+gekleurd.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	0.47357433285662437	0.9991144956988948	NA	NA	BOW	nobound	645	all	3_3	1	no	5000	5000	nav	4_4	275	gekleurd
+gekleurd.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	2.1328985314160245	0.3597966895823563	NA	NA	BOW	nobound	645	all	3_3	1	no	5000	5000	all	4_4	275	gekleurd
+gekleurd.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	-0.14504324318725023	0.5927900244660902	NA	NA	BOW	nobound	645	all	3_3	1	no	FOC	383	nav	4_4	275	gekleurd
+gekleurd.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	-0.07457450188065591	0.5793663402051752	NA	NA	BOW	nobound	645	all	3_3	1	no	FOC	645	all	4_4	275	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	0.4369251233190214	0.13281570017127675	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	weight	5000	5000	nav	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	1.4383225376627653	-0.3400958519308277	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	weight	5000	5000	all	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	0.14981386191441715	0.14992398324200548	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	weight	FOC	227	nav	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	0.18783165737079166	0.12757798001838652	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	weight	FOC	331	all	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	0.6719524020150814	0.47226166165543226	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	selection	5000	5000	nav	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	1.5793548646980995	0.06724843048753182	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	selection	5000	5000	all	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	0.30785695092869697	0.38353609254300425	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	selection	FOC	227	nav	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	0.3491130111234962	0.3572919512796846	selection2	NA	LEMMAPATH	bound	331	NA	NA	1	selection	FOC	331	all	4_4	266	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	0.9098495648725563	0.871596209320287	selection2	NA	LEMMAPATH	bound	448	NA	NA	1	no	5000	5000	nav	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	2.3052887527687553	0.1796934379054153	selection2	NA	LEMMAPATH	bound	448	NA	NA	1	no	5000	5000	all	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	0.3798644991831493	0.5664437983953288	selection2	NA	LEMMAPATH	bound	448	NA	NA	1	no	FOC	286	nav	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	0.42317880152588083	0.5286371181547789	selection2	NA	LEMMAPATH	bound	448	NA	NA	1	no	FOC	448	all	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	0.10492828339986944	0.15162557757783185	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	weight	5000	5000	nav	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	1.2388571746738672	-0.31841522319846727	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	weight	5000	5000	all	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	-0.27439066190700007	0.1157434824814596	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	weight	FOC	345	nav	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	-0.22111287977283525	0.11821715097591116	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	weight	FOC	521	all	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	0.42562692617816	0.6687131669165501	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	selection	5000	5000	nav	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	1.5117431313609522	0.3519778279312109	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	selection	5000	5000	all	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	-0.07270175165099207	0.4703634480709793	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	selection	FOC	345	nav	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	0.01151017096964054	0.45406052256115803	selection3	NA	LEMMAPATH	bound	521	NA	NA	1	selection	FOC	521	all	4_4	269	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	0.6111898772905853	1.0196990160741797	selection3	NA	LEMMAPATH	bound	766	NA	NA	1	no	5000	5000	nav	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	2.222631326978349	0.5295894022957047	selection3	NA	LEMMAPATH	bound	766	NA	NA	1	no	5000	5000	all	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	-0.06373098091995773	0.7341125338581345	selection3	NA	LEMMAPATH	bound	766	NA	NA	1	no	FOC	477	nav	4_4	276	gekleurd
+gekleurd.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	0.06064224749481119	0.6840876264947037	selection3	NA	LEMMAPATH	bound	766	NA	NA	1	no	FOC	766	all	4_4	276	gekleurd
+gekleurd.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	0.4256269261781607	0.6687131669165509	weight	NA	LEMMAPATH	bound	521	NA	NA	1	selection	5000	5000	nav	4_4	269	gekleurd
+gekleurd.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	1.5117431314387633	0.35197782794963484	weight	NA	LEMMAPATH	bound	521	NA	NA	1	selection	5000	5000	all	4_4	269	gekleurd
+gekleurd.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	-0.07270175165099207	0.4703634480709793	weight	NA	LEMMAPATH	bound	521	NA	NA	1	selection	FOC	345	nav	4_4	269	gekleurd
+gekleurd.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	0.01151017096964054	0.45406052256115803	weight	NA	LEMMAPATH	bound	521	NA	NA	1	selection	FOC	521	all	4_4	269	gekleurd
+gekleurd.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	0.6797264874279271	0.6462076876958898	weight	NA	LEMMAPATH	bound	766	NA	NA	1	no	5000	5000	nav	4_4	276	gekleurd
+gekleurd.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	2.0777622897766332	0.1582702911145221	weight	NA	LEMMAPATH	bound	766	NA	NA	1	no	5000	5000	all	4_4	276	gekleurd
+gekleurd.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	0.11830505815327853	0.40735358743501443	weight	NA	LEMMAPATH	bound	766	NA	NA	1	no	FOC	477	nav	4_4	276	gekleurd
+gekleurd.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	0.17509152253901689	0.4049567446964889	weight	NA	LEMMAPATH	bound	766	NA	NA	1	no	FOC	766	all	4_4	276	gekleurd
+gekleurd.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	0.07153109663393742	-0.23347124038330902	NA	group1	LEMMAREL	bound	180	NA	NA	1	weight	5000	5000	nav	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	0.7725445059233479	-0.6698320568989158	NA	group1	LEMMAREL	bound	180	NA	NA	1	weight	5000	5000	all	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	0.01284260416445929	-0.187797620306764	NA	group1	LEMMAREL	bound	180	NA	NA	1	weight	FOC	142	nav	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	0.018924780554455383	-0.19735373215193963	NA	group1	LEMMAREL	bound	180	NA	NA	1	weight	FOC	180	all	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	0.06725984130121444	-0.22978690668157797	NA	group1	LEMMAREL	bound	180	NA	NA	1	selection	5000	5000	nav	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	0.7616792119889159	-0.650503073350571	NA	group1	LEMMAREL	bound	180	NA	NA	1	selection	5000	5000	all	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	0.014225197288095456	-0.18314078056161615	NA	group1	LEMMAREL	bound	180	NA	NA	1	selection	FOC	142	nav	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	0.024633555130371736	-0.18835718917502367	NA	group1	LEMMAREL	bound	180	NA	NA	1	selection	FOC	180	all	4_4	206	gekleurd
+gekleurd.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	0.07003077185372719	-0.32294489113918384	NA	group1	LEMMAREL	bound	204	NA	NA	1	no	5000	5000	nav	4_4	216	gekleurd
+gekleurd.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	0.8591759151643535	-0.7591324028446421	NA	group1	LEMMAREL	bound	204	NA	NA	1	no	5000	5000	all	4_4	216	gekleurd
+gekleurd.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	-0.012943711064217019	-0.2864197428591856	NA	group1	LEMMAREL	bound	204	NA	NA	1	no	FOC	158	nav	4_4	216	gekleurd
+gekleurd.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	0.0025068427624278787	-0.27452041753708806	NA	group1	LEMMAREL	bound	204	NA	NA	1	no	FOC	204	all	4_4	216	gekleurd
+gekleurd.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	0.09726087661381491	-0.23542038892668596	NA	group2	LEMMAREL	bound	225	NA	NA	1	weight	5000	5000	nav	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	0.9946118610397607	-0.7508188626343663	NA	group2	LEMMAREL	bound	225	NA	NA	1	weight	5000	5000	all	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	-0.03307557520954916	-0.22225865867492098	NA	group2	LEMMAREL	bound	225	NA	NA	1	weight	FOC	172	nav	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	-0.01812793878064553	-0.21618745681776397	NA	group2	LEMMAREL	bound	225	NA	NA	1	weight	FOC	225	all	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	0.16525729788016263	-0.18359883048554146	NA	group2	LEMMAREL	bound	225	NA	NA	1	selection	5000	5000	nav	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	1.0638695813340757	-0.6871001944878677	NA	group2	LEMMAREL	bound	225	NA	NA	1	selection	5000	5000	all	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	0.017062008608448427	-0.15875709747066918	NA	group2	LEMMAREL	bound	225	NA	NA	1	selection	FOC	172	nav	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	0.04413693990308774	-0.1591731095208045	NA	group2	LEMMAREL	bound	225	NA	NA	1	selection	FOC	225	all	4_4	227	gekleurd
+gekleurd.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	0.20572814338421566	-0.2792930814212112	NA	group2	LEMMAREL	bound	261	NA	NA	1	no	5000	5000	nav	4_4	239	gekleurd
+gekleurd.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	1.3142321123968326	-0.8147214859860712	NA	group2	LEMMAREL	bound	261	NA	NA	1	no	5000	5000	all	4_4	239	gekleurd
+gekleurd.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	-0.02319031715383296	-0.30675404751685065	NA	group2	LEMMAREL	bound	261	NA	NA	1	no	FOC	197	nav	4_4	239	gekleurd
+gekleurd.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	0.006567705197489661	-0.3040553816430687	NA	group2	LEMMAREL	bound	261	NA	NA	1	no	FOC	261	all	4_4	239	gekleurd

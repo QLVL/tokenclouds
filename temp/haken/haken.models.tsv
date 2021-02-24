@@ -1,205 +1,205 @@
-	LEMMAPATH	LEMMAREL	base	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	model.x	model.y	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
-haken.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSnav	weight			LEMMAPATH	bound	442			1	weight	0.29838323156980096	-0.023874007047517645	5000	5000	nav	4_4	0.14854651328433705	247	haken
-haken.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall	weight			LEMMAPATH	bound	442			1	weight	0.6869106319904295	0.1957340397466832	5000	5000	all	4_4	0.17466989226182006	247	haken
-haken.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSnav	weight			LEMMAPATH	bound	442			1	weight	0.12440108064563173	-0.06317407249309992	FOC	199	nav	4_4	0.1443227807447593	247	haken
-haken.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSall	weight			LEMMAPATH	bound	442			1	weight	0.1583796310766967	-0.07819546149403127	FOC	442	all	4_4	0.13326564481107375	247	haken
-haken.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	375	lex	10_10	1	weight			5000	5000	nav	4_4		246	haken
-haken.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	375	lex	10_10	1	weight			5000	5000	all	4_4		246	haken
-haken.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	375	lex	10_10	1	weight			FOC	258	nav	4_4		246	haken
-haken.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	375	lex	10_10	1	weight			FOC	375	all	4_4		246	haken
-haken.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	375	lex	10_10	1	selection			5000	5000	nav	4_4		246	haken
-haken.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	375	lex	10_10	1	selection			5000	5000	all	4_4		246	haken
-haken.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	375	lex	10_10	1	selection			FOC	258	nav	4_4		246	haken
-haken.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	375	lex	10_10	1	selection			FOC	375	all	4_4		246	haken
-haken.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	722	lex	10_10	1	no			5000	5000	nav	4_4		249	haken
-haken.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	722	lex	10_10	1	no			5000	5000	all	4_4		249	haken
-haken.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	722	lex	10_10	1	no			FOC	521	nav	4_4		249	haken
-haken.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	722	lex	10_10	1	no			FOC	722	all	4_4		249	haken
-haken.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	556	all	10_10	1	weight			5000	5000	nav	4_4		251	haken
-haken.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	556	all	10_10	1	weight			5000	5000	all	4_4		251	haken
-haken.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	556	all	10_10	1	weight			FOC	258	nav	4_4		251	haken
-haken.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	556	all	10_10	1	weight			FOC	556	all	4_4		251	haken
-haken.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	556	all	10_10	1	selection			5000	5000	nav	4_4		251	haken
-haken.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	556	all	10_10	1	selection			5000	5000	all	4_4		251	haken
-haken.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	556	all	10_10	1	selection			FOC	258	nav	4_4		251	haken
-haken.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	556	all	10_10	1	selection			FOC	556	all	4_4		251	haken
-haken.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	1040	all	10_10	1	no			5000	5000	nav	4_4		251	haken
-haken.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	1040	all	10_10	1	no			5000	5000	all	4_4		251	haken
-haken.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	1040	all	10_10	1	no			FOC	521	nav	4_4		251	haken
-haken.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	1040	all	10_10	1	no			FOC	1040	all	4_4		251	haken
-haken.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	320	lex	5_5	1	weight			5000	5000	nav	4_4		244	haken
-haken.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	320	lex	5_5	1	weight			5000	5000	all	4_4		244	haken
-haken.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	320	lex	5_5	1	weight			FOC	218	nav	4_4		244	haken
-haken.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	320	lex	5_5	1	weight			FOC	320	all	4_4		244	haken
-haken.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	320	lex	5_5	1	selection			5000	5000	nav	4_4		244	haken
-haken.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	320	lex	5_5	1	selection			5000	5000	all	4_4		244	haken
-haken.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	320	lex	5_5	1	selection			FOC	218	nav	4_4		244	haken
-haken.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	320	lex	5_5	1	selection			FOC	320	all	4_4		244	haken
-haken.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	440	lex	5_5	1	no			5000	5000	nav	4_4		247	haken
-haken.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	440	lex	5_5	1	no			5000	5000	all	4_4		247	haken
-haken.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	440	lex	5_5	1	no			FOC	305	nav	4_4		247	haken
-haken.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	440	lex	5_5	1	no			FOC	440	all	4_4		247	haken
-haken.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	474	all	5_5	1	weight			5000	5000	nav	4_4		251	haken
-haken.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	474	all	5_5	1	weight			5000	5000	all	4_4		251	haken
-haken.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	474	all	5_5	1	weight			FOC	218	nav	4_4		251	haken
-haken.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	474	all	5_5	1	weight			FOC	474	all	4_4		251	haken
-haken.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	474	all	5_5	1	selection			5000	5000	nav	4_4		251	haken
-haken.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	474	all	5_5	1	selection			5000	5000	all	4_4		251	haken
-haken.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	474	all	5_5	1	selection			FOC	218	nav	4_4		251	haken
-haken.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	474	all	5_5	1	selection			FOC	474	all	4_4		251	haken
-haken.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	658	all	5_5	1	no			5000	5000	nav	4_4		251	haken
-haken.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	658	all	5_5	1	no			5000	5000	all	4_4		251	haken
-haken.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	658	all	5_5	1	no			FOC	305	nav	4_4		251	haken
-haken.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	658	all	5_5	1	no			FOC	658	all	4_4		251	haken
-haken.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	216	lex	3_3	1	weight			5000	5000	nav	4_4		225	haken
-haken.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	216	lex	3_3	1	weight			5000	5000	all	4_4		225	haken
-haken.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	216	lex	3_3	1	weight			FOC	145	nav	4_4		225	haken
-haken.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	216	lex	3_3	1	weight			FOC	216	all	4_4		225	haken
-haken.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	216	lex	3_3	1	selection			5000	5000	nav	4_4		225	haken
-haken.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	216	lex	3_3	1	selection			5000	5000	all	4_4		225	haken
-haken.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	216	lex	3_3	1	selection			FOC	145	nav	4_4		225	haken
-haken.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	216	lex	3_3	1	selection			FOC	216	all	4_4		225	haken
-haken.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	267	lex	3_3	1	no			5000	5000	nav	4_4		230	haken
-haken.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	267	lex	3_3	1	no			5000	5000	all	4_4		230	haken
-haken.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	267	lex	3_3	1	no			FOC	185	nav	4_4		230	haken
-haken.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	267	lex	3_3	1	no			FOC	267	all	4_4		230	haken
-haken.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		bound	342	all	3_3	1	weight			5000	5000	nav	4_4		251	haken
-haken.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall			BOW		bound	342	all	3_3	1	weight			5000	5000	all	4_4		251	haken
-haken.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		bound	342	all	3_3	1	weight			FOC	145	nav	4_4		251	haken
-haken.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		bound	342	all	3_3	1	weight			FOC	342	all	4_4		251	haken
-haken.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		bound	342	all	3_3	1	selection			5000	5000	nav	4_4		251	haken
-haken.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall			BOW		bound	342	all	3_3	1	selection			5000	5000	all	4_4		251	haken
-haken.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		bound	342	all	3_3	1	selection			FOC	145	nav	4_4		251	haken
-haken.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		bound	342	all	3_3	1	selection			FOC	342	all	4_4		251	haken
-haken.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav			BOW		bound	427	all	3_3	1	no			5000	5000	nav	4_4		251	haken
-haken.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall			BOW		bound	427	all	3_3	1	no			5000	5000	all	4_4		251	haken
-haken.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		bound	427	all	3_3	1	no			FOC	185	nav	4_4		251	haken
-haken.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall			BOW		bound	427	all	3_3	1	no			FOC	427	all	4_4		251	haken
-haken.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	463	lex	10_10	1	weight			5000	5000	nav	4_4		248	haken
-haken.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	463	lex	10_10	1	weight			5000	5000	all	4_4		248	haken
-haken.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	463	lex	10_10	1	weight			FOC	319	nav	4_4		248	haken
-haken.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	463	lex	10_10	1	weight			FOC	463	all	4_4		248	haken
-haken.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	463	lex	10_10	1	selection			5000	5000	nav	4_4		248	haken
-haken.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	463	lex	10_10	1	selection			5000	5000	all	4_4		248	haken
-haken.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	463	lex	10_10	1	selection			FOC	319	nav	4_4		248	haken
-haken.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	463	lex	10_10	1	selection			FOC	463	all	4_4		248	haken
-haken.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	1030	lex	10_10	1	no			5000	5000	nav	4_4		250	haken
-haken.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	1030	lex	10_10	1	no			5000	5000	all	4_4		250	haken
-haken.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	1030	lex	10_10	1	no			FOC	734	nav	4_4		250	haken
-haken.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	1030	lex	10_10	1	no			FOC	1030	all	4_4		250	haken
-haken.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	675	all	10_10	1	weight			5000	5000	nav	4_4		251	haken
-haken.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	675	all	10_10	1	weight			5000	5000	all	4_4		251	haken
-haken.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	675	all	10_10	1	weight			FOC	319	nav	4_4		251	haken
-haken.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	675	all	10_10	1	weight			FOC	675	all	4_4		251	haken
-haken.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	675	all	10_10	1	selection			5000	5000	nav	4_4		251	haken
-haken.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	675	all	10_10	1	selection			5000	5000	all	4_4		251	haken
-haken.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	675	all	10_10	1	selection			FOC	319	nav	4_4		251	haken
-haken.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	675	all	10_10	1	selection			FOC	675	all	4_4		251	haken
-haken.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	1473	all	10_10	1	no			5000	5000	nav	4_4		251	haken
-haken.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	1473	all	10_10	1	no			5000	5000	all	4_4		251	haken
-haken.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	1473	all	10_10	1	no			FOC	734	nav	4_4		251	haken
-haken.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	1473	all	10_10	1	no			FOC	1473	all	4_4		251	haken
-haken.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	367	lex	5_5	1	weight			5000	5000	nav	4_4		246	haken
-haken.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	367	lex	5_5	1	weight			5000	5000	all	4_4		246	haken
-haken.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	367	lex	5_5	1	weight			FOC	251	nav	4_4		246	haken
-haken.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	367	lex	5_5	1	weight			FOC	367	all	4_4		246	haken
-haken.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	367	lex	5_5	1	selection			5000	5000	nav	4_4		246	haken
-haken.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	367	lex	5_5	1	selection			5000	5000	all	4_4		246	haken
-haken.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	367	lex	5_5	1	selection			FOC	251	nav	4_4		246	haken
-haken.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	367	lex	5_5	1	selection			FOC	367	all	4_4		246	haken
-haken.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	534	lex	5_5	1	no			5000	5000	nav	4_4		249	haken
-haken.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	534	lex	5_5	1	no			5000	5000	all	4_4		249	haken
-haken.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	534	lex	5_5	1	no			FOC	371	nav	4_4		249	haken
-haken.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	534	lex	5_5	1	no			FOC	534	all	4_4		249	haken
-haken.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	552	all	5_5	1	weight			5000	5000	nav	4_4		251	haken
-haken.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	552	all	5_5	1	weight			5000	5000	all	4_4		251	haken
-haken.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	552	all	5_5	1	weight			FOC	251	nav	4_4		251	haken
-haken.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	552	all	5_5	1	weight			FOC	552	all	4_4		251	haken
-haken.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	552	all	5_5	1	selection			5000	5000	nav	4_4		251	haken
-haken.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	552	all	5_5	1	selection			5000	5000	all	4_4		251	haken
-haken.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	552	all	5_5	1	selection			FOC	251	nav	4_4		251	haken
-haken.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	552	all	5_5	1	selection			FOC	552	all	4_4		251	haken
-haken.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	803	all	5_5	1	no			5000	5000	nav	4_4		251	haken
-haken.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	803	all	5_5	1	no			5000	5000	all	4_4		251	haken
-haken.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	803	all	5_5	1	no			FOC	371	nav	4_4		251	haken
-haken.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	803	all	5_5	1	no			FOC	803	all	4_4		251	haken
-haken.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	240	lex	3_3	1	weight			5000	5000	nav	4_4		231	haken
-haken.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	240	lex	3_3	1	weight			5000	5000	all	4_4		231	haken
-haken.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	240	lex	3_3	1	weight			FOC	160	nav	4_4		231	haken
-haken.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	240	lex	3_3	1	weight			FOC	240	all	4_4		231	haken
-haken.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	240	lex	3_3	1	selection			5000	5000	nav	4_4		231	haken
-haken.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	240	lex	3_3	1	selection			5000	5000	all	4_4		231	haken
-haken.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	240	lex	3_3	1	selection			FOC	160	nav	4_4		231	haken
-haken.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	240	lex	3_3	1	selection			FOC	240	all	4_4		231	haken
-haken.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	302	lex	3_3	1	no			5000	5000	nav	4_4		238	haken
-haken.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	302	lex	3_3	1	no			5000	5000	all	4_4		238	haken
-haken.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	302	lex	3_3	1	no			FOC	211	nav	4_4		238	haken
-haken.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	302	lex	3_3	1	no			FOC	302	all	4_4		238	haken
-haken.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav			BOW		nobound	382	all	3_3	1	weight			5000	5000	nav	4_4		251	haken
-haken.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall			BOW		nobound	382	all	3_3	1	weight			5000	5000	all	4_4		251	haken
-haken.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav			BOW		nobound	382	all	3_3	1	weight			FOC	160	nav	4_4		251	haken
-haken.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall			BOW		nobound	382	all	3_3	1	weight			FOC	382	all	4_4		251	haken
-haken.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav			BOW		nobound	382	all	3_3	1	selection			5000	5000	nav	4_4		251	haken
-haken.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall			BOW		nobound	382	all	3_3	1	selection			5000	5000	all	4_4		251	haken
-haken.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav			BOW		nobound	382	all	3_3	1	selection			FOC	160	nav	4_4		251	haken
-haken.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall			BOW		nobound	382	all	3_3	1	selection			FOC	382	all	4_4		251	haken
-haken.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav			BOW		nobound	486	all	3_3	1	no			5000	5000	nav	4_4		251	haken
-haken.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall			BOW		nobound	486	all	3_3	1	no			5000	5000	all	4_4		251	haken
-haken.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav			BOW		nobound	486	all	3_3	1	no			FOC	211	nav	4_4		251	haken
-haken.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall			BOW		nobound	486	all	3_3	1	no			FOC	486	all	4_4		251	haken
-haken.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	selection2		dependency		bound	342			1	weight			5000	5000	nav	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	selection2		dependency		bound	342			1	weight			5000	5000	all	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	selection2		dependency		bound	342			1	weight			FOC	147	nav	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	selection2		dependency		bound	342			1	weight			FOC	342	all	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	selection2		dependency		bound	342			1	selection			5000	5000	nav	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	selection2		dependency		bound	342			1	selection			5000	5000	all	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	selection2		dependency		bound	342			1	selection			FOC	147	nav	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	selection2		dependency		bound	342			1	selection			FOC	342	all	4_4		245	haken
-haken.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	selection2		dependency		bound	545			1	no			5000	5000	nav	4_4		247	haken
-haken.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	selection2		dependency		bound	545			1	no			5000	5000	all	4_4		247	haken
-haken.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	selection2		dependency		bound	545			1	no			FOC	262	nav	4_4		247	haken
-haken.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	selection2		dependency		bound	545			1	no			FOC	545	all	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	selection3		dependency		bound	442			1	weight			5000	5000	nav	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	selection3		dependency		bound	442			1	weight			5000	5000	all	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	selection3		dependency		bound	442			1	weight			FOC	199	nav	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	selection3		dependency		bound	442			1	weight			FOC	442	all	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	selection3		dependency		bound	442			1	selection			5000	5000	nav	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	selection3		dependency		bound	442			1	selection			5000	5000	all	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	selection3		dependency		bound	442			1	selection			FOC	199	nav	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	selection3		dependency		bound	442			1	selection			FOC	442	all	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	selection3		dependency		bound	803			1	no			5000	5000	nav	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	selection3		dependency		bound	803			1	no			5000	5000	all	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	selection3		dependency		bound	803			1	no			FOC	411	nav	4_4		247	haken
-haken.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	selection3		dependency		bound	803			1	no			FOC	803	all	4_4		247	haken
-haken.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	weight		dependency		bound	442			1	selection			5000	5000	nav	4_4		247	haken
-haken.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	weight		dependency		bound	442			1	selection			5000	5000	all	4_4		247	haken
-haken.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	weight		dependency		bound	442			1	selection			FOC	199	nav	4_4		247	haken
-haken.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	weight		dependency		bound	442			1	selection			FOC	442	all	4_4		247	haken
-haken.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	weight		dependency		bound	803			1	no			5000	5000	nav	4_4		247	haken
-haken.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	weight		dependency		bound	803			1	no			5000	5000	all	4_4		247	haken
-haken.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	weight		dependency		bound	803			1	no			FOC	411	nav	4_4		247	haken
-haken.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	weight		dependency		bound	803			1	no			FOC	803	all	4_4		247	haken
-haken.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav		group1	dependency		bound	175			1	weight			5000	5000	nav	4_4		222	haken
-haken.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall		group1	dependency		bound	175			1	weight			5000	5000	all	4_4		222	haken
-haken.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav		group1	dependency		bound	175			1	weight			FOC	66	nav	4_4		222	haken
-haken.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall		group1	dependency		bound	175			1	weight			FOC	175	all	4_4		222	haken
-haken.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav		group1	dependency		bound	175			1	selection			5000	5000	nav	4_4		222	haken
-haken.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall		group1	dependency		bound	175			1	selection			5000	5000	all	4_4		222	haken
-haken.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav		group1	dependency		bound	175			1	selection			FOC	66	nav	4_4		222	haken
-haken.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall		group1	dependency		bound	175			1	selection			FOC	175	all	4_4		222	haken
-haken.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav		group1	dependency		bound	247			1	no			5000	5000	nav	4_4		230	haken
-haken.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall		group1	dependency		bound	247			1	no			5000	5000	all	4_4		230	haken
-haken.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav		group1	dependency		bound	247			1	no			FOC	92	nav	4_4		230	haken
-haken.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall		group1	dependency		bound	247			1	no			FOC	247	all	4_4		230	haken
-haken.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav		group2	dependency		bound	266			1	weight			5000	5000	nav	4_4		243	haken
-haken.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall		group2	dependency		bound	266			1	weight			5000	5000	all	4_4		243	haken
-haken.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav		group2	dependency		bound	266			1	weight			FOC	124	nav	4_4		243	haken
-haken.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall		group2	dependency		bound	266			1	weight			FOC	266	all	4_4		243	haken
-haken.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav		group2	dependency		bound	266			1	selection			5000	5000	nav	4_4		243	haken
-haken.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall		group2	dependency		bound	266			1	selection			5000	5000	all	4_4		243	haken
-haken.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav		group2	dependency		bound	266			1	selection			FOC	124	nav	4_4		243	haken
-haken.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall		group2	dependency		bound	266			1	selection			FOC	266	all	4_4		243	haken
-haken.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav		group2	dependency		bound	394			1	no			5000	5000	nav	4_4		246	haken
-haken.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall		group2	dependency		bound	394			1	no			5000	5000	all	4_4		246	haken
-haken.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav		group2	dependency		bound	394			1	no			FOC	190	nav	4_4		246	haken
-haken.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall		group2	dependency		bound	394			1	no			FOC	394	all	4_4		246	haken
+_model	LEMMAPATH	LEMMAREL	base	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	model.x	model.y	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
+haken.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSnav	weight	NA	NA	LEMMAPATH	bound	442	NA	NA	1	weight	0.29838323156980096	-0.023874007047517645	5000	5000	nav	4_4	0.14854651328433705	247	haken
+haken.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall	weight	NA	NA	LEMMAPATH	bound	442	NA	NA	1	weight	0.6869106319904295	0.19573403974668321	5000	5000	all	4_4	0.17466989226182006	247	haken
+haken.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSnav	weight	NA	NA	LEMMAPATH	bound	442	NA	NA	1	weight	0.12440108064563173	-0.06317407249309992	FOC	199	nav	4_4	0.1443227807447593	247	haken
+haken.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSall	weight	NA	NA	LEMMAPATH	bound	442	NA	NA	1	weight	0.1583796310766967	-0.07819546149403127	FOC	442	all	4_4	0.13326564481107375	247	haken
+haken.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	375	lex	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	375	lex	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	375	lex	10_10	1	weight	NA	NA	FOC	258	nav	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	375	lex	10_10	1	weight	NA	NA	FOC	375	all	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	375	lex	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	375	lex	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	375	lex	10_10	1	selection	NA	NA	FOC	258	nav	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	375	lex	10_10	1	selection	NA	NA	FOC	375	all	4_4	NA	246	haken
+haken.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	722	lex	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	249	haken
+haken.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	722	lex	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	249	haken
+haken.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	722	lex	10_10	1	no	NA	NA	FOC	521	nav	4_4	NA	249	haken
+haken.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	722	lex	10_10	1	no	NA	NA	FOC	722	all	4_4	NA	249	haken
+haken.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	556	all	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	556	all	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	556	all	10_10	1	weight	NA	NA	FOC	258	nav	4_4	NA	251	haken
+haken.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	556	all	10_10	1	weight	NA	NA	FOC	556	all	4_4	NA	251	haken
+haken.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	556	all	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	556	all	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	556	all	10_10	1	selection	NA	NA	FOC	258	nav	4_4	NA	251	haken
+haken.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	556	all	10_10	1	selection	NA	NA	FOC	556	all	4_4	NA	251	haken
+haken.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	1040	all	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	1040	all	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	1040	all	10_10	1	no	NA	NA	FOC	521	nav	4_4	NA	251	haken
+haken.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	1040	all	10_10	1	no	NA	NA	FOC	1040	all	4_4	NA	251	haken
+haken.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	320	lex	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	320	lex	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	320	lex	5_5	1	weight	NA	NA	FOC	218	nav	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	320	lex	5_5	1	weight	NA	NA	FOC	320	all	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	320	lex	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	320	lex	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	320	lex	5_5	1	selection	NA	NA	FOC	218	nav	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	320	lex	5_5	1	selection	NA	NA	FOC	320	all	4_4	NA	244	haken
+haken.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	440	lex	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	440	lex	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	440	lex	5_5	1	no	NA	NA	FOC	305	nav	4_4	NA	247	haken
+haken.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	440	lex	5_5	1	no	NA	NA	FOC	440	all	4_4	NA	247	haken
+haken.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	474	all	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	474	all	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	474	all	5_5	1	weight	NA	NA	FOC	218	nav	4_4	NA	251	haken
+haken.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	474	all	5_5	1	weight	NA	NA	FOC	474	all	4_4	NA	251	haken
+haken.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	474	all	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	474	all	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	474	all	5_5	1	selection	NA	NA	FOC	218	nav	4_4	NA	251	haken
+haken.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	474	all	5_5	1	selection	NA	NA	FOC	474	all	4_4	NA	251	haken
+haken.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	658	all	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	658	all	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	658	all	5_5	1	no	NA	NA	FOC	305	nav	4_4	NA	251	haken
+haken.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	658	all	5_5	1	no	NA	NA	FOC	658	all	4_4	NA	251	haken
+haken.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	216	lex	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	216	lex	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	216	lex	3_3	1	weight	NA	NA	FOC	145	nav	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	216	lex	3_3	1	weight	NA	NA	FOC	216	all	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	216	lex	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	216	lex	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	216	lex	3_3	1	selection	NA	NA	FOC	145	nav	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	216	lex	3_3	1	selection	NA	NA	FOC	216	all	4_4	NA	225	haken
+haken.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	267	lex	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	230	haken
+haken.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	267	lex	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	230	haken
+haken.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	267	lex	3_3	1	no	NA	NA	FOC	185	nav	4_4	NA	230	haken
+haken.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	267	lex	3_3	1	no	NA	NA	FOC	267	all	4_4	NA	230	haken
+haken.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	342	all	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	342	all	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	342	all	3_3	1	weight	NA	NA	FOC	145	nav	4_4	NA	251	haken
+haken.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	342	all	3_3	1	weight	NA	NA	FOC	342	all	4_4	NA	251	haken
+haken.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	342	all	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	342	all	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	342	all	3_3	1	selection	NA	NA	FOC	145	nav	4_4	NA	251	haken
+haken.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	342	all	3_3	1	selection	NA	NA	FOC	342	all	4_4	NA	251	haken
+haken.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	427	all	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	427	all	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	427	all	3_3	1	no	NA	NA	FOC	185	nav	4_4	NA	251	haken
+haken.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	427	all	3_3	1	no	NA	NA	FOC	427	all	4_4	NA	251	haken
+haken.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	463	lex	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	463	lex	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	463	lex	10_10	1	weight	NA	NA	FOC	319	nav	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	463	lex	10_10	1	weight	NA	NA	FOC	463	all	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	463	lex	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	463	lex	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	463	lex	10_10	1	selection	NA	NA	FOC	319	nav	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	463	lex	10_10	1	selection	NA	NA	FOC	463	all	4_4	NA	248	haken
+haken.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	1030	lex	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	250	haken
+haken.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	1030	lex	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	250	haken
+haken.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	1030	lex	10_10	1	no	NA	NA	FOC	734	nav	4_4	NA	250	haken
+haken.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	1030	lex	10_10	1	no	NA	NA	FOC	1030	all	4_4	NA	250	haken
+haken.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	675	all	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	675	all	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	675	all	10_10	1	weight	NA	NA	FOC	319	nav	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	675	all	10_10	1	weight	NA	NA	FOC	675	all	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	675	all	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	675	all	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	675	all	10_10	1	selection	NA	NA	FOC	319	nav	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	675	all	10_10	1	selection	NA	NA	FOC	675	all	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	1473	all	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	1473	all	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	1473	all	10_10	1	no	NA	NA	FOC	734	nav	4_4	NA	251	haken
+haken.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	1473	all	10_10	1	no	NA	NA	FOC	1473	all	4_4	NA	251	haken
+haken.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	367	lex	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	367	lex	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	367	lex	5_5	1	weight	NA	NA	FOC	251	nav	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	367	lex	5_5	1	weight	NA	NA	FOC	367	all	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	367	lex	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	367	lex	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	367	lex	5_5	1	selection	NA	NA	FOC	251	nav	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	367	lex	5_5	1	selection	NA	NA	FOC	367	all	4_4	NA	246	haken
+haken.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	534	lex	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	249	haken
+haken.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	534	lex	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	249	haken
+haken.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	534	lex	5_5	1	no	NA	NA	FOC	371	nav	4_4	NA	249	haken
+haken.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	534	lex	5_5	1	no	NA	NA	FOC	534	all	4_4	NA	249	haken
+haken.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	552	all	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	552	all	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	552	all	5_5	1	weight	NA	NA	FOC	251	nav	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	552	all	5_5	1	weight	NA	NA	FOC	552	all	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	552	all	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	552	all	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	552	all	5_5	1	selection	NA	NA	FOC	251	nav	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	552	all	5_5	1	selection	NA	NA	FOC	552	all	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	803	all	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	803	all	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	803	all	5_5	1	no	NA	NA	FOC	371	nav	4_4	NA	251	haken
+haken.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	803	all	5_5	1	no	NA	NA	FOC	803	all	4_4	NA	251	haken
+haken.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	240	lex	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	240	lex	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	240	lex	3_3	1	weight	NA	NA	FOC	160	nav	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	240	lex	3_3	1	weight	NA	NA	FOC	240	all	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	240	lex	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	240	lex	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	240	lex	3_3	1	selection	NA	NA	FOC	160	nav	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	240	lex	3_3	1	selection	NA	NA	FOC	240	all	4_4	NA	231	haken
+haken.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	302	lex	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	238	haken
+haken.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	302	lex	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	238	haken
+haken.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	302	lex	3_3	1	no	NA	NA	FOC	211	nav	4_4	NA	238	haken
+haken.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	302	lex	3_3	1	no	NA	NA	FOC	302	all	4_4	NA	238	haken
+haken.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	382	all	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	382	all	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	382	all	3_3	1	weight	NA	NA	FOC	160	nav	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	382	all	3_3	1	weight	NA	NA	FOC	382	all	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	382	all	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	382	all	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	382	all	3_3	1	selection	NA	NA	FOC	160	nav	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	382	all	3_3	1	selection	NA	NA	FOC	382	all	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	486	all	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	486	all	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	486	all	3_3	1	no	NA	NA	FOC	211	nav	4_4	NA	251	haken
+haken.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	486	all	3_3	1	no	NA	NA	FOC	486	all	4_4	NA	251	haken
+haken.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	342	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	342	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	342	NA	NA	1	weight	NA	NA	FOC	147	nav	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	342	NA	NA	1	weight	NA	NA	FOC	342	all	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	342	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	342	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	342	NA	NA	1	selection	NA	NA	FOC	147	nav	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	342	NA	NA	1	selection	NA	NA	FOC	342	all	4_4	NA	245	haken
+haken.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	545	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	545	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	545	NA	NA	1	no	NA	NA	FOC	262	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	545	NA	NA	1	no	NA	NA	FOC	545	all	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	442	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	442	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	442	NA	NA	1	weight	NA	NA	FOC	199	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	442	NA	NA	1	weight	NA	NA	FOC	442	all	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	FOC	199	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	FOC	442	all	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	FOC	411	nav	4_4	NA	247	haken
+haken.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	FOC	803	all	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	weight	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	weight	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	weight	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	FOC	199	nav	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	weight	NA	dependency	NA	bound	442	NA	NA	1	selection	NA	NA	FOC	442	all	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	weight	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	weight	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	weight	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	FOC	411	nav	4_4	NA	247	haken
+haken.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	weight	NA	dependency	NA	bound	803	NA	NA	1	no	NA	NA	FOC	803	all	4_4	NA	247	haken
+haken.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	NA	group1	dependency	NA	bound	175	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	NA	group1	dependency	NA	bound	175	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group1	dependency	NA	bound	175	NA	NA	1	weight	NA	NA	FOC	66	nav	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	NA	group1	dependency	NA	bound	175	NA	NA	1	weight	NA	NA	FOC	175	all	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	NA	group1	dependency	NA	bound	175	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	NA	group1	dependency	NA	bound	175	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group1	dependency	NA	bound	175	NA	NA	1	selection	NA	NA	FOC	66	nav	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	NA	group1	dependency	NA	bound	175	NA	NA	1	selection	NA	NA	FOC	175	all	4_4	NA	222	haken
+haken.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	NA	group1	dependency	NA	bound	247	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	230	haken
+haken.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	NA	group1	dependency	NA	bound	247	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	230	haken
+haken.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	NA	group1	dependency	NA	bound	247	NA	NA	1	no	NA	NA	FOC	92	nav	4_4	NA	230	haken
+haken.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	NA	group1	dependency	NA	bound	247	NA	NA	1	no	NA	NA	FOC	247	all	4_4	NA	230	haken
+haken.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	NA	group2	dependency	NA	bound	266	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	NA	group2	dependency	NA	bound	266	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group2	dependency	NA	bound	266	NA	NA	1	weight	NA	NA	FOC	124	nav	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	NA	group2	dependency	NA	bound	266	NA	NA	1	weight	NA	NA	FOC	266	all	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	NA	group2	dependency	NA	bound	266	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	NA	group2	dependency	NA	bound	266	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group2	dependency	NA	bound	266	NA	NA	1	selection	NA	NA	FOC	124	nav	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	NA	group2	dependency	NA	bound	266	NA	NA	1	selection	NA	NA	FOC	266	all	4_4	NA	243	haken
+haken.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	NA	group2	dependency	NA	bound	394	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	246	haken
+haken.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	NA	group2	dependency	NA	bound	394	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	246	haken
+haken.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	NA	group2	dependency	NA	bound	394	NA	NA	1	no	NA	NA	FOC	190	nav	4_4	NA	246	haken
+haken.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	NA	group2	dependency	NA	bound	394	NA	NA	1	no	NA	NA	FOC	394	all	4_4	NA	246	haken
