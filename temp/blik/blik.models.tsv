@@ -1,729 +1,213 @@
-_model	LEMMAPATH	LEMMAREL	base	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	model.x	model.y	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
-blik.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	NA	NA	FOC	368	nav	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	NA	NA	FOC	528	all	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	NA	NA	FOC	368	nav	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	NA	NA	FOC	528	all	4_4	NA	265	blik
-blik.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	275	blik
-blik.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	275	blik
-blik.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	NA	NA	FOC	706	nav	4_4	NA	275	blik
-blik.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	NA	NA	FOC	977	all	4_4	NA	275	blik
-blik.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	NA	NA	FOC	368	nav	4_4	NA	276	blik
-blik.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	NA	NA	FOC	643	all	4_4	NA	276	blik
-blik.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	NA	NA	FOC	368	nav	4_4	NA	276	blik
-blik.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	NA	NA	FOC	643	all	4_4	NA	276	blik
-blik.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	NA	NA	FOC	706	nav	4_4	NA	276	blik
-blik.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	NA	NA	FOC	1276	all	4_4	NA	276	blik
-blik.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	NA	NA	FOC	267	nav	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	NA	NA	FOC	384	all	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	NA	NA	FOC	267	nav	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	NA	NA	FOC	384	all	4_4	NA	257	blik
-blik.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	273	blik
-blik.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	273	blik
-blik.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	NA	NA	FOC	430	nav	4_4	NA	273	blik
-blik.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	NA	NA	FOC	595	all	4_4	NA	273	blik
-blik.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	NA	NA	FOC	267	nav	4_4	NA	276	blik
-blik.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	NA	NA	FOC	483	all	4_4	NA	276	blik
-blik.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	NA	NA	FOC	267	nav	4_4	NA	276	blik
-blik.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	NA	NA	FOC	483	all	4_4	NA	276	blik
-blik.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	787	all	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	787	all	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	787	all	5_5	1	no	NA	NA	FOC	430	nav	4_4	NA	276	blik
-blik.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	787	all	5_5	1	no	NA	NA	FOC	787	all	4_4	NA	276	blik
-blik.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	NA	NA	FOC	186	nav	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	NA	NA	FOC	268	all	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	NA	NA	FOC	186	nav	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	NA	NA	FOC	268	all	4_4	NA	233	blik
-blik.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	254	blik
-blik.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	254	blik
-blik.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	NA	NA	FOC	277	nav	4_4	NA	254	blik
-blik.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	NA	NA	FOC	384	all	4_4	NA	254	blik
-blik.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	NA	NA	FOC	186	nav	4_4	NA	276	blik
-blik.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	NA	NA	FOC	350	all	4_4	NA	276	blik
-blik.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	NA	NA	FOC	186	nav	4_4	NA	276	blik
-blik.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	NA	NA	FOC	350	all	4_4	NA	276	blik
-blik.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	bound	519	all	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	bound	519	all	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	bound	519	all	3_3	1	no	NA	NA	FOC	277	nav	4_4	NA	276	blik
-blik.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	bound	519	all	3_3	1	no	NA	NA	FOC	519	all	4_4	NA	276	blik
-blik.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	NA	NA	FOC	429	nav	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	NA	NA	FOC	613	all	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	NA	NA	FOC	429	nav	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	NA	NA	FOC	613	all	4_4	NA	269	blik
-blik.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	NA	NA	FOC	905	nav	4_4	NA	276	blik
-blik.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	NA	NA	FOC	1242	all	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	NA	NA	FOC	429	nav	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	NA	NA	FOC	746	all	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	NA	NA	FOC	429	nav	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	NA	NA	FOC	746	all	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	NA	NA	FOC	905	nav	4_4	NA	276	blik
-blik.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	NA	NA	FOC	1645	all	4_4	NA	276	blik
-blik.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	NA	NA	FOC	284	nav	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	NA	NA	FOC	411	all	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	NA	NA	FOC	284	nav	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	NA	NA	FOC	411	all	4_4	NA	262	blik
-blik.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	NA	NA	FOC	472	nav	4_4	NA	276	blik
-blik.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	NA	NA	FOC	657	all	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	NA	NA	FOC	284	nav	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	NA	NA	FOC	518	all	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	NA	NA	FOC	284	nav	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	NA	NA	FOC	518	all	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	NA	NA	FOC	472	nav	4_4	NA	276	blik
-blik.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	NA	NA	FOC	868	all	4_4	NA	276	blik
-blik.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	NA	NA	FOC	193	nav	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	NA	NA	FOC	279	all	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	NA	NA	FOC	193	nav	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	NA	NA	FOC	279	all	4_4	NA	238	blik
-blik.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	260	blik
-blik.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	260	blik
-blik.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	NA	NA	FOC	289	nav	4_4	NA	260	blik
-blik.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	NA	NA	FOC	402	all	4_4	NA	260	blik
-blik.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	NA	NA	FOC	193	nav	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	NA	NA	FOC	365	all	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	NA	NA	FOC	193	nav	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	NA	NA	FOC	365	all	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	NA	NA	FOC	289	nav	4_4	NA	276	blik
-blik.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	NA	NA	FOC	543	all	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	NA	NA	FOC	186	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	NA	NA	FOC	331	all	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	NA	NA	FOC	186	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	NA	NA	FOC	331	all	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	NA	NA	FOC	318	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	NA	NA	FOC	558	all	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	NA	NA	FOC	256	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	NA	NA	FOC	454	all	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	FOC	256	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	FOC	454	all	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	FOC	469	nav	4_4	NA	276	blik
-blik.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	FOC	836	all	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	FOC	256	nav	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	NA	NA	FOC	454	all	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	weight	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	weight	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	weight	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	FOC	469	nav	4_4	NA	276	blik
-blik.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	weight	NA	dependency	NA	bound	836	NA	NA	1	no	NA	NA	FOC	836	all	4_4	NA	276	blik
-blik.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	NA	NA	FOC	157	nav	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	NA	NA	FOC	276	all	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	NA	NA	FOC	157	nav	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	NA	NA	FOC	276	all	4_4	NA	275	blik
-blik.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav	NA	group3	dependency	NA	bound	443	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	276	blik
-blik.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall	NA	group3	dependency	NA	bound	443	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	276	blik
-blik.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav	NA	group3	dependency	NA	bound	443	NA	NA	1	no	NA	NA	FOC	260	nav	4_4	NA	276	blik
-blik.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall	NA	group3	dependency	NA	bound	443	NA	NA	1	no	NA	NA	FOC	443	all	4_4	NA	276	blik
-blik.LEMMAREL0.PPMIweight.LENGTH5000.SOCPOSnav	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	weight	NA	NA	5000	5000	nav	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIweight.LENGTH5000.SOCPOSall	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	weight	NA	NA	5000	5000	all	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIweight.LENGTHFOC.SOCPOSnav	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	weight	NA	NA	FOC	81	nav	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIweight.LENGTHFOC.SOCPOSall	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	weight	NA	NA	FOC	150	all	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIselection.LENGTH5000.SOCPOSnav	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	selection	NA	NA	5000	5000	nav	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIselection.LENGTH5000.SOCPOSall	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	selection	NA	NA	5000	5000	all	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIselection.LENGTHFOC.SOCPOSnav	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	selection	NA	NA	FOC	81	nav	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIselection.LENGTHFOC.SOCPOSall	NA	group0	LEMMAREL	NA	bound	150	NA	NA	1	selection	NA	NA	FOC	150	all	4_4	NA	266	blik
-blik.LEMMAREL0.PPMIno.LENGTH5000.SOCPOSnav	NA	group0	LEMMAREL	NA	bound	196	NA	NA	1	no	NA	NA	5000	5000	nav	4_4	NA	270	blik
-blik.LEMMAREL0.PPMIno.LENGTH5000.SOCPOSall	NA	group0	LEMMAREL	NA	bound	196	NA	NA	1	no	NA	NA	5000	5000	all	4_4	NA	270	blik
-blik.LEMMAREL0.PPMIno.LENGTHFOC.SOCPOSnav	NA	group0	LEMMAREL	NA	bound	196	NA	NA	1	no	NA	NA	FOC	106	nav	4_4	NA	270	blik
-blik.LEMMAREL0.PPMIno.LENGTHFOC.SOCPOSall	NA	group0	LEMMAREL	NA	bound	196	NA	NA	1	no	NA	NA	FOC	196	all	4_4	NA	270	blik
-blik.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	5000	5000	nav	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	5000	5000	all	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	FOC	142	nav	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	FOC	242	all	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	5000	5000	nav	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	5000	5000	all	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	FOC	142	nav	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	242	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	FOC	242	all	4_4	NA	274	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	353	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	5000	5000	nav	4_4	NA	276	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	353	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	5000	5000	all	4_4	NA	276	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	353	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	FOC	222	nav	4_4	NA	276	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL1    group1
-blik.LEMMAREL1    group1
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL1    dependency
-blik.LEMMAREL1      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL1    bound
-blik.LEMMAREL1    bound
-Name: foc_boundaries, dtype: object"	353	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL1    NaN
-blik.LEMMAREL1    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	FOC	353	all	4_4	NA	276	"_model
-blik.LEMMAREL1    blik
-blik.LEMMAREL1    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	5000	5000	nav	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	5000	5000	all	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	FOC	157	nav	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	weight	NA	NA	FOC	276	all	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	5000	5000	nav	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	5000	5000	all	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	FOC	157	nav	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	276	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	selection	NA	NA	FOC	276	all	4_4	NA	275	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	443	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	5000	5000	nav	4_4	NA	276	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	443	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	5000	5000	all	4_4	NA	276	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	443	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	FOC	260	nav	4_4	NA	276	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
-blik.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: LEMMAPATH, dtype: object"	"_model
-blik.LEMMAREL2    group2
-blik.LEMMAREL2    group2
-Name: LEMMAREL, dtype: object"	"_model
-blik.LEMMAREL2    dependency
-blik.LEMMAREL2      LEMMAREL
-Name: base, dtype: object"	NA	"_model
-blik.LEMMAREL2    bound
-blik.LEMMAREL2    bound
-Name: foc_boundaries, dtype: object"	443	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_pos, dtype: object"	"_model
-blik.LEMMAREL2    NaN
-blik.LEMMAREL2    NaN
-Name: foc_foc_win, dtype: object"	1	no	NA	NA	FOC	443	all	4_4	NA	276	"_model
-blik.LEMMAREL2    blik
-blik.LEMMAREL2    blik
-Name: type, dtype: object"
+_model	model.x	model.y	LEMMAPATH	LEMMAREL	base	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
+blik.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.9536577041215153	-0.1602332492847451	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	5000	5000	nav	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.8336693486055257	-1.2658586295307683	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	5000	5000	all	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9545980589719334	0.25485559801807073	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	FOC	368	nav	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.9234307722220605	0.22431940883724474	NA	NA	BOW	NA	bound	528	lex	10_10	1	weight	FOC	528	all	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.1539588834820138	0.4243702524356706	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	5000	5000	nav	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	-1.2851419287632033	-0.971534131712625	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	5000	5000	all	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.0917515915452976	0.4876264423686115	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	FOC	368	nav	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.0560088997727324	0.44835884259082504	NA	NA	BOW	NA	bound	528	lex	10_10	1	selection	FOC	528	all	4_4	NA	265	blik
+blik.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.759313436574921	0.9473340990298728	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	5000	5000	nav	4_4	NA	275	blik
+blik.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	-1.802529143142899	1.5749254987775445	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	5000	5000	all	4_4	NA	275	blik
+blik.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.6777283583310423	0.9203839553860869	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	FOC	706	nav	4_4	NA	275	blik
+blik.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.6296318127177696	0.8942570849339666	NA	NA	BOW	NA	bound	977	lex	10_10	1	no	FOC	977	all	4_4	NA	275	blik
+blik.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	0.19266347633143646	-0.3832076718366888	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	0.5095995007420346	-0.9942726470755877	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.13680400907371687	-0.042960388296034435	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	FOC	368	nav	4_4	NA	276	blik
+blik.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.1510461884226389	-0.07000499312167259	NA	NA	BOW	NA	bound	643	all	10_10	1	weight	FOC	643	all	4_4	NA	276	blik
+blik.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.5425497561360472	0.9081060834027603	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	1.1532866756648612	1.117047409616766	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	0.055761175905969046	0.7449390420855249	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	FOC	368	nav	4_4	NA	276	blik
+blik.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	0.030239467472034532	0.7268714036056119	NA	NA	BOW	NA	bound	643	all	10_10	1	selection	FOC	643	all	4_4	NA	276	blik
+blik.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	0.30362773000104304	1.3966353912414515	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	0.7627818600967683	1.9440039300887904	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.07926459793122015	1.3536021918428829	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	FOC	706	nav	4_4	NA	276	blik
+blik.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.18294438307501365	1.4297478549240827	NA	NA	BOW	NA	bound	1276	all	10_10	1	no	FOC	1276	all	4_4	NA	276	blik
+blik.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.8125066618355746	-0.2804546594096144	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	5000	5000	nav	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	-0.657155048089613	-1.1782398765390638	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	5000	5000	all	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.8340378282564488	0.037954222569664214	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	FOC	267	nav	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.8137248807668819	-0.0016093774211180683	NA	NA	BOW	NA	bound	384	lex	5_5	1	weight	FOC	384	all	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.0070065115528768	-0.12339175983960561	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	5000	5000	nav	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	-0.9755726312829769	-0.9947515270339475	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	5000	5000	all	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9225668713396	0.1572177492108315	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	FOC	267	nav	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.8954181665087628	0.12570829132634057	NA	NA	BOW	NA	bound	384	lex	5_5	1	selection	FOC	384	all	4_4	NA	257	blik
+blik.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	-1.7797851706930456	0.0365429762484791	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	5000	5000	nav	4_4	NA	273	blik
+blik.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	-1.7797860203973985	-1.183621163483267	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	5000	5000	all	4_4	NA	273	blik
+blik.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.5843078650785691	0.2501725646338204	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	FOC	430	nav	4_4	NA	273	blik
+blik.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.5614698543933265	0.21293180896032407	NA	NA	BOW	NA	bound	595	lex	5_5	1	no	FOC	595	all	4_4	NA	273	blik
+blik.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	0.2950762406981974	-0.37435924024313805	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	0.6111884939304548	-0.875012330735903	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.06946976116207867	-0.20387953340891926	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	FOC	267	nav	4_4	NA	276	blik
+blik.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.058245777607638764	-0.22669821209859403	NA	NA	BOW	NA	bound	483	all	5_5	1	weight	FOC	483	all	4_4	NA	276	blik
+blik.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.6535018676012381	0.4596145421345087	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	1.1699679359948285	0.6180659910663296	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	0.12457443972204946	0.29873979654631644	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	FOC	267	nav	4_4	NA	276	blik
+blik.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	0.14041415743759583	0.27806218963661744	NA	NA	BOW	NA	bound	483	all	5_5	1	selection	FOC	483	all	4_4	NA	276	blik
+blik.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	0.5744076819848614	0.768759536571729	NA	NA	BOW	NA	bound	787	all	5_5	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	1.0627749000787394	1.0859103661928315	NA	NA	BOW	NA	bound	787	all	5_5	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	0.02508568072518915	0.6936925718384125	NA	NA	BOW	NA	bound	787	all	5_5	1	no	FOC	430	nav	4_4	NA	276	blik
+blik.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.016688996199178276	0.6991135991423991	NA	NA	BOW	NA	bound	787	all	5_5	1	no	FOC	787	all	4_4	NA	276	blik
+blik.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6626271619299531	-0.294412290570351	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	5000	5000	nav	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	-0.5324673905428451	-1.0780641762332537	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	5000	5000	all	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6401853798928221	-0.052267629243173484	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	FOC	186	nav	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.6295325227858143	-0.0821968698217123	NA	NA	BOW	NA	bound	268	lex	3_3	1	weight	FOC	268	all	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.7508049439341047	-0.2658761803018266	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	5000	5000	nav	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	-0.6873100353637535	-0.9795180662128509	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	5000	5000	all	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.6802145545175973	0.008975994153114538	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	FOC	186	nav	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.6693985562999768	-0.028519594982319964	NA	NA	BOW	NA	bound	268	lex	3_3	1	selection	FOC	268	all	4_4	NA	233	blik
+blik.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	-1.5008767409757917	-0.3637089646037361	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	5000	5000	nav	4_4	NA	254	blik
+blik.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	-1.2682332908316607	-1.469311203514512	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	5000	5000	all	4_4	NA	254	blik
+blik.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.3423096771912777	-0.08184500854398008	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	FOC	277	nav	4_4	NA	254	blik
+blik.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	-1.332503500693788	-0.12030387274586703	NA	NA	BOW	NA	bound	384	lex	3_3	1	no	FOC	384	all	4_4	NA	254	blik
+blik.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.46285339935141817	-0.6910681659623874	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	0.8528770244005393	-1.099692954402836	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	0.009502443277683088	-0.5036537881810099	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	FOC	186	nav	4_4	NA	276	blik
+blik.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	0.04023056245698634	-0.5127310622339725	NA	NA	BOW	NA	bound	350	all	3_3	1	weight	FOC	350	all	4_4	NA	276	blik
+blik.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.9102632756382771	0.18898179826627945	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	1.4248244191642088	0.2412929405318051	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.30073531739943526	0.06620518200839369	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	FOC	186	nav	4_4	NA	276	blik
+blik.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.320329827641369	0.049585011137302036	NA	NA	BOW	NA	bound	350	all	3_3	1	selection	FOC	350	all	4_4	NA	276	blik
+blik.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	0.887462810049663	0.4401560054511789	NA	NA	BOW	NA	bound	519	all	3_3	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	1.4119749701828472	0.5424841631255622	NA	NA	BOW	NA	bound	519	all	3_3	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.21844687031369922	0.38915286792418646	NA	NA	BOW	NA	bound	519	all	3_3	1	no	FOC	277	nav	4_4	NA	276	blik
+blik.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	0.21466850201167997	0.36193996312096144	NA	NA	BOW	NA	bound	519	all	3_3	1	no	FOC	519	all	4_4	NA	276	blik
+blik.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.142109001936137	-0.26579515229348794	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	5000	5000	nav	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.9767841891996828	-1.3429418120184582	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	5000	5000	all	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.1640968638698417	0.2277766286835658	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	FOC	429	nav	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.1451802003480234	0.20718285971752165	NA	NA	BOW	NA	nobound	613	lex	10_10	1	weight	FOC	613	all	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.5175900852485262	0.4364206501578637	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	5000	5000	nav	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	-1.5943769716892817	-0.9833082882199681	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	5000	5000	all	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.4357525210841267	0.5560237915218326	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	FOC	429	nav	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.397303844969866	0.5258043642185163	NA	NA	BOW	NA	nobound	613	lex	10_10	1	selection	FOC	613	all	4_4	NA	269	blik
+blik.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	-2.3167284367428507	0.6829822906137494	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	-2.8527288566289037	-0.007152823368776052	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-2.24090502033604	0.8538570174676369	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	FOC	905	nav	4_4	NA	276	blik
+blik.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	-2.1579530737027364	0.8286619711475081	NA	NA	BOW	NA	nobound	1242	lex	10_10	1	no	FOC	1242	all	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	0.1201937626653705	-0.6000371497101961	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	0.44108771074669284	-1.0953098042103984	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.2237381870742509	-0.11088961849987079	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	FOC	429	nav	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.25069232530650154	-0.16248354580851895	NA	NA	BOW	NA	nobound	746	all	10_10	1	weight	FOC	746	all	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.35573887248150565	1.144814214878216	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	0.9723691967829216	1.460220773675039	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.17082067401423537	0.9563898999579005	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	FOC	429	nav	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.21334885407705026	0.9431250409558803	NA	NA	BOW	NA	nobound	746	all	10_10	1	selection	FOC	746	all	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	-0.11902656835383883	1.5866875047681035	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	0.2945094954977632	2.466504987762273	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.49239660515837397	1.5685712007752728	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	FOC	905	nav	4_4	NA	276	blik
+blik.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	-0.5949411108940269	1.685145090657364	NA	NA	BOW	NA	nobound	1645	all	10_10	1	no	FOC	1645	all	4_4	NA	276	blik
+blik.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.9428060164849247	-0.31857174320589	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	5000	5000	nav	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	-0.7529419089213378	-1.2676495277268869	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	5000	5000	all	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9615761094038079	6.545287092466576e-4	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	FOC	284	nav	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.9438899182131164	-0.034881940137958686	NA	NA	BOW	NA	nobound	411	lex	5_5	1	weight	FOC	411	all	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.2044004881539905	-0.16775562704204197	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	5000	5000	nav	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	-1.1588283920322375	-1.0778565339710353	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	5000	5000	all	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.121958971234302	0.1444101709468568	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	FOC	284	nav	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.108196552302619	0.09712375733482485	NA	NA	BOW	NA	nobound	411	lex	5_5	1	selection	FOC	411	all	4_4	NA	262	blik
+blik.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	-2.050836034897293	-0.017635630235334123	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	-2.1146522080707424	-1.1133836476756835	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.8700296507442673	0.22226916542196018	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	FOC	472	nav	4_4	NA	276	blik
+blik.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.857450977453384	0.17300044984812468	NA	NA	BOW	NA	nobound	657	lex	5_5	1	no	FOC	657	all	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	0.2631257984020028	-0.398830215891058	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	0.5902322544096963	-0.9060429299895736	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.1028978670063538	-0.21767761246091727	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	FOC	284	nav	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.10078807162800436	-0.24779263920276876	NA	NA	BOW	NA	nobound	518	all	5_5	1	weight	FOC	518	all	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.6388300944376365	0.5199254244054269	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	1.1976357431137625	0.6911860174199086	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	0.07858198683326148	0.3732199032541249	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	FOC	284	nav	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	0.08234968163888846	0.3392695304242676	NA	NA	BOW	NA	nobound	518	all	5_5	1	selection	FOC	518	all	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	0.5374674638012098	0.8406171504629802	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	1.090749304520357	1.22140485358129	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.03521722894946448	0.7995446721110402	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	FOC	472	nav	4_4	NA	276	blik
+blik.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	-0.08615265232205574	0.792960039410703	NA	NA	BOW	NA	nobound	868	all	5_5	1	no	FOC	868	all	4_4	NA	276	blik
+blik.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.7269253847965497	-0.3232214077218865	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	5000	5000	nav	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	-0.565599085225285	-1.148805804649056	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	5000	5000	all	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.7116855525556675	-0.05025661514903247	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	FOC	193	nav	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.6988491311699823	-0.08418849376174754	NA	NA	BOW	NA	nobound	279	lex	3_3	1	weight	FOC	279	all	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.8450739616039176	-0.30610800285598616	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	5000	5000	nav	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	-0.7463325545963794	-1.0482965730329998	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	5000	5000	all	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7564435040749308	0.0037445778647497182	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	FOC	193	nav	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.7512447920488752	-0.04412635984770015	NA	NA	BOW	NA	nobound	279	lex	3_3	1	selection	FOC	279	all	4_4	NA	238	blik
+blik.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	-1.7210215528111208	-0.3868437930925385	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	5000	5000	nav	4_4	NA	260	blik
+blik.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	-1.4483299460941415	-1.5927117266675737	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	5000	5000	all	4_4	NA	260	blik
+blik.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.523002075349442	-0.10939067380167364	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	FOC	289	nav	4_4	NA	260	blik
+blik.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	-1.5104258964869834	-0.14862715665000925	NA	NA	BOW	NA	nobound	402	lex	3_3	1	no	FOC	402	all	4_4	NA	260	blik
+blik.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.41900858107171607	-0.7072465268716956	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	0.8079058682701826	-1.0948299030451794	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.022526393759242008	-0.50723254504039	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	FOC	193	nav	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	3.8093618434213657e-4	-0.5306181912423339	NA	NA	BOW	NA	nobound	365	all	3_3	1	weight	FOC	365	all	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.8854423063634688	0.21221611735982232	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	1.4100452150483798	0.27339177844564466	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.26030866343945896	0.08802551249322273	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	FOC	193	nav	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.27651457313997846	0.06863358699644663	NA	NA	BOW	NA	nobound	365	all	3_3	1	selection	FOC	365	all	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	0.8563025142633769	0.4702109897845724	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	1.4039488448078468	0.5759458452036094	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	5000	5000	all	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.17107913008031575	0.4374447722591646	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	FOC	289	nav	4_4	NA	276	blik
+blik.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	0.1634217888861922	0.4138665246417242	NA	NA	BOW	NA	nobound	543	all	3_3	1	no	FOC	543	all	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	0.6446030676347572	-0.514955350965422	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	1.0267405792148747	-0.9475365043149185	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	0.26799190718048604	-0.4776207733353399	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	FOC	186	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	0.2888752506649721	-0.4604671987187861	selection2	NA	dependency	NA	bound	331	NA	NA	1	weight	FOC	331	all	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	0.9902042533931164	0.009502159840398355	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	1.4976906242156731	-0.02792006731617043	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	0.5327372118753615	-0.018652046288708854	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	FOC	186	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	0.5262237134137663	-0.03265767411333268	selection2	NA	dependency	NA	bound	331	NA	NA	1	selection	FOC	331	all	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	0.9867504765401578	0.14543056658288453	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	1.5897912353174186	0.16362488299509784	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	0.5395261141297136	0.2253690781109442	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	FOC	318	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	0.5462888413839873	0.18080541194784455	selection2	NA	dependency	NA	bound	558	NA	NA	1	no	FOC	558	all	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	0.4536151332077026	-0.4052932427087332	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	0.8236712361311747	-0.8533152594990826	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	0.059083503644547446	-0.23741838990093528	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	FOC	256	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	0.09039395911803455	-0.2676846453467436	selection3	NA	dependency	NA	bound	454	NA	NA	1	weight	FOC	454	all	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	0.8622346774814627	0.3307235577064474	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	1.487786316598341	0.43995058588773783	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	0.37818209493728033	0.30334556382292327	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	FOC	256	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	0.3838516719183707	0.27320171442772107	selection3	NA	dependency	NA	bound	454	NA	NA	1	selection	FOC	454	all	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	0.828663636014747	0.680561623033928	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	1.5393228666244516	0.9198306713256968	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	0.33590485028437506	0.731634567702972	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	FOC	469	nav	4_4	NA	276	blik
+blik.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	0.3247627676487207	0.7728409042210387	selection3	NA	dependency	NA	bound	836	NA	NA	1	no	FOC	836	all	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	0.8622346774814627	0.3307235577064474	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	1.4877863165983378	0.4399505858877367	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	0.37818209493728033	0.30334556382292327	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	FOC	256	nav	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	0.3838516719183707	0.27320171442772107	weight	NA	dependency	NA	bound	454	NA	NA	1	selection	FOC	454	all	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	1.0079617366979123	0.17562899585127076	weight	NA	dependency	NA	bound	836	NA	NA	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	1.5247205368379602	0.21102688566377034	weight	NA	dependency	NA	bound	836	NA	NA	1	no	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	0.6011665473411061	0.20168483623006894	weight	NA	dependency	NA	bound	836	NA	NA	1	no	FOC	469	nav	4_4	NA	276	blik
+blik.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	0.6017799681883078	0.18439773917123536	weight	NA	dependency	NA	bound	836	NA	NA	1	no	FOC	836	all	4_4	NA	276	blik
+blik.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSnav	0.8193681493622214	-0.6448807298171683	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	5000	5000	nav	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIweight.LENGTH5000.SOCPOSall	1.2013601934075395	-1.0235729152619573	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	5000	5000	all	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSnav	0.44177707403240074	-0.6315755952517829	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	FOC	157	nav	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIweight.LENGTHFOC.SOCPOSall	0.47487742927703985	-0.6240899269420476	NA	group3	dependency	NA	bound	276	NA	NA	1	weight	FOC	276	all	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSnav	1.0855234447376607	-0.20291750278495177	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	5000	5000	nav	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIselection.LENGTH5000.SOCPOSall	1.54849912991234	-0.35551306491955204	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	5000	5000	all	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSnav	0.6943833450052808	-0.23138056402475163	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	FOC	157	nav	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIselection.LENGTHFOC.SOCPOSall	0.6986644671290254	-0.22777940827411816	NA	group3	dependency	NA	bound	276	NA	NA	1	selection	FOC	276	all	4_4	NA	275	blik
+blik.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSnav	1.175995711967197	-0.10957250106902382	NA	group3	dependency	NA	bound	443	NA	NA	1	no	5000	5000	nav	4_4	NA	276	blik
+blik.LEMMAREL3.PPMIno.LENGTH5000.SOCPOSall	1.7261310393799922	-0.23242427738897445	NA	group3	dependency	NA	bound	443	NA	NA	1	no	5000	5000	all	4_4	NA	276	blik
+blik.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSnav	0.7910918732634821	-0.10320516768295827	NA	group3	dependency	NA	bound	443	NA	NA	1	no	FOC	260	nav	4_4	NA	276	blik
+blik.LEMMAREL3.PPMIno.LENGTHFOC.SOCPOSall	0.8027769171797489	-0.12165514968853723	NA	group3	dependency	NA	bound	443	NA	NA	1	no	FOC	443	all	4_4	NA	276	blik
+blik.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	1.1233969125253573	-0.6478005258936252	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	weight	5000	5000	nav	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	1.5021743301756958	-0.9098395267514067	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	weight	5000	5000	all	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	1.0086352756682067	-0.8967929310216514	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	weight	FOC	81	nav	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	1.0358186935273506	-0.806222863995541	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	weight	FOC	150	all	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	1.2069240790047784	-0.27244446533038325	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	selection	5000	5000	nav	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	1.5760094964536255	-0.4106400096312109	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	selection	5000	5000	all	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	1.0910135188939287	-0.5262845821197212	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	selection	FOC	81	nav	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	1.0422711251001548	-0.43949573110317935	NA	group1	LEMMAREL	NA	bound	150	NA	NA	1	selection	FOC	150	all	4_4	NA	266	blik
+blik.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	1.3122239494564032	-0.29023339274588456	NA	group1	LEMMAREL	NA	bound	196	NA	NA	1	no	5000	5000	nav	4_4	NA	270	blik
+blik.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	1.7118316758758865	-0.406747339852713	NA	group1	LEMMAREL	NA	bound	196	NA	NA	1	no	5000	5000	all	4_4	NA	270	blik
+blik.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	1.2032894699925603	-0.6154287727822065	NA	group1	LEMMAREL	NA	bound	196	NA	NA	1	no	FOC	106	nav	4_4	NA	270	blik
+blik.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	1.1668018734504286	-0.5041881365915253	NA	group1	LEMMAREL	NA	bound	196	NA	NA	1	no	FOC	196	all	4_4	NA	270	blik
+blik.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	0.8241743225081005	-0.6398998298527491	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	weight	5000	5000	nav	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	1.1936506553806818	-1.0146401586628992	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	weight	5000	5000	all	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	0.4965407389076208	-0.683855834219074	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	weight	FOC	142	nav	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	0.5281335262732213	-0.6508156371870784	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	weight	FOC	142	all	4_4	all	274	blik
+blik.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	1.0991982906062185	-0.2391125837398138	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	selection	5000	5000	nav	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	1.520072369715634	-0.39835483121672793	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	selection	5000	5000	all	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	0.7193732177325889	-0.2763978562058279	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	selection	FOC	142	nav	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	0.7659335894620666	-0.28823410277605666	NA	group2	LEMMAREL	NA	bound	242	NA	NA	1	selection	FOC	142	all	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	1.1945881622822065	-0.18339024219269823	NA	group2	LEMMAREL	NA	bound	353	NA	NA	1	no	5000	5000	nav	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	1.685968980175928	-0.3335495919328456	NA	group2	LEMMAREL	NA	bound	353	NA	NA	1	no	5000	5000	all	4_4	NA	274	blik
+blik.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	0.8516419489526813	-0.21689569535144868	NA	group2	LEMMAREL	NA	bound	353	NA	NA	1	no	FOC	142	nav	4_4	NA	276	blik
+blik.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	0.830646421254604	-0.21954761219394256	NA	group2	LEMMAREL	NA	bound	353	NA	NA	1	no	FOC	142	all	4_4	NA	276	blik

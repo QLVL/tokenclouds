@@ -1,5 +1,5 @@
 _model	model.x	model.y	LEMMAPATH	LEMMAREL	base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	tokens	type
-spot.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6343743919363598	-0.3747950567226482	type	base	foc_boundaries	foc_foc_pos	foc_foc_win	LEMMAPATH	LEMMAREL	foc_ppmi	foc_minimum_features	foc_context_words	soc_length	soc_soc_pos	soc_soc_win	soc_length_num	tokens
+spot.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6343743919363598	-0.3747950567226482	NA	NA	BOW	bound	398	lex	10_10	1	weight	5000	5000	nav	4_4	195	spot
 spot.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	-0.4813815353191569	-0.9463892570587877	NA	NA	BOW	bound	398	lex	10_10	1	weight	5000	5000	all	4_4	195	spot
 spot.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.668459387797399	-0.1987031480837857	NA	NA	BOW	bound	398	lex	10_10	1	weight	FOC	307	nav	4_4	195	spot
 spot.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.6354749396252588	-0.20698177168416546	NA	NA	BOW	bound	398	lex	10_10	1	weight	FOC	398	all	4_4	195	spot
