@@ -1,0 +1,33 @@
+lemma	sense_n	n	largest	ratio12	FPlex	LENGTH5k	FW	Best	TreeStart	LargeIslands	TinyIslands	LEMMAREL	total_tokens	min_tokens	models	part_of_speech	hasBest	howmany
+heilzaam	2	236	0.5720338983050848	1.3366336633663367	lexweight	outwards	rings	none	FW3	FALSE	TRUE	Large core and scramble	236	194	200	adj	none	0
+hoekig	3	264	0.5189393939393939	1.3047619047619048	none	5k	overlap	FW > 3 + !(LENGTH:5000 + SOC-POS:all)	FW3	FALSE	FALSE	Less crowded	264	170	200	adj	some	76
+gekleurd	3	276	0.7137681159420289	4.804878048780488	lex	5k	rings	BOW + !(LENGTH:5000 + SOC-POS:all)	BASE	FALSE	TRUE	Similar	276	206	200	adj	some	108
+dof	4	311	0.40192926045016075	1.3440860215053763	lexweight	5k	none	FP:lex | Pweight | PATH + !(LENGTH:5000 + SOC-POS:all)	FW3	TRUE	FALSE	Similar	311	228	200	adj	some	86
+hachelijk	2	239	0.5313807531380753	1.1339285714285714	lex	outwards	none	all	LEMMAREL	TRUE	FALSE	Bubbles	239	217	200	adj	all	200
+geestig	3	278	0.6906474820143885	3.2	lexweight	5k	none	none	BASE	FALSE	FALSE	Less crowded	278	169	200	adj	none	0
+hoopvol	2	238	0.6932773109243697	2.26027397260274	lex	5k	none	none	LEMMAREL	TRUE	FALSE	Less crowded	238	159	200	adj	none	0
+hemels	3	209	0.5119617224880383	1.0594059405940595	lex	5k	rings	FP:lex | Pweight | FW:3	BASE	FALSE	TRUE	Less crowded and small islands	209	158	200	adj	some	114
+geldig	2	236	0.8686440677966102	6.612903225806452	none	5k	overlap	none	BASE	FALSE	TRUE	Less crowded and small islands	235	175	200	adj	none	0
+gemeen	7	297	0.569023569023569	2.0609756097560976	lex	5k	rings	none	BASE	TRUE	TRUE	Large core and scramble	297	222	200	adj	none	0
+goedkoop	4	303	0.8151815181518152	7.264705882352941	none	5k	overlap	none	BASE	FALSE	TRUE	Less crowded	303	200	200	adj	none	0
+grijs	7	304	0.47039473684210525	2.9791666666666665	lex	5k	overlap	FP:lex | Pweight | FW:3 + !(LENGTH:5000 + SOC-POS:all)	FW3 + DEP	TRUE	TRUE	Less crowded and small islands	304	196	200	adj	some	94
+heet	7	332	0.5993975903614458	2.842857142857143	lexweight	5k	none	FP:lex | Pweight + !(LENGTH:5000 + SOC-POS:all)	BASE	TRUE	TRUE	Bubbles	332	280	200	adj	some	82
+horde	4	278	0.5359712230215827	2.5689655172413794	lex	5k	none	PATH | !(Pno + FW10) + !(LENGTH:5000 + SOC-POS:all)	FPlex	TRUE	FALSE	Similar	278	248	212	noun	some	132
+hoop	3	312	0.7564102564102564	4	lex	none	none	(PATH + !Pweight) | REL | (FW < 10 + FP:all)	FPlex	TRUE	FALSE	Large core and scramble	312	263	212	noun	some	91
+spot	5	219	0.4840182648401826	2.3043478260869565	lexweight	outwards	none	(FP:lex | Pweight) + FW>3 + !(LENGTH:5000 + SOC-POS:all)	FPlex	TRUE	TRUE	Large core and scramble	219	187	212	noun	some	62
+staal	5	311	0.6913183279742765	3.6440677966101696	lex	5k	rings	FW > 3 + !(LENGTH:5000 + SOC-POS:all)	BASE	TRUE	TRUE	Large core and scramble	311	226	212	noun	some	89
+stof	5	313	0.46325878594249204	2.685185185185185	lexweight	5k	overlap	FP:lex + !(LENGTH:5000 + SOC-POS:all)	LEMMAREL	FALSE	TRUE	Similar	313	292	212	noun	some	58
+schaal	5	318	0.6729559748427673	4.976744186046512	lexweight	outwards	none	BOW + Pweight	BASE	TRUE	FALSE	Large core and scramble	318	280	212	noun	some	44
+blik	4	276	0.7862318840579711	7.233333333333333	lex	5k	overlap	none	FPlex	FALSE	TRUE	Similar	276	233	212	noun	none	0
+heffen	2	218	0.6422018348623854	1.794871794871795	none	outwards	fw3	all	FW3	TRUE	FALSE	Similar	218	189	200	verb	all	200
+huldigen	2	230	0.7086956521739131	2.4328358208955225	lexweight	none	inverse	all	FW3	TRUE	FALSE	Similar	230	202	200	verb	all	200
+haten	3	229	0.4847161572052402	1.088235294117647	lex	5k	none	none	LEMMAREL	FALSE	FALSE	Similar	229	172	200	verb	none	0
+herroepen	2	236	0.597457627118644	1.4842105263157894	none	none	overlap	PATH	BASE	TRUE	FALSE	Similar	236	205	200	verb	some	26
+helpen	7	233	0.33047210300429186	1.305084745762712	lex	5k	none	none	FPlex	FALSE	TRUE	Similar	233	196	200	verb	none	0
+herinneren	3	240	0.6666666666666666	2.1052631578947367	lex	none	none	FW3 | PATH + !Pweight	FPlex	TRUE	FALSE	Cores	240	169	200	verb	some	56
+herhalen	4	313	0.5111821086261981	1.7777777777777777	lex	none	overlap	FP:all + FW > 3 + Pweight	BASE	TRUE	TRUE	Similar	312	267	200	verb	some	31
+diskwalificeren	3	238	0.6218487394957983	2.176470588235294	lex	none	overlap	all	BASE	FALSE	FALSE	Cores	238	198	200	verb	all	200
+haken	6	251	0.3705179282868526	1.4307692307692308	lex	outwards	rings	FP:all + FW10	BASE	TRUE	TRUE	Similar	251	222	200	verb	some	24
+herstellen	6	239	0.37656903765690375	1.5789473684210527	lex	none	fw3	Pweight	FPlex	TRUE	FALSE	Less crowded and small islands	239	210	200	verb	some	30
+herstructureren	3	240	0.4125	1.3943661971830985	lex	none	rings	none	FW3	FALSE	FALSE	Less crowded	240	146	200	verb	none	0
+harden	5	279	0.6845878136200717	2.9384615384615387	lex	none	fw3	none	FW3	TRUE	FALSE	Large core and scramble	279	244	200	verb	none	0
