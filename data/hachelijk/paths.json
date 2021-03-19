@@ -1,14 +1,19 @@
 {
   "cws": ["hachelijk.cws.tsv"],
+  "mdscws": ["hachelijk.mds.cws.tsv"],
   "mds": ["hachelijk.mds.tsv"],
   "medoids": ["hachelijk.medoids.tsv"],
   "modelsdist": ["hachelijk.models.dist.tsv"],
   "models": ["hachelijk.models.tsv"],
   "ppmi": ["hachelijk.ppmi.tsv"],
   "solutions": ["hachelijk.solutions.json"],
+  "tsne10cws": ["hachelijk.tsne.10.cws.tsv"],
   "tsne10": ["hachelijk.tsne.10.tsv"],
+  "tsne20cws": ["hachelijk.tsne.20.cws.tsv"],
   "tsne20": ["hachelijk.tsne.20.tsv"],
+  "tsne30cws": ["hachelijk.tsne.30.cws.tsv"],
   "tsne30": ["hachelijk.tsne.30.tsv"],
+  "tsne50cws": ["hachelijk.tsne.50.cws.tsv"],
   "tsne50": ["hachelijk.tsne.50.tsv"],
   "variables": ["hachelijk.variables.tsv"]
 }

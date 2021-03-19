@@ -1,14 +1,19 @@
 {
   "cws": ["heilzaam.cws.tsv"],
+  "mdscws": ["heilzaam.mds.cws.tsv"],
   "mds": ["heilzaam.mds.tsv"],
   "medoids": ["heilzaam.medoids.tsv"],
   "modelsdist": ["heilzaam.models.dist.tsv"],
   "models": ["heilzaam.models.tsv"],
   "ppmi": ["heilzaam.ppmi.tsv"],
   "solutions": ["heilzaam.solutions.json"],
+  "tsne10cws": ["heilzaam.tsne.10.cws.tsv"],
   "tsne10": ["heilzaam.tsne.10.tsv"],
+  "tsne20cws": ["heilzaam.tsne.20.cws.tsv"],
   "tsne20": ["heilzaam.tsne.20.tsv"],
+  "tsne30cws": ["heilzaam.tsne.30.cws.tsv"],
   "tsne30": ["heilzaam.tsne.30.tsv"],
+  "tsne50cws": ["heilzaam.tsne.50.cws.tsv"],
   "tsne50": ["heilzaam.tsne.50.tsv"],
   "variables": ["heilzaam.variables.tsv"]
 }
