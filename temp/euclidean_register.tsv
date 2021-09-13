@@ -1,7 +1,0 @@
-type	total_tokens	min_tokens	models	stress	date	part_of_speech	corpus
-horde	278	248	212	0.2025	2021-02-16	noun	QLVLNews
-spot	219	187	212	0.1838	2021-02-16	noun	QLVLNews
-hoop	312	263	212	0.1777	2021-02-16	noun	QLVLNews
-heffen	218	189	200	0.2124	2021-02-16	verb	QLVLNews
-haten	229	172	200	0.2099	2021-02-16	verb	QLVLNews
-herstellen	239	210	200	0.2195	2021-02-16	verb	QLVLNews
