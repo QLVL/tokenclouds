@@ -1,1 +1,10 @@
-{"medoids":"temp.medoids.tsv","modelsdist":"temp.models.dist.tsv","models":"temp.models.tsv","solutions":"temp.solutions.json","tsne30cws":"temp.tsne.30.cws.tsv","tsne30":"temp.tsne.30.tsv","variables":"temp.variables.tsv"}
+{
+    "medoids": ["temp.medoids.tsv"],
+    "modelsdist": ["temp.models.dist.tsv"],
+    "models": ["temp.models.tsv"],
+    "solutions": ["temp.solutions.json"],
+    "tsne30cws": ["temp.tsne.30.cws.tsv"],
+    "tsne30": ["temp.tsne.30.tsv"],
+    "variables": ["temp.variables.tsv"],
+    "ppmi" : ["temp.ppmi.tsv"]
+}
