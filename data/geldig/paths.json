@@ -1,14 +1,1 @@
-{
-  "cws": ["geldig.cws.tsv"],
-  "mds": ["geldig.mds.tsv"],
-  "medoids": ["geldig.medoids.tsv"],
-  "modelsdist": ["geldig.models.dist.tsv"],
-  "models": ["geldig.models.tsv"],
-  "ppmi": ["geldig.ppmi.tsv"],
-  "solutions": ["geldig.solutions.json"],
-  "tsne10": ["geldig.tsne.10.tsv"],
-  "tsne20": ["geldig.tsne.20.tsv"],
-  "tsne30": ["geldig.tsne.30.tsv"],
-  "tsne50": ["geldig.tsne.50.tsv"],
-  "variables": ["geldig.variables.tsv"]
-}
+{"medoids":"geldig.medoids.tsv","modelsdist":"geldig.models.dist.tsv","models":"geldig.models.tsv","ppmi":"geldig.ppmi.tsv","solutions":"geldig.solutions.json","tsne30cws":"geldig.tsne.30.cws.tsv","tsne30":"geldig.tsne.30.tsv","variables":"geldig.variables.tsv"}

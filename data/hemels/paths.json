@@ -1,14 +1,1 @@
-{
-  "cws": ["hemels.cws.tsv"],
-  "mds": ["hemels.mds.tsv"],
-  "medoids": ["hemels.medoids.tsv"],
-  "modelsdist": ["hemels.models.dist.tsv"],
-  "models": ["hemels.models.tsv"],
-  "ppmi": ["hemels.ppmi.tsv"],
-  "solutions": ["hemels.solutions.json"],
-  "tsne10": ["hemels.tsne.10.tsv"],
-  "tsne20": ["hemels.tsne.20.tsv"],
-  "tsne30": ["hemels.tsne.30.tsv"],
-  "tsne50": ["hemels.tsne.50.tsv"],
-  "variables": ["hemels.variables.tsv"]
-}
+{"medoids":"hemels.medoids.tsv","modelsdist":"hemels.models.dist.tsv","models":"hemels.models.tsv","ppmi":"hemels.ppmi.tsv","solutions":"hemels.solutions.json","tsne30cws":"hemels.tsne.30.cws.tsv","tsne30":"hemels.tsne.30.tsv","variables":"hemels.variables.tsv"}

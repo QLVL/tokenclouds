@@ -1,14 +1,1 @@
-{
-  "cws": ["hoekig.cws.tsv"],
-  "mds": ["hoekig.mds.tsv"],
-  "medoids": ["hoekig.medoids.tsv"],
-  "modelsdist": ["hoekig.models.dist.tsv"],
-  "models": ["hoekig.models.tsv"],
-  "ppmi": ["hoekig.ppmi.tsv"],
-  "solutions": ["hoekig.solutions.json"],
-  "tsne10": ["hoekig.tsne.10.tsv"],
-  "tsne20": ["hoekig.tsne.20.tsv"],
-  "tsne30": ["hoekig.tsne.30.tsv"],
-  "tsne50": ["hoekig.tsne.50.tsv"],
-  "variables": ["hoekig.variables.tsv"]
-}
+{"medoids":"hoekig.medoids.tsv","modelsdist":"hoekig.models.dist.tsv","models":"hoekig.models.tsv","ppmi":"hoekig.ppmi.tsv","solutions":"hoekig.solutions.json","tsne30cws":"hoekig.tsne.30.cws.tsv","tsne30":"hoekig.tsne.30.tsv","variables":"hoekig.variables.tsv"}

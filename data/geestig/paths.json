@@ -1,14 +1,1 @@
-{
-  "cws": ["geestig.cws.tsv"],
-  "mds": ["geestig.mds.tsv"],
-  "medoids": ["geestig.medoids.tsv"],
-  "modelsdist": ["geestig.models.dist.tsv"],
-  "models": ["geestig.models.tsv"],
-  "ppmi": ["geestig.ppmi.tsv"],
-  "solutions": ["geestig.solutions.json"],
-  "tsne10": ["geestig.tsne.10.tsv"],
-  "tsne20": ["geestig.tsne.20.tsv"],
-  "tsne30": ["geestig.tsne.30.tsv"],
-  "tsne50": ["geestig.tsne.50.tsv"],
-  "variables": ["geestig.variables.tsv"]
-}
+{"medoids":"geestig.medoids.tsv","modelsdist":"geestig.models.dist.tsv","models":"geestig.models.tsv","ppmi":"geestig.ppmi.tsv","solutions":"geestig.solutions.json","tsne30cws":"geestig.tsne.30.cws.tsv","tsne30":"geestig.tsne.30.tsv","variables":"geestig.variables.tsv"}

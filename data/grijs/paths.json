@@ -1,14 +1,1 @@
-{
-  "cws": ["grijs.cws.tsv"],
-  "mds": ["grijs.mds.tsv"],
-  "medoids": ["grijs.medoids.tsv"],
-  "modelsdist": ["grijs.models.dist.tsv"],
-  "models": ["grijs.models.tsv"],
-  "ppmi": ["grijs.ppmi.tsv"],
-  "solutions": ["grijs.solutions.json"],
-  "tsne10": ["grijs.tsne.10.tsv"],
-  "tsne20": ["grijs.tsne.20.tsv"],
-  "tsne30": ["grijs.tsne.30.tsv"],
-  "tsne50": ["grijs.tsne.50.tsv"],
-  "variables": ["grijs.variables.tsv"]
-}
+{"medoids":"grijs.medoids.tsv","modelsdist":"grijs.models.dist.tsv","models":"grijs.models.tsv","ppmi":"grijs.ppmi.tsv","solutions":"grijs.solutions.json","tsne30cws":"grijs.tsne.30.cws.tsv","tsne30":"grijs.tsne.30.tsv","variables":"grijs.variables.tsv"}

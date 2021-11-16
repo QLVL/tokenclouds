@@ -1,201 +1,205 @@
-_model	model.x	model.y	LEMMAPATH	LEMMAREL	foc_base	foc_boundaries	foc_context_words	foc_foc_pos	foc_foc_win	foc_minimum_features	foc_ppmi	soc_length	soc_length_num	soc_soc_pos	soc_soc_win	stress	tokens	type
-diskwalificeren.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.1421920402304702	-0.15791148157004034	NA	NA	BOW	bound	364	lex	10_10	1	weight	5000	5000	nav	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIweight.LENGTH5000.SOCPOSall	-1.1372975145749653	-0.29663293332098123	NA	NA	BOW	bound	364	lex	10_10	1	weight	5000	5000	all	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9849507494268097	-0.3703028672802122	NA	NA	BOW	bound	364	lex	10_10	1	weight	FOC	254	nav	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.9516569922727574	-0.33576812591003496	NA	NA	BOW	bound	364	lex	10_10	1	weight	FOC	364	all	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.9703633596601585	-0.21966722311509312	NA	NA	BOW	bound	364	lex	10_10	1	selection	5000	5000	nav	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIselection.LENGTH5000.SOCPOSall	-1.0503910740402325	-0.5147114676483014	NA	NA	BOW	bound	364	lex	10_10	1	selection	5000	5000	all	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.8472322264996816	-0.4620694435145718	NA	NA	BOW	bound	364	lex	10_10	1	selection	FOC	254	nav	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.8242146290861402	-0.44752783876635277	NA	NA	BOW	bound	364	lex	10_10	1	selection	FOC	364	all	4_4	NA	227	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.1828791269462864	-0.7185640016391254	NA	NA	BOW	bound	672	lex	10_10	1	no	5000	5000	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIno.LENGTH5000.SOCPOSall	-1.1278275613805255	-1.2145060803123549	NA	NA	BOW	bound	672	lex	10_10	1	no	5000	5000	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.961625623899452	-0.9814001708536776	NA	NA	BOW	bound	672	lex	10_10	1	no	FOC	478	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWbound10lex.PPMIno.LENGTHFOC.SOCPOSall	-0.9592906555947334	-0.949951213877646	NA	NA	BOW	bound	672	lex	10_10	1	no	FOC	672	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSnav	0.23370027906319257	-0.3198123611483433	NA	NA	BOW	bound	538	all	10_10	1	weight	5000	5000	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIweight.LENGTH5000.SOCPOSall	0.010027069263278478	-0.6628809287577931	NA	NA	BOW	bound	538	all	10_10	1	weight	5000	5000	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSnav	0.13887050031649165	-0.6062534015971137	NA	NA	BOW	bound	538	all	10_10	1	weight	FOC	254	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIweight.LENGTHFOC.SOCPOSall	0.15615613911514414	-0.5496354529926605	NA	NA	BOW	bound	538	all	10_10	1	weight	FOC	538	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.4035547624496324	-0.5634063844783238	NA	NA	BOW	bound	538	all	10_10	1	selection	5000	5000	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIselection.LENGTH5000.SOCPOSall	0.26400840036767204	-0.9899173702803992	NA	NA	BOW	bound	538	all	10_10	1	selection	5000	5000	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSnav	0.2548351086038799	-0.6918928004691832	NA	NA	BOW	bound	538	all	10_10	1	selection	FOC	254	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIselection.LENGTHFOC.SOCPOSall	0.27641179340454847	-0.6808974545711467	NA	NA	BOW	bound	538	all	10_10	1	selection	FOC	538	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIno.LENGTH5000.SOCPOSnav	1.01833503035118	-1.2909734070202972	NA	NA	BOW	bound	996	all	10_10	1	no	5000	5000	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIno.LENGTH5000.SOCPOSall	1.0645851360265044	-1.6705126970177124	NA	NA	BOW	bound	996	all	10_10	1	no	5000	5000	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSnav	0.6292139537823774	-1.3115725675048973	NA	NA	BOW	bound	996	all	10_10	1	no	FOC	478	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound10all.PPMIno.LENGTHFOC.SOCPOSall	0.6284467294858079	-1.3002386905261898	NA	NA	BOW	bound	996	all	10_10	1	no	FOC	996	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.102316616809259	0.5080370928552513	NA	NA	BOW	bound	314	lex	5_5	1	weight	5000	5000	nav	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIweight.LENGTH5000.SOCPOSall	-1.1184737859635692	0.48853656724512384	NA	NA	BOW	bound	314	lex	5_5	1	weight	5000	5000	all	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9544853542696498	0.1897294503925554	NA	NA	BOW	bound	314	lex	5_5	1	weight	FOC	212	nav	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.9624373376152614	0.22623839698404216	NA	NA	BOW	bound	314	lex	5_5	1	weight	FOC	314	all	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.8931852830226341	0.3825978038491693	NA	NA	BOW	bound	314	lex	5_5	1	selection	5000	5000	nav	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIselection.LENGTH5000.SOCPOSall	-0.9659684187201352	0.43764839207935075	NA	NA	BOW	bound	314	lex	5_5	1	selection	5000	5000	all	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.7737525686634751	0.13861718513107044	NA	NA	BOW	bound	314	lex	5_5	1	selection	FOC	212	nav	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.7822274609721873	0.17364947000790984	NA	NA	BOW	bound	314	lex	5_5	1	selection	FOC	314	all	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSnav	-1.3361571307188889	0.6011172565737153	NA	NA	BOW	bound	418	lex	5_5	1	no	5000	5000	nav	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIno.LENGTH5000.SOCPOSall	-1.4393093315782988	0.5988383157493591	NA	NA	BOW	bound	418	lex	5_5	1	no	5000	5000	all	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.179521347255241	0.1661797142142047	NA	NA	BOW	bound	418	lex	5_5	1	no	FOC	281	nav	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.1766155941071297	0.2031597315140447	NA	NA	BOW	bound	418	lex	5_5	1	no	FOC	418	all	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSnav	0.07473147461022554	0.2344007426557285	NA	NA	BOW	bound	465	all	5_5	1	weight	5000	5000	nav	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIweight.LENGTH5000.SOCPOSall	-0.0855779406310658	0.09999248963208274	NA	NA	BOW	bound	465	all	5_5	1	weight	5000	5000	all	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.012047405215696649	-0.12886184193326955	NA	NA	BOW	bound	465	all	5_5	1	weight	FOC	212	nav	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIweight.LENGTHFOC.SOCPOSall	0.02634240969051428	-0.09373043991132596	NA	NA	BOW	bound	465	all	5_5	1	weight	FOC	465	all	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.16593193649179305	0.11240107558497286	NA	NA	BOW	bound	465	all	5_5	1	selection	5000	5000	nav	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIselection.LENGTH5000.SOCPOSall	-0.023224183145276404	-0.013122447154752437	NA	NA	BOW	bound	465	all	5_5	1	selection	5000	5000	all	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSnav	0.09049097873149639	-0.18569761292852274	NA	NA	BOW	bound	465	all	5_5	1	selection	FOC	212	nav	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIselection.LENGTHFOC.SOCPOSall	0.1308829682958688	-0.17231634869988288	NA	NA	BOW	bound	465	all	5_5	1	selection	FOC	465	all	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIno.LENGTH5000.SOCPOSnav	0.8619680653289775	-0.828943252339117	NA	NA	BOW	bound	637	all	5_5	1	no	5000	5000	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIno.LENGTH5000.SOCPOSall	1.131688852015367	-1.2930096747201543	NA	NA	BOW	bound	637	all	5_5	1	no	5000	5000	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSnav	0.4676642106520559	-0.807731297576975	NA	NA	BOW	bound	637	all	5_5	1	no	FOC	281	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound5all.PPMIno.LENGTHFOC.SOCPOSall	0.4470546149100879	-0.7519122780546265	NA	NA	BOW	bound	637	all	5_5	1	no	FOC	637	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.6420244845945657	0.7877720548223491	NA	NA	BOW	bound	229	lex	3_3	1	weight	5000	5000	nav	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIweight.LENGTH5000.SOCPOSall	-0.5460048408124055	0.779708922273902	NA	NA	BOW	bound	229	lex	3_3	1	weight	5000	5000	all	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.5333785249838277	0.5106873678983505	NA	NA	BOW	bound	229	lex	3_3	1	weight	FOC	154	nav	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.5230930644539111	0.5186831911649207	NA	NA	BOW	bound	229	lex	3_3	1	weight	FOC	229	all	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.5434961155694881	0.6128581495201486	NA	NA	BOW	bound	229	lex	3_3	1	selection	5000	5000	nav	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIselection.LENGTH5000.SOCPOSall	-0.502830706424753	0.6932650193923018	NA	NA	BOW	bound	229	lex	3_3	1	selection	5000	5000	all	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.4852508511660937	0.45248417128965907	NA	NA	BOW	bound	229	lex	3_3	1	selection	FOC	154	nav	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.4670058644526045	0.4424146148372791	NA	NA	BOW	bound	229	lex	3_3	1	selection	FOC	229	all	4_4	NA	206	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSnav	-0.8696649256393457	0.9839978638786626	NA	NA	BOW	bound	270	lex	3_3	1	no	5000	5000	nav	4_4	NA	216	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIno.LENGTH5000.SOCPOSall	-0.7962375999825316	1.0623022648094986	NA	NA	BOW	bound	270	lex	3_3	1	no	5000	5000	all	4_4	NA	216	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.7802017252586495	0.7396741693215911	NA	NA	BOW	bound	270	lex	3_3	1	no	FOC	181	nav	4_4	NA	216	diskwalificeren
-diskwalificeren.BOWbound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.7774247199337798	0.7594504007029333	NA	NA	BOW	bound	270	lex	3_3	1	no	FOC	270	all	4_4	NA	216	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.20804660537697012	0.9130283304424324	NA	NA	BOW	bound	346	all	3_3	1	weight	5000	5000	nav	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIweight.LENGTH5000.SOCPOSall	0.06519963993004083	0.9748040501037151	NA	NA	BOW	bound	346	all	3_3	1	weight	5000	5000	all	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSnav	0.1443385886335889	0.6842922118215383	NA	NA	BOW	bound	346	all	3_3	1	weight	FOC	154	nav	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIweight.LENGTHFOC.SOCPOSall	0.17146505585146374	0.6141660733141503	NA	NA	BOW	bound	346	all	3_3	1	weight	FOC	346	all	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.2729259599843967	0.7054355892774647	NA	NA	BOW	bound	346	all	3_3	1	selection	5000	5000	nav	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIselection.LENGTH5000.SOCPOSall	0.07910600184656448	0.8608197523404384	NA	NA	BOW	bound	346	all	3_3	1	selection	5000	5000	all	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.13198372490950083	0.45857828442588233	NA	NA	BOW	bound	346	all	3_3	1	selection	FOC	154	nav	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.2010865999292303	0.42408976432710715	NA	NA	BOW	bound	346	all	3_3	1	selection	FOC	346	all	4_4	NA	230	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIno.LENGTH5000.SOCPOSnav	0.5267894171012837	1.1724699069276048	NA	NA	BOW	bound	419	all	3_3	1	no	5000	5000	nav	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIno.LENGTH5000.SOCPOSall	0.48884303107353466	1.4999358614023028	NA	NA	BOW	bound	419	all	3_3	1	no	5000	5000	all	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.2799280250788593	0.7270929071239742	NA	NA	BOW	bound	419	all	3_3	1	no	FOC	181	nav	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWbound3all.PPMIno.LENGTHFOC.SOCPOSall	0.33716389055756996	0.6520727988752019	NA	NA	BOW	bound	419	all	3_3	1	no	FOC	419	all	4_4	NA	234	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.4275839065288036	-0.28823621279537665	NA	NA	BOW	nobound	425	lex	10_10	1	weight	5000	5000	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIweight.LENGTH5000.SOCPOSall	-1.5062073215050644	-0.4768400588625495	NA	NA	BOW	nobound	425	lex	10_10	1	weight	5000	5000	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.2620580789056273	-0.5690263253352663	NA	NA	BOW	nobound	425	lex	10_10	1	weight	FOC	296	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.2690853040717585	-0.5305235738267687	NA	NA	BOW	nobound	425	lex	10_10	1	weight	FOC	425	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.3069009441578334	-0.4236113692112111	NA	NA	BOW	nobound	425	lex	10_10	1	selection	5000	5000	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIselection.LENGTH5000.SOCPOSall	-1.4843266344196075	-0.780128152197717	NA	NA	BOW	nobound	425	lex	10_10	1	selection	5000	5000	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSnav	-1.0892273263015173	-0.7235353606877637	NA	NA	BOW	nobound	425	lex	10_10	1	selection	FOC	296	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIselection.LENGTHFOC.SOCPOSall	-1.1190793984151717	-0.7359965790180548	NA	NA	BOW	nobound	425	lex	10_10	1	selection	FOC	425	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSnav	-1.6619343134429856	-1.0014187454940586	NA	NA	BOW	nobound	936	lex	10_10	1	no	5000	5000	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIno.LENGTH5000.SOCPOSall	-1.7155963101851603	-1.4964916636573509	NA	NA	BOW	nobound	936	lex	10_10	1	no	5000	5000	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.3820271394291566	-1.2376702275263458	NA	NA	BOW	nobound	936	lex	10_10	1	no	FOC	660	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound10lex.PPMIno.LENGTHFOC.SOCPOSall	-1.4114072014455434	-1.1994901614687277	NA	NA	BOW	nobound	936	lex	10_10	1	no	FOC	936	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSnav	0.0061908618844798	-0.610005017978563	NA	NA	BOW	nobound	636	all	10_10	1	weight	5000	5000	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIweight.LENGTH5000.SOCPOSall	-0.2556648151685728	-1.0819723760698947	NA	NA	BOW	nobound	636	all	10_10	1	weight	5000	5000	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.12067875619005397	-0.9203780816745911	NA	NA	BOW	nobound	636	all	10_10	1	weight	FOC	296	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.09422290558062688	-0.8793516050120216	NA	NA	BOW	nobound	636	all	10_10	1	weight	FOC	636	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSnav	0.12694303244919714	-0.8738107053428834	NA	NA	BOW	nobound	636	all	10_10	1	selection	5000	5000	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIselection.LENGTH5000.SOCPOSall	-0.23475119579153697	-1.349834536664194	NA	NA	BOW	nobound	636	all	10_10	1	selection	5000	5000	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.054003099652708816	-0.9864481065862633	NA	NA	BOW	nobound	636	all	10_10	1	selection	FOC	296	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.042598566731700274	-1.0063467557199295	NA	NA	BOW	nobound	636	all	10_10	1	selection	FOC	636	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSnav	0.35477494208903454	-1.703629632852246	NA	NA	BOW	nobound	1373	all	10_10	1	no	5000	5000	nav	4_4	NA	238	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIno.LENGTH5000.SOCPOSall	0.23874594590947718	-2.1878853752169167	NA	NA	BOW	nobound	1373	all	10_10	1	no	5000	5000	all	4_4	NA	238	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSnav	0.07167567842104873	-1.6613841301554457	NA	NA	BOW	nobound	1373	all	10_10	1	no	FOC	660	nav	4_4	NA	238	diskwalificeren
-diskwalificeren.BOWnobound10all.PPMIno.LENGTHFOC.SOCPOSall	0.08816595586238646	-1.645361377210029	NA	NA	BOW	nobound	1373	all	10_10	1	no	FOC	1373	all	4_4	NA	238	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSnav	-1.2857597417410624	0.47562141626989	NA	NA	BOW	nobound	354	lex	5_5	1	weight	5000	5000	nav	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIweight.LENGTH5000.SOCPOSall	-1.3910276802606234	0.40384207415297885	NA	NA	BOW	nobound	354	lex	5_5	1	weight	5000	5000	all	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSnav	-1.1717569453047376	0.10674134044388366	NA	NA	BOW	nobound	354	lex	5_5	1	weight	FOC	240	nav	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIweight.LENGTHFOC.SOCPOSall	-1.1744188457503073	0.11743864654455016	NA	NA	BOW	nobound	354	lex	5_5	1	weight	FOC	354	all	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSnav	-1.0835924122066387	0.3815194884576592	NA	NA	BOW	nobound	354	lex	5_5	1	selection	5000	5000	nav	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIselection.LENGTH5000.SOCPOSall	-1.3273907874563304	0.3475891215788641	NA	NA	BOW	nobound	354	lex	5_5	1	selection	5000	5000	all	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9581234863020194	0.07003181729854253	NA	NA	BOW	nobound	354	lex	5_5	1	selection	FOC	240	nav	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.9399637849225188	0.07813831163601774	NA	NA	BOW	nobound	354	lex	5_5	1	selection	FOC	354	all	4_4	NA	228	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSnav	-1.6406353831301101	0.47337768441617245	NA	NA	BOW	nobound	502	lex	5_5	1	no	5000	5000	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIno.LENGTH5000.SOCPOSall	-1.9610929966107247	0.3683150233957724	NA	NA	BOW	nobound	502	lex	5_5	1	no	5000	5000	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSnav	-1.5327085997538274	0.05469804816090093	NA	NA	BOW	nobound	502	lex	5_5	1	no	FOC	346	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound5lex.PPMIno.LENGTHFOC.SOCPOSall	-1.5117842754091204	0.0735253922109017	NA	NA	BOW	nobound	502	lex	5_5	1	no	FOC	502	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.004589364220114489	0.1474314393299709	NA	NA	BOW	nobound	526	all	5_5	1	weight	5000	5000	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIweight.LENGTH5000.SOCPOSall	-0.300799383422481	-0.3119190396837788	NA	NA	BOW	nobound	526	all	5_5	1	weight	5000	5000	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.1320543650170768	-0.3291875909209051	NA	NA	BOW	nobound	526	all	5_5	1	weight	FOC	240	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIweight.LENGTHFOC.SOCPOSall	-0.11309987092129571	-0.2875086279100044	NA	NA	BOW	nobound	526	all	5_5	1	weight	FOC	526	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSnav	0.09114321198397418	-0.04206109091512224	NA	NA	BOW	nobound	526	all	5_5	1	selection	5000	5000	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIselection.LENGTH5000.SOCPOSall	-0.26598556789104466	-0.6189094330354706	NA	NA	BOW	nobound	526	all	5_5	1	selection	5000	5000	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.03667868901064729	-0.35354785053391913	NA	NA	BOW	nobound	526	all	5_5	1	selection	FOC	240	nav	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIselection.LENGTHFOC.SOCPOSall	0.004523079628825967	-0.36106189664499805	NA	NA	BOW	nobound	526	all	5_5	1	selection	FOC	526	all	4_4	NA	236	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSnav	0.6023489390385739	-1.039242633458048	NA	NA	BOW	nobound	755	all	5_5	1	no	5000	5000	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIno.LENGTH5000.SOCPOSall	0.6072045861686353	-1.8225750331493318	NA	NA	BOW	nobound	755	all	5_5	1	no	5000	5000	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSnav	0.11420834409818358	-1.0476670462258082	NA	NA	BOW	nobound	755	all	5_5	1	no	FOC	346	nav	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound5all.PPMIno.LENGTHFOC.SOCPOSall	0.12448971238529431	-0.9875449013976095	NA	NA	BOW	nobound	755	all	5_5	1	no	FOC	755	all	4_4	NA	237	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSnav	-0.753432631653039	0.886337792207674	NA	NA	BOW	nobound	251	lex	3_3	1	weight	5000	5000	nav	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIweight.LENGTH5000.SOCPOSall	-0.6718953546092089	0.9094325496636405	NA	NA	BOW	nobound	251	lex	3_3	1	weight	5000	5000	all	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSnav	-0.6699572081288353	0.6219031561048134	NA	NA	BOW	nobound	251	lex	3_3	1	weight	FOC	170	nav	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIweight.LENGTHFOC.SOCPOSall	-0.664675031174262	0.6500338314681032	NA	NA	BOW	nobound	251	lex	3_3	1	weight	FOC	251	all	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSnav	-0.6650114405358445	0.7390406521012625	NA	NA	BOW	nobound	251	lex	3_3	1	selection	5000	5000	nav	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIselection.LENGTH5000.SOCPOSall	-0.6510919179386221	0.8685164960237808	NA	NA	BOW	nobound	251	lex	3_3	1	selection	5000	5000	all	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSnav	-0.6062865729536774	0.5405423877586487	NA	NA	BOW	nobound	251	lex	3_3	1	selection	FOC	170	nav	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIselection.LENGTHFOC.SOCPOSall	-0.605157429865657	0.5540800771809005	NA	NA	BOW	nobound	251	lex	3_3	1	selection	FOC	251	all	4_4	NA	212	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSnav	-1.0267804475666438	1.0760556297368742	NA	NA	BOW	nobound	301	lex	3_3	1	no	5000	5000	nav	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIno.LENGTH5000.SOCPOSall	-1.0317129582428244	1.1853339370482439	NA	NA	BOW	nobound	301	lex	3_3	1	no	5000	5000	all	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSnav	-0.9305068342726932	0.8706034238159315	NA	NA	BOW	nobound	301	lex	3_3	1	no	FOC	203	nav	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWnobound3lex.PPMIno.LENGTHFOC.SOCPOSall	-0.9441315069815568	0.8972282806168763	NA	NA	BOW	nobound	301	lex	3_3	1	no	FOC	301	all	4_4	NA	222	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSnav	0.14166094454438297	1.0042824959450132	NA	NA	BOW	nobound	382	all	3_3	1	weight	5000	5000	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIweight.LENGTH5000.SOCPOSall	-0.02618960448880393	1.1092173250636541	NA	NA	BOW	nobound	382	all	3_3	1	weight	5000	5000	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSnav	0.049495847039391846	0.7826121249335	NA	NA	BOW	nobound	382	all	3_3	1	weight	FOC	170	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIweight.LENGTHFOC.SOCPOSall	0.078692426678846	0.724598234067322	NA	NA	BOW	nobound	382	all	3_3	1	weight	FOC	382	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSnav	0.18389857639574095	0.8054212842636801	NA	NA	BOW	nobound	382	all	3_3	1	selection	5000	5000	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIselection.LENGTH5000.SOCPOSall	-0.030279757702748943	1.0859276577165642	NA	NA	BOW	nobound	382	all	3_3	1	selection	5000	5000	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSnav	0.05218396276326165	0.49815065050538154	NA	NA	BOW	nobound	382	all	3_3	1	selection	FOC	170	nav	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIselection.LENGTHFOC.SOCPOSall	0.11142870778947514	0.49066843882156563	NA	NA	BOW	nobound	382	all	3_3	1	selection	FOC	382	all	4_4	NA	233	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSnav	0.4393430799817055	1.2306591502487996	NA	NA	BOW	nobound	469	all	3_3	1	no	5000	5000	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIno.LENGTH5000.SOCPOSall	0.46001702374615183	1.7361592642787431	NA	NA	BOW	nobound	469	all	3_3	1	no	5000	5000	all	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSnav	0.18507386312004914	0.8510070763749503	NA	NA	BOW	nobound	469	all	3_3	1	no	FOC	203	nav	4_4	NA	235	diskwalificeren
-diskwalificeren.BOWnobound3all.PPMIno.LENGTHFOC.SOCPOSall	0.2793365833163156	0.8517427226510251	NA	NA	BOW	nobound	469	all	3_3	1	no	FOC	469	all	4_4	NA	235	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSnav	0.8239102697398206	0.5519282558110276	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	weight	5000	5000	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIweight.LENGTH5000.SOCPOSall	0.7692605741931836	0.4815492922321579	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	weight	5000	5000	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSnav	0.8079812254892186	0.2045035822268299	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	weight	FOC	121	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIweight.LENGTHFOC.SOCPOSall	0.7378804498094127	0.20702380149763955	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	weight	FOC	296	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSnav	0.8148288424328042	0.29082891840057146	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	selection	5000	5000	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIselection.LENGTH5000.SOCPOSall	0.9362390328232064	0.28864215313317265	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	selection	5000	5000	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSnav	0.8311096184217266	0.018859284871955304	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	selection	FOC	121	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIselection.LENGTHFOC.SOCPOSall	0.7878207948256976	0.03005028591214287	selection2	NA	LEMMAPATH	bound	296	NA	NA	1	selection	FOC	296	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSnav	1.3444145652846093	-0.05276091533894293	selection2	NA	LEMMAPATH	bound	461	NA	NA	1	no	5000	5000	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIno.LENGTH5000.SOCPOSall	1.8934281887027822	-0.17782513651910492	selection2	NA	LEMMAPATH	bound	461	NA	NA	1	no	5000	5000	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSnav	1.1430070833823116	-0.20530351212341316	selection2	NA	LEMMAPATH	bound	461	NA	NA	1	no	FOC	197	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection2.PPMIno.LENGTHFOC.SOCPOSall	1.109902354604354	-0.19042970758738426	selection2	NA	LEMMAPATH	bound	461	NA	NA	1	no	FOC	461	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSnav	0.5938626739858651	0.19845247035294927	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	weight	5000	5000	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIweight.LENGTH5000.SOCPOSall	0.6088888059280471	0.03391234308668318	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	weight	5000	5000	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSnav	0.4702298715803251	-0.08206958748611502	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	weight	FOC	174	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIweight.LENGTHFOC.SOCPOSall	0.4604048647090345	-0.07113242631125397	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	weight	FOC	392	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSnav	0.6757084049501034	-0.05639014495128086	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	selection	5000	5000	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIselection.LENGTH5000.SOCPOSall	0.7914520998139861	-0.29572482079831813	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	selection	5000	5000	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSnav	0.5369574023439562	-0.25146827408788525	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	selection	FOC	174	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIselection.LENGTHFOC.SOCPOSall	0.5795318164972532	-0.24316289215099307	selection3	NA	LEMMAPATH	bound	392	NA	NA	1	selection	FOC	392	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSnav	1.3474469125548527	-0.5270300737700654	selection3	NA	LEMMAPATH	bound	682	NA	NA	1	no	5000	5000	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIno.LENGTH5000.SOCPOSall	1.7625529089703573	-0.7771159591817577	selection3	NA	LEMMAPATH	bound	682	NA	NA	1	no	5000	5000	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSnav	0.9921258549746944	-0.584563220137314	selection3	NA	LEMMAPATH	bound	682	NA	NA	1	no	FOC	315	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHselection3.PPMIno.LENGTHFOC.SOCPOSall	1.0243641381753208	-0.5800035077934549	selection3	NA	LEMMAPATH	bound	682	NA	NA	1	no	FOC	682	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	0.6757084049501034	-0.05639014495128086	weight	NA	LEMMAPATH	bound	392	NA	NA	1	selection	5000	5000	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	0.7914520998139861	-0.29572482079831813	weight	NA	LEMMAPATH	bound	392	NA	NA	1	selection	5000	5000	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	0.5369574023439562	-0.25146827408788525	weight	NA	LEMMAPATH	bound	392	NA	NA	1	selection	FOC	174	nav	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	0.5795318164972532	-0.24316289215099307	weight	NA	LEMMAPATH	bound	392	NA	NA	1	selection	FOC	392	all	4_4	NA	224	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	1.18560711736486	-0.07918756387233954	weight	NA	LEMMAPATH	bound	682	NA	NA	1	no	5000	5000	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	1.6273837802542217	-0.283943143357104	weight	NA	LEMMAPATH	bound	682	NA	NA	1	no	5000	5000	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	0.9078290703331761	-0.18828490006181048	weight	NA	LEMMAPATH	bound	682	NA	NA	1	no	FOC	315	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	0.9276420947030807	-0.20062836497757236	weight	NA	LEMMAPATH	bound	682	NA	NA	1	no	FOC	682	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	1.2869758740070019	0.38879424370863147	NA	group1	LEMMAREL	bound	165	NA	NA	1	weight	5000	5000	nav	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	1.371150589363415	0.415081858180989	NA	group1	LEMMAREL	bound	165	NA	NA	1	weight	5000	5000	all	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	1.7069231114782915	0.6262585546267222	NA	group1	LEMMAREL	bound	165	NA	NA	1	weight	FOC	51	nav	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	1.499561634644083	0.4413032696975248	NA	group1	LEMMAREL	bound	165	NA	NA	1	weight	FOC	165	all	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	1.29019189313564	0.2824674640686374	NA	group1	LEMMAREL	bound	165	NA	NA	1	selection	5000	5000	nav	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	1.4071242382002807	0.34373270458517524	NA	group1	LEMMAREL	bound	165	NA	NA	1	selection	5000	5000	all	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	1.6803336576953303	0.4659980841561251	NA	group1	LEMMAREL	bound	165	NA	NA	1	selection	FOC	51	nav	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	1.480638543894436	0.27993932338411326	NA	group1	LEMMAREL	bound	165	NA	NA	1	selection	FOC	165	all	4_4	NA	198	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	1.8216577206318967	0.2670669714334879	NA	group1	LEMMAREL	bound	231	NA	NA	1	no	5000	5000	nav	4_4	NA	215	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	2.146081323118692	0.20110455949169803	NA	group1	LEMMAREL	bound	231	NA	NA	1	no	5000	5000	all	4_4	NA	215	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	2.0198514312674516	0.3835715677127017	NA	group1	LEMMAREL	bound	231	NA	NA	1	no	FOC	69	nav	4_4	NA	215	diskwalificeren
-diskwalificeren.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	1.8837301637212953	0.1949865521504886	NA	group1	LEMMAREL	bound	231	NA	NA	1	no	FOC	231	all	4_4	NA	215	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	0.9577537609586385	0.7660170319242159	NA	group2	LEMMAREL	bound	240	NA	NA	1	weight	5000	5000	nav	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	0.8351680484384895	0.6711135527939649	NA	group2	LEMMAREL	bound	240	NA	NA	1	weight	5000	5000	all	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	0.8850628210210186	0.46873353054726274	NA	group2	LEMMAREL	bound	240	NA	NA	1	weight	FOC	101	nav	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	0.8181352723596943	0.4008811209089345	NA	group2	LEMMAREL	bound	240	NA	NA	1	weight	FOC	240	all	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	0.8889334106608254	0.5377850630022121	NA	group2	LEMMAREL	bound	240	NA	NA	1	selection	5000	5000	nav	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	0.8703741149021345	0.6175713943093047	NA	group2	LEMMAREL	bound	240	NA	NA	1	selection	5000	5000	all	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	0.8625110058342251	0.2979774217099694	NA	group2	LEMMAREL	bound	240	NA	NA	1	selection	FOC	101	nav	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	0.7703603362600382	0.23017048770587237	NA	group2	LEMMAREL	bound	240	NA	NA	1	selection	FOC	240	all	4_4	NA	223	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	1.062606433784099	0.5382009116656076	NA	group2	LEMMAREL	bound	345	NA	NA	1	no	5000	5000	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	1.4261424096066164	0.7197995072955604	NA	group2	LEMMAREL	bound	345	NA	NA	1	no	5000	5000	all	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	1.060949145200739	0.18982938941686217	NA	group2	LEMMAREL	bound	345	NA	NA	1	no	FOC	143	nav	4_4	NA	225	diskwalificeren
-diskwalificeren.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	1.0567990897790398	0.15351631516859884	NA	group2	LEMMAREL	bound	345	NA	NA	1	no	FOC	345	all	4_4	NA	225	diskwalificeren
+_model	model.x	model.y	LEMMAPATH	LEMMAREL	bound	foc_base	foc_context_words	foc_pmi	foc_pos	foc_win	soc_length	soc_pos	tokens	pam_cluster	medoid
+diskwalificeren.LEMMAPATH2.PPMIno.LENGTH5000.SOCPOSall	-1.2812216024516618	-0.12972219940671154	LEMMAPATH2	NA	NA	LEMMAPATH	461	no	NA	NA	5000	all	224	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIno.LENGTH5000.SOCPOSnav	-1.2687513989360504	-0.06190386852979623	LEMMAPATH2	NA	NA	LEMMAPATH	461	no	NA	NA	5000	nav	224	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIno.LENGTHFOC.SOCPOSall	-1.238884724035446	-0.18590359154173303	LEMMAPATH2	NA	NA	LEMMAPATH	461	no	NA	NA	FOC	all	224	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIno.LENGTHFOC.SOCPOSnav	-1.275467819408796	-0.20067177357723312	LEMMAPATH2	NA	NA	LEMMAPATH	461	no	NA	NA	FOC	nav	224	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIselection.LENGTH5000.SOCPOSall	-0.8637600721664868	0.19420287742399972	LEMMAPATH2	NA	NA	LEMMAPATH	296	selection	NA	NA	5000	all	223	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIselection.LENGTH5000.SOCPOSnav	-0.8626228786762166	0.24942055108104855	LEMMAPATH2	NA	NA	LEMMAPATH	296	selection	NA	NA	5000	nav	223	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIselection.LENGTHFOC.SOCPOSall	-0.9297730854866892	0.0697715597593212	LEMMAPATH2	NA	NA	LEMMAPATH	296	selection	NA	NA	FOC	all	223	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIselection.LENGTHFOC.SOCPOSnav	-0.9806734704974728	0.0648213160902648	LEMMAPATH2	NA	NA	LEMMAPATH	296	selection	NA	NA	FOC	nav	223	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIweight.LENGTH5000.SOCPOSall	-0.8394242431679091	0.4851970966253904	LEMMAPATH2	NA	NA	LEMMAPATH	296	weight	NA	NA	5000	all	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIweight.LENGTH5000.SOCPOSnav	-0.8530760258482925	0.5551942329161756	LEMMAPATH2	NA	NA	LEMMAPATH	296	weight	NA	NA	5000	nav	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIweight.LENGTHFOC.SOCPOSall	-0.8923480884491725	0.4033605821182519	LEMMAPATH2	NA	NA	LEMMAPATH	296	weight	NA	NA	FOC	all	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH2.PPMIweight.LENGTHFOC.SOCPOSnav	-0.9282877246835604	0.4455102182343776	LEMMAPATH2	NA	NA	LEMMAPATH	296	weight	NA	NA	FOC	nav	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIno.LENGTH5000.SOCPOSall	-1.1627240698021477	-0.583492326829929	LEMMAPATH3	NA	NA	LEMMAPATH	679	no	NA	NA	5000	all	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIno.LENGTH5000.SOCPOSnav	-1.1440183419385328	-0.5035479192050009	LEMMAPATH3	NA	NA	LEMMAPATH	679	no	NA	NA	5000	nav	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIno.LENGTHFOC.SOCPOSall	-0.9920308641468366	-0.5489887560896323	LEMMAPATH3	NA	NA	LEMMAPATH	679	no	NA	NA	FOC	all	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIno.LENGTHFOC.SOCPOSnav	-0.9559688138966532	-0.5380056658107615	LEMMAPATH3	NA	NA	LEMMAPATH	679	no	NA	NA	FOC	nav	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIselection.LENGTH5000.SOCPOSall	-0.6653395921693898	-0.12362372442645995	LEMMAPATH3	NA	NA	LEMMAPATH	389	selection	NA	NA	5000	all	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIselection.LENGTH5000.SOCPOSnav	-0.6524859996857495	-0.06001442933432256	LEMMAPATH3	NA	NA	LEMMAPATH	389	selection	NA	NA	5000	nav	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIselection.LENGTHFOC.SOCPOSall	-0.5961763233325409	-0.20214726670538863	LEMMAPATH3	NA	NA	LEMMAPATH	389	selection	NA	NA	FOC	all	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIselection.LENGTHFOC.SOCPOSnav	-0.5531275665500641	-0.2088576199537037	LEMMAPATH3	NA	NA	LEMMAPATH	389	selection	NA	NA	FOC	nav	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIweight.LENGTH5000.SOCPOSall	-0.5457712156334998	0.12699260375929333	LEMMAPATH3	NA	NA	LEMMAPATH	389	weight	NA	NA	5000	all	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIweight.LENGTH5000.SOCPOSnav	-0.5710984086423423	0.18570731555107337	LEMMAPATH3	NA	NA	LEMMAPATH	389	weight	NA	NA	5000	nav	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIweight.LENGTHFOC.SOCPOSall	-0.48912018564261	1.6801510262674283e-4	LEMMAPATH3	NA	NA	LEMMAPATH	389	weight	NA	NA	FOC	all	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATH3.PPMIweight.LENGTHFOC.SOCPOSnav	-0.48558499630703805	0.01244678033936158	LEMMAPATH3	NA	NA	LEMMAPATH	389	weight	NA	NA	FOC	nav	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSall	-1.1627240698021477	-0.5834923268299291	LEMMAPATHweight	NA	NA	LEMMAPATH	679	no	NA	NA	5000	all	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIno.LENGTH5000.SOCPOSnav	-1.1440183419402308	-0.5035479192055736	LEMMAPATHweight	NA	NA	LEMMAPATH	679	no	NA	NA	5000	nav	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSall	-0.992030864147185	-0.5489887560897653	LEMMAPATHweight	NA	NA	LEMMAPATH	679	no	NA	NA	FOC	all	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIno.LENGTHFOC.SOCPOSnav	-0.9559688138966532	-0.5380056658107615	LEMMAPATHweight	NA	NA	LEMMAPATH	679	no	NA	NA	FOC	nav	218	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall	-0.6653395921693378	-0.1236237244264571	LEMMAPATHweight	NA	NA	LEMMAPATH	389	selection	NA	NA	5000	all	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSnav	-0.652485999685748	-0.06001442933432255	LEMMAPATHweight	NA	NA	LEMMAPATH	389	selection	NA	NA	5000	nav	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSall	-0.5961763233325409	-0.20214726670538863	LEMMAPATHweight	NA	NA	LEMMAPATH	389	selection	NA	NA	FOC	all	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTHFOC.SOCPOSnav	-0.5531275665500641	-0.2088576199537037	LEMMAPATHweight	NA	NA	LEMMAPATH	389	selection	NA	NA	FOC	nav	217	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall	-0.5457712156334998	0.12699260375929336	LEMMAPATHweight	NA	NA	LEMMAPATH	389	weight	NA	NA	5000	all	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSnav	-0.5710984086423423	0.18570731555107337	LEMMAPATHweight	NA	NA	LEMMAPATH	389	weight	NA	NA	5000	nav	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSall	-0.48912018564261006	1.6801510262680805e-4	LEMMAPATHweight	NA	NA	LEMMAPATH	389	weight	NA	NA	FOC	all	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTHFOC.SOCPOSnav	-0.48558499630703805	0.01244678033936158	LEMMAPATHweight	NA	NA	LEMMAPATH	389	weight	NA	NA	FOC	nav	217	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSall	-1.9437746348385607	0.13734087652849983	NA	LEMMAREL1	NA	LEMMAREL	231	no	NA	NA	5000	all	218	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIno.LENGTH5000.SOCPOSnav	-1.9561719421282515	0.1918362999509583	NA	LEMMAREL1	NA	LEMMAREL	231	no	NA	NA	5000	nav	218	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSall	-2.166315684478293	0.1958112120993069	NA	LEMMAREL1	NA	LEMMAREL	231	no	NA	NA	FOC	all	218	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIno.LENGTHFOC.SOCPOSnav	-2.3249689224104455	0.350785016384853	NA	LEMMAREL1	NA	LEMMAREL	231	no	NA	NA	FOC	nav	218	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall	-1.4383435860396063	0.2729436854106848	NA	LEMMAREL1	NA	LEMMAREL	165	selection	NA	NA	5000	all	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSnav	-1.4452050661869416	0.2899686439304912	NA	LEMMAREL1	NA	LEMMAREL	165	selection	NA	NA	5000	nav	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSall	-1.7432325138135922	0.33853326085936297	NA	LEMMAREL1	NA	LEMMAREL	165	selection	NA	NA	FOC	all	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIselection.LENGTHFOC.SOCPOSnav	-1.922078691876335	0.5089250721058697	NA	LEMMAREL1	NA	LEMMAREL	165	selection	NA	NA	FOC	nav	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSall	-1.444955482189758	0.4358050595290626	NA	LEMMAREL1	NA	LEMMAREL	165	weight	NA	NA	5000	all	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIweight.LENGTH5000.SOCPOSnav	-1.45070607214462	0.4637080331731016	NA	LEMMAREL1	NA	LEMMAREL	165	weight	NA	NA	5000	nav	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSall	-1.7590987606956283	0.5724243683212106	NA	LEMMAREL1	NA	LEMMAREL	165	weight	NA	NA	FOC	all	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL1.PPMIweight.LENGTHFOC.SOCPOSnav	-1.9518035125447128	0.7124297321467917	NA	LEMMAREL1	NA	LEMMAREL	165	weight	NA	NA	FOC	nav	198	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSall	-1.1229031247433887	0.278650679738921	NA	LEMMAREL2	NA	LEMMAREL	345	no	NA	NA	5000	all	226	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIno.LENGTH5000.SOCPOSnav	-1.1018871484450092	0.42291246906364366	NA	LEMMAREL2	NA	LEMMAREL	345	no	NA	NA	5000	nav	226	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSall	-1.2315331014450523	0.18007371381443096	NA	LEMMAREL2	NA	LEMMAREL	345	no	NA	NA	FOC	all	226	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIno.LENGTHFOC.SOCPOSnav	-1.2204242768719242	0.22529381137759005	NA	LEMMAREL2	NA	LEMMAREL	345	no	NA	NA	FOC	nav	226	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSall	-0.9728585895266076	0.4054714144557201	NA	LEMMAREL2	NA	LEMMAREL	240	selection	NA	NA	5000	all	223	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIselection.LENGTH5000.SOCPOSnav	-0.9903808774064146	0.5010202604302959	NA	LEMMAREL2	NA	LEMMAREL	240	selection	NA	NA	5000	nav	223	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSall	-0.9888680477937108	0.291861681672854	NA	LEMMAREL2	NA	LEMMAREL	240	selection	NA	NA	FOC	all	223	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIselection.LENGTHFOC.SOCPOSnav	-1.0738127488158324	0.38392504633599783	NA	LEMMAREL2	NA	LEMMAREL	240	selection	NA	NA	FOC	nav	223	3	diskwalificeren.LEMMAREL1.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSall	-1.026044696078126	0.7157003376216154	NA	LEMMAREL2	NA	LEMMAREL	240	weight	NA	NA	5000	all	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIweight.LENGTH5000.SOCPOSnav	-1.044971353053674	0.7666430003850645	NA	LEMMAREL2	NA	LEMMAREL	240	weight	NA	NA	5000	nav	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSall	-1.0694200605373805	0.6573227950896751	NA	LEMMAREL2	NA	LEMMAREL	240	weight	NA	NA	FOC	all	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.LEMMAREL2.PPMIweight.LENGTHFOC.SOCPOSnav	-1.1072464240167623	0.7039355759361136	NA	LEMMAREL2	NA	LEMMAREL	240	weight	NA	NA	FOC	nav	223	2	diskwalificeren.LEMMAPATHweight.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIno.LENGTH5000.SOCPOSall	-0.959736390016786	-1.390883327906702	NA	NA	TRUE	BOW	996	no	all	10-10	5000	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.bound10-10all.PPMIno.LENGTH5000.SOCPOSnav	-0.9437026557168302	-1.3085997582427755	NA	NA	TRUE	BOW	996	no	all	10-10	5000	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.bound10-10all.PPMIno.LENGTHFOC.SOCPOSall	-0.7286365626950798	-1.3896751561723109	NA	NA	TRUE	BOW	996	no	all	10-10	FOC	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.bound10-10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.69702915864999	-1.3849836043327848	NA	NA	TRUE	BOW	996	no	all	10-10	FOC	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.bound10-10all.PPMIselection.LENGTH5000.SOCPOSall	-0.4156389481355143	-0.6319183341451969	NA	NA	TRUE	BOW	538	selection	all	10-10	5000	all	235	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.4141796327956298	-0.5645800605661582	NA	NA	TRUE	BOW	538	selection	all	10-10	5000	nav	235	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.3313818315174008	-0.7473195011019542	NA	NA	TRUE	BOW	538	selection	all	10-10	FOC	all	235	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.2998649236951938	-0.7450029995257952	NA	NA	TRUE	BOW	538	selection	all	10-10	FOC	nav	235	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIweight.LENGTH5000.SOCPOSall	-0.17520519070539095	-0.4401705234053572	NA	NA	TRUE	BOW	538	weight	all	10-10	5000	all	235	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIweight.LENGTH5000.SOCPOSnav	-0.18904055546765447	-0.39937018463931273	NA	NA	TRUE	BOW	538	weight	all	10-10	5000	nav	235	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIweight.LENGTHFOC.SOCPOSall	-0.14921741785756462	-0.6306714674276278	NA	NA	TRUE	BOW	538	weight	all	10-10	FOC	all	235	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.11063063691896229	-0.6908127429133909	NA	NA	TRUE	BOW	538	weight	all	10-10	FOC	nav	235	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIno.LENGTH5000.SOCPOSall	0.9765900212117103	-1.0266953846528162	NA	NA	TRUE	BOW	672	no	lex	10-10	5000	all	238	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIno.LENGTH5000.SOCPOSnav	1.0303686771197162	-0.91476646419397	NA	NA	TRUE	BOW	672	no	lex	10-10	5000	nav	238	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIno.LENGTHFOC.SOCPOSall	0.9301646493836232	-1.0790158717325833	NA	NA	TRUE	BOW	672	no	lex	10-10	FOC	all	238	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIno.LENGTHFOC.SOCPOSnav	0.9404061855955408	-1.1060184403941422	NA	NA	TRUE	BOW	672	no	lex	10-10	FOC	nav	238	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIselection.LENGTH5000.SOCPOSall	0.919302229962581	-0.3911758689708813	NA	NA	TRUE	BOW	364	selection	lex	10-10	5000	all	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIselection.LENGTH5000.SOCPOSnav	0.9849456387537212	-0.35653228961725075	NA	NA	TRUE	BOW	364	selection	lex	10-10	5000	nav	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIselection.LENGTHFOC.SOCPOSall	0.8905005942887851	-0.5551747590356466	NA	NA	TRUE	BOW	364	selection	lex	10-10	FOC	all	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.9196427616497588	-0.5722908273092502	NA	NA	TRUE	BOW	364	selection	lex	10-10	FOC	nav	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall	1.1095801744833031	-0.2998900698718989	NA	NA	TRUE	BOW	364	weight	lex	10-10	5000	all	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSnav	1.2114289800887463	-0.30507949213924507	NA	NA	TRUE	BOW	364	weight	lex	10-10	5000	nav	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIweight.LENGTHFOC.SOCPOSall	1.0783747563803996	-0.4381884549286105	NA	NA	TRUE	BOW	364	weight	lex	10-10	FOC	all	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound10-10lex.PPMIweight.LENGTHFOC.SOCPOSnav	1.108113506275561	-0.4791672532743445	NA	NA	TRUE	BOW	364	weight	lex	10-10	FOC	nav	227	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound3-3all.PPMIno.LENGTH5000.SOCPOSall	-0.39910129797142807	1.058334839656163	NA	NA	TRUE	BOW	419	no	all	3-3	5000	all	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIno.LENGTH5000.SOCPOSnav	-0.4141119287941123	1.1226762213676291	NA	NA	TRUE	BOW	419	no	all	3-3	5000	nav	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIno.LENGTHFOC.SOCPOSall	-0.32769766636616365	0.8454925699290508	NA	NA	TRUE	BOW	419	no	all	3-3	FOC	all	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIno.LENGTHFOC.SOCPOSnav	-0.25808314549754213	0.8927337939681292	NA	NA	TRUE	BOW	419	no	all	3-3	FOC	nav	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIselection.LENGTH5000.SOCPOSall	-0.20845416677542464	0.6053554590878307	NA	NA	TRUE	BOW	346	selection	all	3-3	5000	all	230	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIselection.LENGTH5000.SOCPOSnav	-0.2257361936293691	0.6526481769548983	NA	NA	TRUE	BOW	346	selection	all	3-3	5000	nav	230	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall	-0.189436209024582	0.5179576434017077	NA	NA	TRUE	BOW	346	selection	all	3-3	FOC	all	230	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.11836160792910258	0.5385480038849482	NA	NA	TRUE	BOW	346	selection	all	3-3	FOC	nav	230	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIweight.LENGTH5000.SOCPOSall	-0.13886886211825344	0.7743223015704899	NA	NA	TRUE	BOW	346	weight	all	3-3	5000	all	230	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound3-3all.PPMIweight.LENGTH5000.SOCPOSnav	-0.15303976232638686	0.8381697329223267	NA	NA	TRUE	BOW	346	weight	all	3-3	5000	nav	230	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound3-3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.14882826058073442	0.7886716700536104	NA	NA	TRUE	BOW	346	weight	all	3-3	FOC	all	230	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.10487426914347774	0.8647480522805178	NA	NA	TRUE	BOW	346	weight	all	3-3	FOC	nav	230	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIno.LENGTH5000.SOCPOSall	1.153396795351783	1.0956793652825962	NA	NA	TRUE	BOW	270	no	lex	3-3	5000	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIno.LENGTH5000.SOCPOSnav	1.1838825298725737	1.0819865678219969	NA	NA	TRUE	BOW	270	no	lex	3-3	5000	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIno.LENGTHFOC.SOCPOSall	1.078899357727182	0.9574721019207352	NA	NA	TRUE	BOW	270	no	lex	3-3	FOC	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIno.LENGTHFOC.SOCPOSnav	1.0829374821103133	0.944925913186221	NA	NA	TRUE	BOW	270	no	lex	3-3	FOC	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIselection.LENGTH5000.SOCPOSall	0.6808807523728221	0.6758472154596089	NA	NA	TRUE	BOW	229	selection	lex	3-3	5000	all	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIselection.LENGTH5000.SOCPOSnav	0.6958378226336079	0.6704099119064976	NA	NA	TRUE	BOW	229	selection	lex	3-3	5000	nav	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall	0.6105745404981681	0.5346428646173936	NA	NA	TRUE	BOW	229	selection	lex	3-3	FOC	all	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.6386365716766118	0.5431604975531383	NA	NA	TRUE	BOW	229	selection	lex	3-3	FOC	nav	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIweight.LENGTH5000.SOCPOSall	0.7484172959707286	0.7621893175716519	NA	NA	TRUE	BOW	229	weight	lex	3-3	5000	all	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIweight.LENGTH5000.SOCPOSnav	0.7552049840305564	0.7650161288401255	NA	NA	TRUE	BOW	229	weight	lex	3-3	5000	nav	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIweight.LENGTHFOC.SOCPOSall	0.6786336854237697	0.6364276040777198	NA	NA	TRUE	BOW	229	weight	lex	3-3	FOC	all	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound3-3lex.PPMIweight.LENGTHFOC.SOCPOSnav	0.697952622605454	0.6330459802515934	NA	NA	TRUE	BOW	229	weight	lex	3-3	FOC	nav	206	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5all.PPMIno.LENGTH5000.SOCPOSall	-0.6514383736645603	-0.7952971226883705	NA	NA	TRUE	BOW	637	no	all	5-5	5000	all	238	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIno.LENGTH5000.SOCPOSnav	-0.6606520035729021	-0.7295089833823477	NA	NA	TRUE	BOW	637	no	all	5-5	5000	nav	238	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIno.LENGTHFOC.SOCPOSall	-0.4625087261078587	-0.759498213184274	NA	NA	TRUE	BOW	637	no	all	5-5	FOC	all	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.459759400630914	-0.8216141528364054	NA	NA	TRUE	BOW	637	no	all	5-5	FOC	nav	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5all.PPMIselection.LENGTH5000.SOCPOSall	-0.14836870777925948	0.03336985471704442	NA	NA	TRUE	BOW	465	selection	all	5-5	5000	all	234	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIselection.LENGTH5000.SOCPOSnav	-0.13669131068425489	0.1250470027472401	NA	NA	TRUE	BOW	465	selection	all	5-5	5000	nav	234	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.12864831056170922	-0.1449092824114358	NA	NA	TRUE	BOW	465	selection	all	5-5	FOC	all	234	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.07799911443932668	-0.1568646598738176	NA	NA	TRUE	BOW	465	selection	all	5-5	FOC	nav	234	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall	-0.0279656144895291	0.1849661562806605	NA	NA	TRUE	BOW	465	weight	all	5-5	5000	all	234	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSnav	-0.0413510351784267	0.26614621257134535	NA	NA	TRUE	BOW	465	weight	all	5-5	5000	nav	234	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIweight.LENGTHFOC.SOCPOSall	0.01631373581898369	-0.00612351903540258	NA	NA	TRUE	BOW	465	weight	all	5-5	FOC	all	234	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5all.PPMIweight.LENGTHFOC.SOCPOSnav	0.0516335660033802	-0.04534577142145097	NA	NA	TRUE	BOW	465	weight	all	5-5	FOC	nav	234	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIno.LENGTH5000.SOCPOSall	1.3363286105578709	0.4372046041928672	NA	NA	TRUE	BOW	418	no	lex	5-5	5000	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIno.LENGTH5000.SOCPOSnav	1.3975626203003124	0.4341980208604526	NA	NA	TRUE	BOW	418	no	lex	5-5	5000	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIno.LENGTHFOC.SOCPOSall	1.275855412068675	0.14030410415594147	NA	NA	TRUE	BOW	418	no	lex	5-5	FOC	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIno.LENGTHFOC.SOCPOSnav	1.2694266979947388	0.08226422110252385	NA	NA	TRUE	BOW	418	no	lex	5-5	FOC	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIselection.LENGTH5000.SOCPOSall	0.9581823477736888	0.32246747159268946	NA	NA	TRUE	BOW	314	selection	lex	5-5	5000	all	222	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIselection.LENGTH5000.SOCPOSnav	0.9881995187823208	0.33423509195128076	NA	NA	TRUE	BOW	314	selection	lex	5-5	5000	nav	222	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIselection.LENGTHFOC.SOCPOSall	0.8864764017869967	0.1658924295937699	NA	NA	TRUE	BOW	314	selection	lex	5-5	FOC	all	222	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.894479905981781	0.1322860983638271	NA	NA	TRUE	BOW	314	selection	lex	5-5	FOC	nav	222	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIweight.LENGTH5000.SOCPOSall	1.1441984297595993	0.39678166611802346	NA	NA	TRUE	BOW	314	weight	lex	5-5	5000	all	222	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIweight.LENGTH5000.SOCPOSnav	1.188716002304825	0.4398400419272081	NA	NA	TRUE	BOW	314	weight	lex	5-5	5000	nav	222	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIweight.LENGTHFOC.SOCPOSall	1.1241388056609456	0.21582491062414183	NA	NA	TRUE	BOW	314	weight	lex	5-5	FOC	all	222	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.bound5-5lex.PPMIweight.LENGTHFOC.SOCPOSnav	1.1458122113561826	0.18336735073990265	NA	NA	TRUE	BOW	314	weight	lex	5-5	FOC	nav	222	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound10-10all.PPMIno.LENGTH5000.SOCPOSall	-0.40774395875673114	-1.8480210763481728	NA	NA	FALSE	BOW	1373	no	all	10-10	5000	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10all.PPMIno.LENGTH5000.SOCPOSnav	-0.41521349019037945	-1.7272704499688791	NA	NA	FALSE	BOW	1373	no	all	10-10	5000	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSall	-0.24374112786585864	-1.7508698515799974	NA	NA	FALSE	BOW	1373	no	all	10-10	FOC	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav	-0.198600096450896	-1.7513431204923569	NA	NA	FALSE	BOW	1373	no	all	10-10	FOC	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10all.PPMIselection.LENGTH5000.SOCPOSall	-0.18682676037651233	-1.0099370858684849	NA	NA	FALSE	BOW	636	selection	all	10-10	5000	all	236	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10all.PPMIselection.LENGTH5000.SOCPOSnav	-0.19348456520728305	-0.9276342514911636	NA	NA	FALSE	BOW	636	selection	all	10-10	5000	nav	236	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10all.PPMIselection.LENGTHFOC.SOCPOSall	-0.04774854775174394	-1.119846158353569	NA	NA	FALSE	BOW	636	selection	all	10-10	FOC	all	236	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.03717114435418721	-1.0955569901095277	NA	NA	FALSE	BOW	636	selection	all	10-10	FOC	nav	236	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10all.PPMIweight.LENGTH5000.SOCPOSall	0.00686432370335487	-0.775707903381704	NA	NA	FALSE	BOW	636	weight	all	10-10	5000	all	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10all.PPMIweight.LENGTH5000.SOCPOSnav	0.00624801926675458	-0.730633411204936	NA	NA	FALSE	BOW	636	weight	all	10-10	5000	nav	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10all.PPMIweight.LENGTHFOC.SOCPOSall	0.05675221252472472	-1.0499296568556853	NA	NA	FALSE	BOW	636	weight	all	10-10	FOC	all	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10all.PPMIweight.LENGTHFOC.SOCPOSnav	0.07665700285240465	-1.0974938418443771	NA	NA	FALSE	BOW	636	weight	all	10-10	FOC	nav	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIno.LENGTH5000.SOCPOSall	1.3757642690219605	-1.4337798985922086	NA	NA	FALSE	BOW	936	no	lex	10-10	5000	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10lex.PPMIno.LENGTH5000.SOCPOSnav	1.4024266345825172	-1.3102050766310804	NA	NA	FALSE	BOW	936	no	lex	10-10	5000	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10lex.PPMIno.LENGTHFOC.SOCPOSall	1.3004367493239686	-1.4341082223564217	NA	NA	FALSE	BOW	936	no	lex	10-10	FOC	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10lex.PPMIno.LENGTHFOC.SOCPOSnav	1.274620164953684	-1.4620203286125006	NA	NA	FALSE	BOW	936	no	lex	10-10	FOC	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound10-10lex.PPMIselection.LENGTH5000.SOCPOSall	1.2044707946665152	-0.7200128993154948	NA	NA	FALSE	BOW	425	selection	lex	10-10	5000	all	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIselection.LENGTH5000.SOCPOSnav	1.2446245463114662	-0.6514109535450319	NA	NA	FALSE	BOW	425	selection	lex	10-10	5000	nav	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIselection.LENGTHFOC.SOCPOSall	1.1785367045034234	-0.8713833536260132	NA	NA	FALSE	BOW	425	selection	lex	10-10	FOC	all	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIselection.LENGTHFOC.SOCPOSnav	1.1550529792154796	-0.8593881263796845	NA	NA	FALSE	BOW	425	selection	lex	10-10	FOC	nav	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIweight.LENGTH5000.SOCPOSall	1.3841227445425046	-0.5227750148795473	NA	NA	FALSE	BOW	425	weight	lex	10-10	5000	all	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIweight.LENGTH5000.SOCPOSnav	1.4740424391081168	-0.5171796848887964	NA	NA	FALSE	BOW	425	weight	lex	10-10	5000	nav	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIweight.LENGTHFOC.SOCPOSall	1.374636213078186	-0.6920706003428299	NA	NA	FALSE	BOW	425	weight	lex	10-10	FOC	all	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound10-10lex.PPMIweight.LENGTHFOC.SOCPOSnav	1.3698549045518142	-0.7445345219808966	NA	NA	FALSE	BOW	425	weight	lex	10-10	FOC	nav	233	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIno.LENGTH5000.SOCPOSall	-0.31525193199899776	1.1983290012207113	NA	NA	FALSE	BOW	469	no	all	3-3	5000	all	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIno.LENGTH5000.SOCPOSnav	-0.33381115560639524	1.193377774076757	NA	NA	FALSE	BOW	469	no	all	3-3	5000	nav	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIno.LENGTHFOC.SOCPOSall	-0.2447541059094033	1.0322755262328709	NA	NA	FALSE	BOW	469	no	all	3-3	FOC	all	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIno.LENGTHFOC.SOCPOSnav	-0.16112426528752993	1.0345736317798675	NA	NA	FALSE	BOW	469	no	all	3-3	FOC	nav	238	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIselection.LENGTH5000.SOCPOSall	-0.12707878259206046	0.6935937810500715	NA	NA	FALSE	BOW	382	selection	all	3-3	5000	all	233	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIselection.LENGTH5000.SOCPOSnav	-0.1356015924814418	0.7139230022622043	NA	NA	FALSE	BOW	382	selection	all	3-3	5000	nav	233	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIselection.LENGTHFOC.SOCPOSall	-0.10072939293194604	0.6002625634119402	NA	NA	FALSE	BOW	382	selection	all	3-3	FOC	all	233	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIselection.LENGTHFOC.SOCPOSnav	-0.03957229010839187	0.5948013489816747	NA	NA	FALSE	BOW	382	selection	all	3-3	FOC	nav	233	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIweight.LENGTH5000.SOCPOSall	-0.05584937813174193	0.8737987230292119	NA	NA	FALSE	BOW	382	weight	all	3-3	5000	all	233	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIweight.LENGTH5000.SOCPOSnav	-0.07842592738207076	0.940065312690877	NA	NA	FALSE	BOW	382	weight	all	3-3	5000	nav	233	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIweight.LENGTHFOC.SOCPOSall	-0.04226793030230851	0.9372984565578591	NA	NA	FALSE	BOW	382	weight	all	3-3	FOC	all	233	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3all.PPMIweight.LENGTHFOC.SOCPOSnav	-0.02313317589720532	0.9821608530233588	NA	NA	FALSE	BOW	382	weight	all	3-3	FOC	nav	233	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIno.LENGTH5000.SOCPOSall	1.2977537483431958	1.11812376566451	NA	NA	FALSE	BOW	301	no	lex	3-3	5000	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIno.LENGTH5000.SOCPOSnav	1.3270768105289448	1.1081341329559826	NA	NA	FALSE	BOW	301	no	lex	3-3	5000	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIno.LENGTHFOC.SOCPOSall	1.2292481945554423	1.0175052136646792	NA	NA	FALSE	BOW	301	no	lex	3-3	FOC	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIno.LENGTHFOC.SOCPOSnav	1.2269014075152451	0.9966032372626072	NA	NA	FALSE	BOW	301	no	lex	3-3	FOC	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIselection.LENGTH5000.SOCPOSall	0.8135810601588339	0.786193072699511	NA	NA	FALSE	BOW	251	selection	lex	3-3	5000	all	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIselection.LENGTH5000.SOCPOSnav	0.8342545713068934	0.7803605979437686	NA	NA	FALSE	BOW	251	selection	lex	3-3	5000	nav	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall	0.7624913383562287	0.6656404828080226	NA	NA	FALSE	BOW	251	selection	lex	3-3	FOC	all	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIselection.LENGTHFOC.SOCPOSnav	0.7755787951623632	0.6778488657233949	NA	NA	FALSE	BOW	251	selection	lex	3-3	FOC	nav	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIweight.LENGTH5000.SOCPOSall	0.8655156185243164	0.8610858688386643	NA	NA	FALSE	BOW	251	weight	lex	3-3	5000	all	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIweight.LENGTH5000.SOCPOSnav	0.8746819375532126	0.873994721377739	NA	NA	FALSE	BOW	251	weight	lex	3-3	5000	nav	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIweight.LENGTHFOC.SOCPOSall	0.8057163420888694	0.8239590760312497	NA	NA	FALSE	BOW	251	weight	lex	3-3	FOC	all	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound3-3lex.PPMIweight.LENGTHFOC.SOCPOSnav	0.8265169216926053	0.8251244253604394	NA	NA	FALSE	BOW	251	weight	lex	3-3	FOC	nav	212	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIno.LENGTH5000.SOCPOSall	-0.39048060554424313	-1.0837641101342934	NA	NA	FALSE	BOW	755	no	all	5-5	5000	all	238	1	diskwalificeren.LEMMAPATHweight.PPMIselection.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIno.LENGTH5000.SOCPOSnav	-0.4145297805908921	-0.9899226282152156	NA	NA	FALSE	BOW	755	no	all	5-5	5000	nav	238	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIno.LENGTHFOC.SOCPOSall	-0.13468769614807374	-1.0114121255153634	NA	NA	FALSE	BOW	755	no	all	5-5	FOC	all	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound5-5all.PPMIno.LENGTHFOC.SOCPOSnav	-0.13970178653178933	-1.0705504279869575	NA	NA	FALSE	BOW	755	no	all	5-5	FOC	nav	238	4	diskwalificeren.nobound10-10all.PPMIno.LENGTHFOC.SOCPOSnav
+diskwalificeren.nobound5-5all.PPMIselection.LENGTH5000.SOCPOSall	-0.09526945060813358	-0.18969438573788985	NA	NA	FALSE	BOW	526	selection	all	5-5	5000	all	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIselection.LENGTH5000.SOCPOSnav	-0.09105405578451244	-0.07491789465479542	NA	NA	FALSE	BOW	526	selection	all	5-5	5000	nav	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIselection.LENGTHFOC.SOCPOSall	-0.02191056005470884	-0.3403812054327634	NA	NA	FALSE	BOW	526	selection	all	5-5	FOC	all	236	7	diskwalificeren.bound3-3all.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIselection.LENGTHFOC.SOCPOSnav	0.01442190437088367	-0.3354781180084382	NA	NA	FALSE	BOW	526	selection	all	5-5	FOC	nav	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIweight.LENGTH5000.SOCPOSall	0.06388465036781822	0.03887235359700156	NA	NA	FALSE	BOW	526	weight	all	5-5	5000	all	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIweight.LENGTH5000.SOCPOSnav	0.03540287332384261	0.14937164183058582	NA	NA	FALSE	BOW	526	weight	all	5-5	5000	nav	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIweight.LENGTHFOC.SOCPOSall	0.12261713631170196	-0.27538914552876803	NA	NA	FALSE	BOW	526	weight	all	5-5	FOC	all	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5all.PPMIweight.LENGTHFOC.SOCPOSnav	0.1475552870290119	-0.3423740020612249	NA	NA	FALSE	BOW	526	weight	all	5-5	FOC	nav	236	5	diskwalificeren.bound5-5all.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIno.LENGTH5000.SOCPOSall	1.632886472294738	0.22457013250574928	NA	NA	FALSE	BOW	502	no	lex	5-5	5000	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIno.LENGTH5000.SOCPOSnav	1.6423026935494476	0.27196950790235164	NA	NA	FALSE	BOW	502	no	lex	5-5	5000	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIno.LENGTHFOC.SOCPOSall	1.5588015441546774	-0.0353268844643911	NA	NA	FALSE	BOW	502	no	lex	5-5	FOC	all	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIno.LENGTHFOC.SOCPOSnav	1.5836012763783494	-0.05807921140352946	NA	NA	FALSE	BOW	502	no	lex	5-5	FOC	nav	238	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIselection.LENGTH5000.SOCPOSall	1.1215649404220178	0.27702099006556963	NA	NA	FALSE	BOW	354	selection	lex	5-5	5000	all	228	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIselection.LENGTH5000.SOCPOSnav	1.162007110026799	0.30449036927271317	NA	NA	FALSE	BOW	354	selection	lex	5-5	5000	nav	228	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIselection.LENGTHFOC.SOCPOSall	1.040569489139098	0.04903291642384966	NA	NA	FALSE	BOW	354	selection	lex	5-5	FOC	all	228	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIselection.LENGTHFOC.SOCPOSnav	1.070570844223676	0.03452234893762667	NA	NA	FALSE	BOW	354	selection	lex	5-5	FOC	nav	228	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIweight.LENGTH5000.SOCPOSall	1.333184334748469	0.31284962010111433	NA	NA	FALSE	BOW	354	weight	lex	5-5	5000	all	228	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIweight.LENGTH5000.SOCPOSnav	1.386513964010407	0.3657929815116884	NA	NA	FALSE	BOW	354	weight	lex	5-5	5000	nav	228	6	diskwalificeren.bound10-10lex.PPMIweight.LENGTH5000.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIweight.LENGTHFOC.SOCPOSall	1.3301292935109714	0.0839118347505387	NA	NA	FALSE	BOW	354	weight	lex	5-5	FOC	all	228	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall
+diskwalificeren.nobound5-5lex.PPMIweight.LENGTHFOC.SOCPOSnav	1.357754490195687	0.07557879612515805	NA	NA	FALSE	BOW	354	weight	lex	5-5	FOC	nav	228	8	diskwalificeren.bound3-3lex.PPMIselection.LENGTHFOC.SOCPOSall

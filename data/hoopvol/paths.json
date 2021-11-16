@@ -1,14 +1,1 @@
-{
-  "cws": ["hoopvol.cws.tsv"],
-  "mds": ["hoopvol.mds.tsv"],
-  "medoids": ["hoopvol.medoids.tsv"],
-  "modelsdist": ["hoopvol.models.dist.tsv"],
-  "models": ["hoopvol.models.tsv"],
-  "ppmi": ["hoopvol.ppmi.tsv"],
-  "solutions": ["hoopvol.solutions.json"],
-  "tsne10": ["hoopvol.tsne.10.tsv"],
-  "tsne20": ["hoopvol.tsne.20.tsv"],
-  "tsne30": ["hoopvol.tsne.30.tsv"],
-  "tsne50": ["hoopvol.tsne.50.tsv"],
-  "variables": ["hoopvol.variables.tsv"]
-}
+{"medoids":"hoopvol.medoids.tsv","modelsdist":"hoopvol.models.dist.tsv","models":"hoopvol.models.tsv","ppmi":"hoopvol.ppmi.tsv","solutions":"hoopvol.solutions.json","tsne30cws":"hoopvol.tsne.30.cws.tsv","tsne30":"hoopvol.tsne.30.tsv","variables":"hoopvol.variables.tsv"}
