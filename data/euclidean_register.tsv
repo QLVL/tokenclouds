@@ -1,4 +1,4 @@
-type	models	stress	date	pos
+type	models	stress	date	part_of_speech
 blik	216	0.1421	2021-09-06	noun
 diskwalificeren	204	0.1895	2021-09-06	verb
 dof	204	0.1808	2021-09-06	adj
