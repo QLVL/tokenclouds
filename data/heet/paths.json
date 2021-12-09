@@ -1,1 +1,1 @@
-{"medoids":"heet.medoids.tsv","modelsdist":"heet.models.dist.tsv","models":"heet.models.tsv","ppmi":"heet.ppmi.tsv","solutions":"heet.solutions.json","tsne30cws":"heet.tsne.30.cws.tsv","tsne30":"heet.tsne.30.tsv","variables":"heet.variables.tsv"}
+{"cwsdetail":"heet.cws.detail.tsv","medoids":"heet.medoids.tsv","modelsdist":"heet.models.dist.tsv","models":"heet.models.tsv","ppmi":"heet.ppmi.tsv","solutions":"heet.solutions.json","tsne30cws":"heet.tsne.30.cws.tsv","tsne30":"heet.tsne.30.tsv","umapcws":"heet.umap.cws.tsv","umap":"heet.umap.tsv","variables":"heet.variables.tsv"}

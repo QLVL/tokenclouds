@@ -1,1 +1,1 @@
-{"medoids":"dof.medoids.tsv","modelsdist":"dof.models.dist.tsv","models":"dof.models.tsv","ppmi":"dof.ppmi.tsv","solutions":"dof.solutions.json","tsne30cws":"dof.tsne.30.cws.tsv","tsne30":"dof.tsne.30.tsv","variables":"dof.variables.tsv"}
+{"cwsdetail":"dof.cws.detail.tsv","medoids":"dof.medoids.tsv","modelsdist":"dof.models.dist.tsv","models":"dof.models.tsv","ppmi":"dof.ppmi.tsv","solutions":"dof.solutions.json","tsne30cws":"dof.tsne.30.cws.tsv","tsne30":"dof.tsne.30.tsv","umapcws":"dof.umap.cws.tsv","umap":"dof.umap.tsv","variables":"dof.variables.tsv"}

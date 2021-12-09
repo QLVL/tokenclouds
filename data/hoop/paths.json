@@ -1,1 +1,1 @@
-{"medoids":"hoop.medoids.tsv","modelsdist":"hoop.models.dist.tsv","models":"hoop.models.tsv","ppmi":"hoop.ppmi.tsv","solutions":"hoop.solutions.json","tsne30cws":"hoop.tsne.30.cws.tsv","tsne30":"hoop.tsne.30.tsv","variables":"hoop.variables.tsv"}
+{"cwsdetail":"hoop.cws.detail.tsv","medoids":"hoop.medoids.tsv","modelsdist":"hoop.models.dist.tsv","models":"hoop.models.tsv","ppmi":"hoop.ppmi.tsv","solutions":"hoop.solutions.json","tsne30cws":"hoop.tsne.30.cws.tsv","tsne30":"hoop.tsne.30.tsv","umapcws":"hoop.umap.cws.tsv","umap":"hoop.umap.tsv","variables":"hoop.variables.tsv"}

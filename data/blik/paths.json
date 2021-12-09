@@ -1,1 +1,1 @@
-{"medoids":"blik.medoids.tsv","modelsdist":"blik.models.dist.tsv","models":"blik.models.tsv","ppmi":"blik.ppmi.tsv","solutions":"blik.solutions.json","tsne30cws":"blik.tsne.30.cws.tsv","tsne30":"blik.tsne.30.tsv","variables":"blik.variables.tsv"}
+{"cwsdetail":"blik.cws.detail.tsv","medoids":"blik.medoids.tsv","modelsdist":"blik.models.dist.tsv","models":"blik.models.tsv","ppmi":"blik.ppmi.tsv","solutions":"blik.solutions.json","tsne30cws":"blik.tsne.30.cws.tsv","tsne30":"blik.tsne.30.tsv","umapcws":"blik.umap.cws.tsv","umap":"blik.umap.tsv","variables":"blik.variables.tsv"}
